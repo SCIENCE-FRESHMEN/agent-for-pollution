@@ -1,0 +1,24 @@
+{
+  "_说明": "唯一需要编辑的文件。填好下面 4 项后，双击 开始下载.cmd 即可。",
+
+  "institution_zh": "北京大学",
+  "institution_en": "Peking University",
+  "username": "在这里填你的学号/工号",
+  "password": "在这里填你的密码",
+  "email": "在这里填学校邮箱（如 2200010000@stu.pku.edu.cn）",
+
+  "_说明_queue": "要下载的清单，CSV 必须含 DOI 列。换成自己的清单时放到 data/ 下再改这里",
+  "queue": "data/missing_sweep.csv",
+
+  "_说明_chrome": "Chrome 浏览器路径，一般不用改",
+  "chrome_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+
+  "_说明_pace": "下载节奏（秒/篇）。被出版社限速时调大",
+  "pace_min": 6,
+  "pace_max": 10,
+
+  "_说明_watchdog": "连续多少篇 no-view-pdf 判定会话失效自动重登；连续多少篇限速判定冷却",
+  "block_streak_relogin": 12,
+  "fnp_streak_cooldown": 5,
+  "cooldown_minutes": 25
+}

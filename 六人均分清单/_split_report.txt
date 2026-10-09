@@ -1,0 +1,24 @@
+input data rows: 4513
+stray pdfs outside pdfs/ added to matched set: 1773
+already in pdfs: 153  (by: {'doi': 153})
+to split: 4360
+status column distribution (all rows): {'未订阅': 416, '访问不了': 4009, '下载成功': 2, '已经下载': 1, '访问不了-': 51, '成功下载': 9, '(空)': 25}
+rows marked 下载成功: 2, of which NOT in pdfs and kept: 1
+probe 10.1016/j.cub.2023.06.011: matched=doi reason='下载成功'
+probe 10.1021/acsomega.5c06829: not in CSV
+group 1: 727 rows -> C:\Users\25416\Desktop\agent for pollution\六人均分清单\手动下载任务_1号.csv
+group 2: 727 rows -> C:\Users\25416\Desktop\agent for pollution\六人均分清单\手动下载任务_2号.csv
+group 3: 727 rows -> C:\Users\25416\Desktop\agent for pollution\六人均分清单\手动下载任务_3号.csv
+group 4: 727 rows -> C:\Users\25416\Desktop\agent for pollution\六人均分清单\手动下载任务_4号.csv
+group 5: 726 rows -> C:\Users\25416\Desktop\agent for pollution\六人均分清单\手动下载任务_5号.csv
+group 6: 726 rows -> C:\Users\25416\Desktop\agent for pollution\六人均分清单\手动下载任务_6号.csv
+
+per-group summary:
+  任务1号: 727 篇 | 期刊Top3: Water Research=220; Plant Physiology and Biochemistry=36; Plant Science=21 | 失败原因: {'未订阅': 66, '访问不了-': 9, '成功下载': 1, '访问不了': 648, '(空)': 3}
+  任务2号: 727 篇 | 期刊Top3: Water Research=219; Plant Physiology and Biochemistry=36; Plant Science=21 | 失败原因: {'未订阅': 64, '访问不了-': 8, '访问不了': 652, '成功下载': 1, '(空)': 2}
+  任务3号: 727 篇 | 期刊Top3: Water Research=220; Plant Physiology and Biochemistry=37; Plant Science=21 | 失败原因: {'未订阅': 57, '访问不了-': 8, '成功下载': 2, '访问不了': 658, '(空)': 2}
+  任务4号: 727 篇 | 期刊Top3: Water Research=220; Plant Physiology and Biochemistry=37; Plant Science=21 | 失败原因: {'未订阅': 54, '访问不了-': 8, '成功下载': 2, '访问不了': 657, '(空)': 5, '已经下载': 1}
+  任务5号: 726 篇 | 期刊Top3: Water Research=221; Plant Physiology and Biochemistry=36; Plant Science=21 | 失败原因: {'未订阅': 61, '访问不了-': 8, '成功下载': 2, '访问不了': 648, '(空)': 6, '下载成功': 1}
+  任务6号: 726 篇 | 期刊Top3: Water Research=221; Plant Physiology and Biochemistry=36; Plant Science=22 | 失败原因: {'未订阅': 65, '访问不了-': 8, '成功下载': 1, '访问不了': 647, '(空)': 5}
+verify re-read total data rows: 4360 (expect 4360)
+zip snapshot: C:\Users\25416\Desktop\agent for pollution\六人均分清单\六人均分清单_快照.zip (114668 bytes)
