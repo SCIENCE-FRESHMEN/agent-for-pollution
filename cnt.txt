@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; lines=sys.stdin.read().splitlines(); print(lines[-1] if lines else 'empty')
+                      ~~~~~~~~~~~~~~^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc7 in position 1: invalid continuation byte

@@ -1,0 +1,5 @@
+CDP UP: Chrome/156.0.8063.3
+targets: 3
+ - page chrome://newtab/
+ - browser_ui chrome://omnibox-popup.top-chrome/
+ - browser_ui chrome://omnibox-popup.top-chrome/omnibox_popup_aim.html

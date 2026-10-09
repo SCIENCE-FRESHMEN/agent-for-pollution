@@ -1,0 +1,6 @@
+CDP UP: Chrome/156.0.8063.3
+targets: 4
+ - page https://www.osti.gov/servlets/purl/2467504
+ - page chrome://newtab/
+ - browser_ui chrome://omnibox-popup.top-chrome/
+ - browser_ui chrome://omnibox-popup.top-chrome/omnibox_popup_aim.html
