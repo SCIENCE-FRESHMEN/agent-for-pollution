@@ -1,6 +1,0 @@
-[seq] pending=4: ['CN102770542A', 'CN106365887A', 'CN108658243A', 'WO2005014488A1']
-[done] CN102770542A: pages=0 chars=0 open_fail:no such file: 'C:\Users\25416\Desktop\agent for pollution\pa
-[done] CN106365887A: pages=0 chars=0 open_fail:no such file: 'C:\Users\25416\Desktop\agent for pollution\pa
-[done] CN108658243A: pages=0 chars=0 open_fail:no such file: 'C:\Users\25416\Desktop\agent for pollution\pa
-[done] WO2005014488A1: pages=0 chars=0 open_fail:no such file: 'C:\Users\25416\Desktop\agent for pollution\pa
-[seq] ALL DONE

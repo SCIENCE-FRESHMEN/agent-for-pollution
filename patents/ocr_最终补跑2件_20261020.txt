@@ -1,4 +1,0 @@
-[dl] BRPI0618328A2: 14142702B sha256_match=True
-[done] CN102770542A: pages=0 chars=0 lowconf_pages=0;0s (2s)
-[done] BRPI0618328A2: pages=290 chars=418164 lowconf_pages=160;1515s (1515s)
-[final] E 项 OCR 全部补齐
