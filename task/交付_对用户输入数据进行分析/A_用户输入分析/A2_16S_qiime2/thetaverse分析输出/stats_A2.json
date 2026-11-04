@@ -1,0 +1,53 @@
+{
+  "artifacts": {
+    "table.qza": {
+      "uuid": "000b0c9f-1db7-4310-bba8-7242f458970a",
+      "semantic_type": "FeatureTable[Frequency]",
+      "data_files": [
+        "000b0c9f-1db7-4310-bba8-7242f458970a/data/feature-table.biom"
+      ],
+      "sha256": "4cd349bb2ce750ceddc95a66a0d954d3a41f87ecadea16f75df44a94532779e3",
+      "bytes": 57130
+    },
+    "taxonomy.qza": {
+      "uuid": "b66f5bb0-9ea7-477a-994c-30224bbbb1d0",
+      "semantic_type": "FeatureData[Taxonomy]",
+      "data_files": [
+        "b66f5bb0-9ea7-477a-994c-30224bbbb1d0/data/taxonomy.tsv"
+      ],
+      "sha256": "e4b6b4a89fca89db4b41f8394ec2dda899ac988cbac74bdd3b5adcd6ce7e343f",
+      "bytes": 78354
+    },
+    "rooted-tree.qza": {
+      "uuid": "e3b9f6ba-bd90-4de1-9e4e-6bf02d821658",
+      "semantic_type": "Phylogeny[Rooted]",
+      "data_files": [
+        "e3b9f6ba-bd90-4de1-9e4e-6bf02d821658/data/tree.nwk"
+      ],
+      "sha256": "b98d354bc9c2d60419273897ec8c2e55030cb37f17dd3379f4d03d3300da3328",
+      "bytes": 74687
+    }
+  },
+  "alpha_columns": [
+    "core_metrics_alpha_shannon",
+    "core_metrics_alpha_observed",
+    "core_metrics_alpha_pielou"
+  ],
+  "thetadata_shape": [
+    34,
+    770
+  ],
+  "provenance_note": "qza 内数据载荷为 QIIME 2 官方教程产物原样解包；UUID/SHA-256 见 artifacts",
+  "uns_keys": [
+    "core_metrics_alpha",
+    "core_metrics_braycurtis_pcoa_variance",
+    "core_metrics_braycurtis_pcoa_eigenvalues",
+    "core_metrics_jaccard_pcoa_variance",
+    "core_metrics_jaccard_pcoa_eigenvalues",
+    "core_metrics"
+  ],
+  "obsm_keys": [
+    "core_metrics_braycurtis_pcoa",
+    "core_metrics_jaccard_pcoa"
+  ]
+}

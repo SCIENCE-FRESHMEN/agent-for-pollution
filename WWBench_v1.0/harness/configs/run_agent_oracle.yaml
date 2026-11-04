@@ -1,0 +1,28 @@
+# 智能体模式离线校准:oracle 走工具协议(list_workdir → submit_answer),全程离线
+# 真实模型示例见 run_openai_agent.yaml 注释
+run_name: agent_oracle_calibration
+questions_csv: data/questions.csv
+output_dir: outputs
+context_mode: closed
+replicates: 2
+max_workers: 4
+temperature: 0.2
+max_tokens: 4096
+attachments_dir: data/attachments   # <qid>/** 与 _shared/** 会分发到该题工作区
+solver:
+  provider: oracle
+  agent:
+    max_steps: 30         # 每条轨迹最大工具调用轮数
+    exec_timeout: 60      # 每次 run_python 的秒级超时
+    stage_references: true  # 把题库参考文献写入工作区 references.txt 供探索
+judge:
+  provider: heuristic
+rubric:
+  pass_threshold: 0.6
+  kp_weight: 0.5
+  numeric_tolerance: 0.05   # 数值容差校验的相对容差
+filters:
+  difficulty: []
+  qtype: []
+  tag: []
+  topic: []

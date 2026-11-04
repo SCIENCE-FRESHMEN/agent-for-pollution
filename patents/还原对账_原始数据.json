@@ -1,0 +1,82 @@
+[
+  {
+    "item": "progress.json 条目数",
+    "actual": "107",
+    "expect": "预期 108（106 历史+BRPI+CN102770542A受阻记录）"
+  },
+  {
+    "item": "progress BRPI 条目",
+    "actual": "None/None/",
+    "expect": "预期 290/418164/lowconf 160"
+  },
+  {
+    "item": "progress CN102770542A 受阻记录",
+    "actual": "0/0",
+    "expect": "预期 0/0"
+  },
+  {
+    "item": "pdf/CN102770542A",
+    "actual": "15728350B sha_match=True",
+    "expect": "SHA-256 vs 下载记录"
+  },
+  {
+    "item": "pdf/CN106365887A",
+    "actual": "441272B sha_match=True",
+    "expect": "SHA-256 vs 下载记录"
+  },
+  {
+    "item": "pdf/CN108658243A",
+    "actual": "563499B sha_match=True",
+    "expect": "SHA-256 vs 下载记录"
+  },
+  {
+    "item": "pdf/WO2005014488A1",
+    "actual": "4481898B sha_match=True",
+    "expect": "SHA-256 vs 下载记录"
+  },
+  {
+    "item": "pdf/BRPI0618328A2",
+    "actual": "14142702B sha_match=True",
+    "expect": "SHA-256 vs 下载记录"
+  },
+  {
+    "item": "txt/BRPI_OCR",
+    "actual": "438684B",
+    "expect": "预期 418164B（若缺失需重 OCR 25min）"
+  },
+  {
+    "item": "txt/CN102770542A_OCR",
+    "actual": "0B",
+    "expect": "预期 0B 占位或缺失"
+  },
+  {
+    "item": "RAG/产出/环境工程专利/05_OCR文本",
+    "actual": "3 files",
+    "expect": "预期 ≥3"
+  },
+  {
+    "item": "extract_manifest.csv",
+    "actual": "13594B",
+    "expect": "存在即可"
+  },
+  {
+    "item": "ocr_todo.json",
+    "actual": "1751B",
+    "expect": "存在即可"
+  },
+  {
+    "item": "ocr_final_2patents.py",
+    "actual": "存在",
+    "expect": "脚本/日志"
+  },
+  {
+    "item": "ocr_最终补跑2件_20261020.txt",
+    "actual": "存在",
+    "expect": "脚本/日志"
+  },
+  {
+    "item": "txt/BRPI_OCR 页数行",
+    "actual": "290",
+    "expect": "预期 290"
+  }
+]

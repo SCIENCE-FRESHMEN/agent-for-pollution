@@ -1,0 +1,19 @@
+PASS  thetaverse 版本 = 0.3.0 | 0.3.0
+PASS  A V1 召回与 10-20 一致 | 0.9667
+PASS  A V1 精确率一致 
+PASS  A V2 正确/误配一致 
+PASS  A 预测数一致 
+PASS  A caller 走适配层且有记录 | pyrodigal 3.7.1 直连（0.3.0 external 断裂适配，参数与 PyrodigalBridge 一
+PASS  A FAA 非空 
+PASS  B mag exit=ok 
+PASS  B 16s exit=ok 
+PASS  B taxon exit=ok 
+PASS  B 16s ThetaData 34×770 不变 | [34, 770]
+PASS  B taxon 组装一致 
+PASS  D 对账全 PASS 
+PASS  D SQLite 完整 
+PASS  D genomes 58171 
+PASS  C 文档存在且含复验头注 
+PASS  E 三件齐全 
+
+QA done: 17 checks, 0 failed

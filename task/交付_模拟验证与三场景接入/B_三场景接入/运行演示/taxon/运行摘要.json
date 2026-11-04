@@ -1,0 +1,10 @@
+{
+  "scenario": "taxon",
+  "input": "Candidatus Scalindua brodae",
+  "pipeline": "A3→A1 (交付_剩余任务_20261020/scripts/run_A3_ncbi_mag.py)",
+  "outputs_dir": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_模拟验证与三场景接入_20261023_revised\\B_三场景接入\\运行演示\\taxon\\NCBI下载",
+  "provenance": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_模拟验证与三场景接入_20261023_revised\\B_三场景接入\\运行演示\\taxon\\NCBI下载\\provenance_A3.json",
+  "note": "NCBI 下载全链真实执行；下载后自动转 mag 场景",
+  "elapsed_seconds": 71.2,
+  "exit": "ok"
+}

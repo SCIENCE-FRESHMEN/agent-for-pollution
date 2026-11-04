@@ -1,0 +1,12 @@
+...100/754
+...200/754
+...300/754
+...400/754
+...500/754
+...600/754
+...700/754
+Traceback (most recent call last):
+  File "C:\Users\25416\Desktop\agent for pollution\qa_gen\triage_pdfs.py", line 57, in <module>
+    with open(os.path.join(r"C:\Users\25416\Desktop\agent for pollution\qa_gen"), "triage.json", "w", encoding="utf-8") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object cannot be interpreted as an integer

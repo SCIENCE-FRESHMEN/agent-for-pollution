@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "genomes 行数 == 表1 行数": true,
+    "env_conditions 行数 == 表2 行数": true,
+    "genomes 基因组唯一": true,
+    "ko_dictionary == 64": true,
+    "transport_dict == 源数据行(78含表头→77)": true,
+    "env_conditions 缺失字段为 NULL": true
+  },
+  "rows": {
+    "genomes": 58171,
+    "env_conditions": 58171,
+    "ko_dictionary": 64,
+    "transport_dict": 77
+  },
+  "elapsed_seconds": 0.9,
+  "upstream_pending": [
+    "数值丰度(CoverM/TPM)",
+    "盐度",
+    "pH",
+    "温度",
+    "地理位置",
+    "采样时间",
+    "培养条件"
+  ]
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use WWBench, please cite."
+title: WWBench: Wastewater Biological Treatment Benchmark for LLMs
+authors:
+  - family-names: WWBench
+    given-names: Contributors
+version: 1.0.1
+date-released: "2026-09-27"
+license: MIT
+notes: "v1.0.1 发布包修复:harness/data 随包同步(开箱冒烟 19/19 通过);evidence 维判分修复;文档口径对齐实测数据。"
+license: MIT

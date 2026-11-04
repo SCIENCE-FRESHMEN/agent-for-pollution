@@ -1,0 +1,23 @@
+﻿# 校准配置:oracle(回放参考答案的满分模型)+ 启发式评分,全程离线
+# 用途:验证评分体系上界(oracle 应接近满分)与报告链路,不消耗 API
+run_name: oracle_degraded50
+questions_csv: data/questions.csv
+output_dir: outputs
+context_mode: closed
+replicates: 5
+max_workers: 4
+temperature: 0.0
+max_tokens: 4096
+solver:
+  provider: oracle
+  degrade: 0.5              # 设为 0.3 可模拟"丢三落四"的部分正确答案
+judge:
+  provider: heuristic
+rubric:
+  pass_threshold: 0.6
+  kp_weight: 0.5
+filters:
+  difficulty: []
+  qtype: []
+  tag: []
+  topic: []

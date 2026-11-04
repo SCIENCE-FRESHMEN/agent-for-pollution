@@ -1,0 +1,49 @@
+rows: 52
+cols: ['question_id', '标签', '主题', '难度', '题型', 'question', 'ideal_keypoints（打分用）', 'ideal_detail（参考）', 'eval_mode', 'categories', '参考文献', '细分']
+
+== 题型 ==
+ 题型
+T1 总体耐盐化措施    30
+E 环境工程/能源     11
+T7 培养基设计       6
+T10 场景推理       2
+T5 菌株选择        2
+A 盐度-主导溶质      1
+
+== 难度 ==
+ 难度
+复杂    40
+中等    10
+简单     2
+
+== 标签 ==
+ 标签
+脱氮    50
+污泥     2
+
+== 主题 ==
+ 主题
+环境工程与能源    41
+微生物调控      10
+高盐胁迫        1
+
+== eval_mode ==
+ eval_mode
+rubric_6dims    52
+
+== 细分 ==
+ 细分
+废水生物处理    50
+其他         2
+
+== question_id ==
+ ['q-061', 'q-104', 'q-105', 'q-113', 'q-118', 'q-125', 'q-126', 'q-127', 'q-128', 'q-129', 'q-130', 'q-131', 'q-133', 'q-134', 'q-135', 'q-136', 'q-137', 'q-139', 'q-140', 'q-151', 'q-158', 'q-159', 'q-171', 'q-172', 'q-173', 'q-174', 'q-175', 'q-176', 'q-177', 'q-178', 'q-179', 'q-180', 'q-181', 'q-182', 'q-183', 'q-184', 'q-185', 'q-186', 'q-187', 'q-188', 'q-189', 'q-190', 'q-191', 'q-192', 'q-193', 'q-194', 'q-195', 'q-196', 'q-197', 'q-198', 'q-199', 'q-200']
+
+== categories uniq ==
+ - Compatible solutes, 盐度-主导溶质
+ - Anammox, Salinity acclimation, Compatible solutes, 场景推理
+ - Anammox, Compatible solutes, Bioaugmentation, 菌株选择
+ - Anammox, Salinity acclimation, Compatible solutes, 培养基设计
+ - Compatible solutes, 环境工程-脱氮
+ - Compatible solutes, 环境工程-污泥
+ - Anammox, Salinity acclimation, Compatible solutes, Bioaugmentation, 总体策略

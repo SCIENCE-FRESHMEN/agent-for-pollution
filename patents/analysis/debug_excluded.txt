@@ -1,0 +1,100 @@
+ok | BR112016029704B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      compat@: compatível como glic erol, darabitol, eritritol e manitol qu
+ok | CN109355239A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=6359 jp_kana=0 ko=0 cyr=0
+ok | CN109528628A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=12036 jp_kana=0 ko=0 cyr=0
+CHECK | CN111803422B | ENexact=False | fuzzy=False | near=False | ZH=['相容性溶质'] | lang_chars: cn=5712 jp_kana=0 ko=0 cyr=0
+CHECK | CN112545911B | ENexact=False | fuzzy=False | near=False | ZH=['相容性溶质'] | lang_chars: cn=6613 jp_kana=0 ko=0 cyr=0
+ok | CN112656709A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=7079 jp_kana=0 ko=0 cyr=0
+CHECK | CN113564090B | ENexact=False | fuzzy=False | near=False | ZH=['相容性溶质'] | lang_chars: cn=10770 jp_kana=0 ko=0 cyr=0
+ok | CN113637838A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=5741 jp_kana=0 ko=0 cyr=0
+ok | CN113652532A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=7341 jp_kana=0 ko=0 cyr=0
+ok | CN116008406B | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=4398 jp_kana=0 ko=0 cyr=0
+CHECK | CN116218928A | ENexact=False | fuzzy=False | near=False | ZH=['相容性溶质'] | lang_chars: cn=5324 jp_kana=0 ko=0 cyr=0
+CHECK | CN116987649B | ENexact=False | fuzzy=False | near=False | ZH=['相容性溶质'] | lang_chars: cn=13095 jp_kana=0 ko=0 cyr=0
+CHECK | CN116987650A | ENexact=False | fuzzy=False | near=False | ZH=['相容性溶质'] | lang_chars: cn=7179 jp_kana=0 ko=0 cyr=0
+CHECK | CN117701529A | ENexact=False | fuzzy=False | near=False | ZH=['相容性溶质'] | lang_chars: cn=10906 jp_kana=0 ko=0 cyr=0
+ok | CN118147012A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=7694 jp_kana=0 ko=0 cyr=0
+CHECK | CN119351484A | ENexact=False | fuzzy=False | near=False | ZH=['相容性溶质'] | lang_chars: cn=5006 jp_kana=0 ko=0 cyr=0
+ok | CN216005965U | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=3687 jp_kana=0 ko=0 cyr=0
+ok | DE102004007966A1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      solute@: solute. es handelt sich dabei um substanzen, die an 
+der osm
+CHECK | DE102008039734A1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      compat@: compatible ionic liquid, 1-isobutyl-3-methylimidazolium hexa
+      solute@: soluten zur lagerung und stabilisierung von 
+eukaryontischen
+ok | EP0915167B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      solute@: solute ectoin und hydroxyectoin bei der stabilisierung der e
+ok | EP1125583A1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      solute@: soluten als inhibitoren des enzymatischen abbaus von
+makromo
+ok | EP2303847B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      solute@: solute aus extremophilen mikroorganismen bilden eine bekannt
+ok | EP3482755A1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      solute@: solute, osmolyte) im intrazellulären milieu bei. verschieden
+ok | EP3806819B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      compat@: compatible » qui protège en particulier les enzymes contre l
+ok | JP2004229557A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=3579 jp_kana=4428 ko=0 cyr=0
+ok | JP2004248638A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=5612 jp_kana=9627 ko=0 cyr=0
+ok | JP2005034062A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=4521 jp_kana=4571 ko=0 cyr=0
+ok | JP2005046036A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=4424 jp_kana=6262 ko=0 cyr=0
+ok | JP2005185123A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=5606 jp_kana=8300 ko=0 cyr=0
+ok | JP2005521709A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=6092 jp_kana=10862 ko=0 cyr=0
+      compat@: compatible)である(e.a.galinski、m.stein、b.a
+m endt、m.kinder,comp
+ok | JP2006089487A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=3547 jp_kana=4843 ko=0 cyr=0
+ok | JP2006514678A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=1855 jp_kana=2805 ko=0 cyr=0
+ok | JP2007159417A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=8234 jp_kana=11184 ko=0 cyr=0
+ok | JP2008200046A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=7783 jp_kana=14354 ko=0 cyr=0
+ok | JP2008520671A5 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=10284 jp_kana=13978 ko=0 cyr=0
+ok | JP2008537734A5 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=2825 jp_kana=3708 ko=0 cyr=0
+ok | JP2009055833A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=5877 jp_kana=6883 ko=0 cyr=0
+ok | JP2009055834A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=5655 jp_kana=6356 ko=0 cyr=0
+ok | JP2009057316A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=5830 jp_kana=6762 ko=0 cyr=0
+ok | JP2010075089A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=8797 jp_kana=13895 ko=0 cyr=0
+ok | JP2012029679A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=10940 jp_kana=12755 ko=0 cyr=0
+ok | JP2013245175A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=2086 jp_kana=2624 ko=0 cyr=0
+ok | JP2015511820A5 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=1670 jp_kana=1642 ko=0 cyr=0
+ok | JP2016042869A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=8018 jp_kana=10168 ko=0 cyr=0
+ok | JP2018521129A | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=16761 jp_kana=23748 ko=0 cyr=0
+ok | JP4219928B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=6313 jp_kana=10682 ko=0 cyr=0
+ok | JP4757447B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=5106 jp_kana=5607 ko=0 cyr=0
+ok | JP4792552B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=7729 jp_kana=10665 ko=0 cyr=0
+ok | JP4815579B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=7372 jp_kana=10602 ko=0 cyr=0
+ok | JP5091867B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=6978 jp_kana=10422 ko=0 cyr=0
+ok | JP5138316B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=7472 jp_kana=10874 ko=0 cyr=0
+ok | JP5254281B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=5199 jp_kana=5614 ko=0 cyr=0
+ok | JP5552706B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=4296 jp_kana=6980 ko=0 cyr=0
+ok | JP5643823B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=7851 jp_kana=9355 ko=0 cyr=0
+ok | JP5661236B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=9885 jp_kana=15091 ko=0 cyr=0
+ok | JP5773509B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=9507 jp_kana=13993 ko=0 cyr=0
+      compat@: compatible)の溶質を含まない組成物を含むケイ酸塩の調製
+ ケイ酸カリウム(2.15m si、ph13)を、精製
+ok | JP5794529B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=5738 jp_kana=7552 ko=0 cyr=0
+ok | JP5892492B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=9990 jp_kana=13257 ko=0 cyr=0
+ok | JP5947720B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=4872 jp_kana=8895 ko=0 cyr=0
+ok | JP6180440B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=16741 jp_kana=22457 ko=0 cyr=0
+ok | JP6404109B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=1566 jp_kana=2540 ko=0 cyr=0
+ok | JP7397830B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=16251 jp_kana=21013 ko=0 cyr=0
+ok | JP7600398B2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=4688 jp_kana=5103 ko=0 cyr=0
+ok | JPWO2002005624A1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=7798 jp_kana=12398 ko=0 cyr=0
+ok | JPWO2007135958A1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=11473 jp_kana=18042 ko=0 cyr=0
+ok | KR100578461B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=15371 cyr=0
+ok | KR101085789B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=9250 cyr=0
+ok | KR101131770B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=9667 cyr=0
+ok | KR101149338B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=9228 cyr=0
+ok | KR101151238B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=9247 cyr=0
+ok | KR101264300B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=10921 cyr=0
+ok | KR101584824B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=9625 cyr=0
+ok | KR102227202B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=12323 cyr=0
+ok | KR102491094B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=18400 cyr=0
+ok | KR102513450B1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=10771 cyr=0
+ok | RO132572A2 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      compat@: compatibil care crește 
+stabilitatea proteinelor are un efec
+ok | RU2824140C1 | ENexact=False | fuzzy=False | near=False | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=28778
+CHECK | US20170166638A1 | ENexact=False | fuzzy=True | near=True | ZH=[] | lang_chars: cn=0 jp_kana=0 ko=0 cyr=0
+      compat@: compatible-solute-supported periplasmic expression of 
+ func
+      solute@: solute-supported periplasmic expression of 
+ functional reco

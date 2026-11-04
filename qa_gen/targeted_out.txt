@@ -1,0 +1,74 @@
+
+==========================================================================================
+### 10.1038/s41545-025-00549-0
+  ... t al. A novel perspective on the instability of mainstream partial nitriﬁcation: the niche differentiation of nitrifying guilds. Environ. Sci. Technol. 59, 8922–8938 (2025). 40. Xu, D. et al. A novel SAD process: match of anammox and denitriﬁcation. Water Res. 193, 116874 (2021). 41. Xu, R. H. et al. Combination of sequencing batch operation and A/O process to achieve partial mainstream anammox: p 
+
+  ... c bioreactor. Biomass Bioenergy 137, 105548 (2020). 29. Kimkes, T. E. P. & Heinemann, M. How bacteria recognise and respondto surfacecontact.FEMS Microbiol. Rev.44,106–122(2020). 30. Okabe, S. et al. Salinity tolerance and osmoadaptation strategies in four genera of anammox bacteria: Brocadia, Jettenia, Kuenenia, and Scalindua. Environ. Sci. Technol. 58, 5357–5371 (2024). 31. Gao, M. et al. Deciph 
+
+  [no hit: anammox.{0,80}(salin|salt)]
+  [no hit: glycine betaine]
+
+==========================================================================================
+### 10.1016/j.watres.2023.120824
+  ... 1 Sulphate reduction, mixed sulphide- and thiosulphate-driven Autotrophic 1 denitrification, NItrification, and Anammox integrated (SANIA) process 2 for sustainable wastewater treatment 3 Chu-Kuan Jianga, Yang-Fan Denga,b, Zou Xua, Buddhima Siriweeraa, Di Wua,c,d*, Guang-Hao Chena,b* 4 a. Department of Civil and Environmental Engineering, Water Tec 
+
+  ... ences 2 Abstract 19 This study proposes the Sulphate reduction, mixed sulphide- and thiosulphate-driven 20 Autotrophic denitrification, Nitrification, and Anammox integrated (SANIA) process for 21 sustainable treatment of mainstream wastewater after organics capture. Three moving-bed 22 biofilm reactors (MBBRs) were applied for developing sulphate 
+
+  ... mically enhanced primary treatment, CEPT) was synthesized with chemical oxygen 26 demand (COD) of 110 mg/L, sulphate of 50 mg S/L, ammonium of 30 mgN/L. The 27 feasibility of SANIA was investigated with mimic nitrifying effluent supplied in MSPDA- 28 MBBR (Period I), followed by the examination of the applicability of SANIA process with 29 N-MBBR i 
+
+  [no hit: salin]
+  ... tainable treatment of mainstream wastewater after organics capture. Three moving-bed 22 biofilm reactors (MBBRs) were applied for developing sulphate reduction (SR), mixed 23 sulphide- and thiosulphate-driven partial denitrification and anammox (MSPDA), and 24 nitrification (N), respectively. Typical mainstream wastewater after organics capture (e. 
+
+
+==========================================================================================
+### 10.1038/s41396-021-01031-8
+  ... ARTICLE Maintenance power requirements of anammox bacteria “Candidatus Brocadia sinica” and “Candidatus Scalindua sp.” Satoshi Okabe 1✉, Atsushi Kamigaito1 and Kanae Kobayashi1 © The Author(s), under exclusive licence to International Society for Microbial Ecology 2021 Little is known about the cell physiology of anammox bacteria growing at extremely low growth rates. Here, “Ca 
+
+  ... w growth rates. Here, “Candidatus Brocadia sinica” and “Candidatus Scalindua sp.” were grown in continuous anaerobic membrane bioreactors (MBRs) with complete biomass retention to determine maintenance energy (i.e., power) requirements at near-zero growth rates. After prolonged retentostat cultivations, the speciﬁc growth rates (μ) of “Ca. B. sinica” and “Ca. Scalindua sp.” dec 
+
+  ... a sp.” decreased to 0.000023 h−1 (doubling time of 1255 days) and 0.000157 h−1 (184 days), respectively. Under these near-zero growth conditions, substrate was continuously utilized to meet maintenance energy demands (me) of 6.7 ± 0.7 and 4.3 ± 0.7 kJ mole of biomass-C−1 h−1 for “Ca. B. sinica” and “Ca. Scalindua sp.”, which accorded with the theoretically predicted values of a 
+
+  ... enia caeni” (0.056 mol-biomass-C (mol of NH4 +)−1) [27], and one for “Ca. Kuenenia stuttgartiensis” (0.066 mol-biomass-C (mol of NH4 +)−1) [49], but higher than one for “Ca. Scalindua sp.” (0.030 mol-biomass-C (mol of NH4 +)−1 at 28 °C and 2.8% salinity) [34, 50]. The Y values of “Ca. Scalindua sp.” were highly dependent on salinity and in the range 0.010–0.019 mol-biomass-C (m 
+
+  ... ne for “Ca. Scalindua sp.” (0.030 mol-biomass-C (mol of NH4 +)−1 at 28 °C and 2.8% salinity) [34, 50]. The Y values of “Ca. Scalindua sp.” were highly dependent on salinity and in the range 0.010–0.019 mol-biomass-C (mol of NH4 +)−1 under low salinity conditions (≤1%) [50]. The maximum biomass yields Ymax of anammox bacteria obtained in this study are also similar to the observ 
+
+  ... “Ca. Scalindua sp.” (0.030 mol-biomass-C (mol of NH4 +)−1 at 28 °C and 2.8% salinity) [34, 50]. The Y values of “Ca. Scalindua sp.” were highly dependent on salinity and in the range 0.010–0.019 mol-biomass-C (mol of NH4 +)−1 under low salinity conditions (≤1%) [50]. The maximum biomass yields Ymax of anammox bacteria obtained in this study are also similar to the observed Y v 
+
+  ... [27], and one for “Ca. Kuenenia stuttgartiensis” (0.066 mol-biomass-C (mol of NH4 +)−1) [49], but higher than one for “Ca. Scalindua sp.” (0.030 mol-biomass-C (mol of NH4 +)−1 at 28 °C and 2.8% salinity) [34, 50]. The Y values of “Ca. Scalindua sp.” were highly dependent on salinity and in the range 0.010–0.019 mol-biomass-C (mol of NH4 +)−1 under low salinity conditions (≤1%) 
+
+  ... ss-C−1 h−1 for “Ca. B. sinica” and “Ca. Scalindua sp.”, respectively (Table 2). “Ca. B. sinica” was cultured at 37 °C and ≈0% salinity, whereas “Ca. Scalindua sp.” was cultured at 28 °C and 2.5% salinity. The higher me value for “Ca. B. sinica” could be attributed to the higher culture temperature even though the higher salinity medium was used for “Ca. Scalindua sp.”, which in 
+
+  ... , power) requirements at near-zero growth rates. After prolonged retentostat cultivations, the speciﬁc growth rates (μ) of “Ca. B. sinica” and “Ca. Scalindua sp.” decreased to 0.000023 h−1 (doubling time of 1255 days) and 0.000157 h−1 (184 days), respectively. Under these near-zero growth conditions, substrate was continuously utilized to meet maintenance energy demands (me) of 
+
+  ... ar-zero. At the end of the retentostat cultivation, μ was estimated to be 0.000023 h−1 at 144 day for “Ca. B. sinica” and 0.000157 h−1 at 100 day for “Ca. Scalindua sp.”, corresponding to a doubling time of 1255 days and 184 days, respectively. Apparently, this implies that the near-zero growing cultures (deﬁned as μ is less than 0.00019 h−1, corresponding the doubling time of 
+
+  ... rresponding to a doubling time of 1255 days and 184 days, respectively. Apparently, this implies that the near-zero growing cultures (deﬁned as μ is less than 0.00019 h−1, corresponding the doubling time of more than 150 days in this study) were obtained by decreasing the substrate availability per amount of biomass. However, it should be noted that these bacterial cultures wer 
+
+  ... s) and 0.000157 h−1 (184 days), respectively. Under these near-zero growth conditions, substrate was continuously utilized to meet maintenance energy demands (me) of 6.7 ± 0.7 and 4.3 ± 0.7 kJ mole of biomass-C−1 h−1 for “Ca. B. sinica” and “Ca. Scalindua sp.”, which accorded with the theoretically predicted values of all anaerobic microorganisms (9.7 and 4.4 kJ mole of biomass 
+
+  ... 0.7 and 4.3 ± 0.7 kJ mole of biomass-C−1 h−1 for “Ca. B. sinica” and “Ca. Scalindua sp.”, which accorded with the theoretically predicted values of all anaerobic microorganisms (9.7 and 4.4 kJ mole of biomass-C−1 h−1at 37 °C and 28 °C, respectively). These me values correspond to 13.4 × 10−15 and 8.6 × 10−15 watts cell−1 for “Ca. B. sinica” and “Ca. Scalindua sp.”, which were ﬁ 
+
+  ... ts (me) The maintenance coefﬁcients (ms) can be converted to Gibbs energy equivalent as follows [48]: me ¼ msΔGr (9) me is the biomass speciﬁc Gibbs free energy consumption for maintenance (kJ mole of biomass-C−1 h−1) and ΔGr is the available Gibbs free energy for anammox reaction (NH4 + + NO2 −→N2 + H2O) in a MBR system. In this study, the values of ΔGr in the MBR system was c 
+
+
+==========================================================================================
+### 10.1016/j.cej.2022.136712
+  ... ptation to a saline environment may induce the pre-disposition of “Ca. Scalindua” to low temperatures. Various species of “Ca. Scalindua” were reported to be adapted to low temperatures by “salt-in” strategy, and early evidence points also to one species synthesizing compatible solutes (i.e., glutamate, glutamine, proline) [54]. The freezing point of aqueous solution decreases 
+
+  ... ported to be adapted to low temperatures by “salt-in” strategy, and early evidence points also to one species synthesizing compatible solutes (i.e., glutamate, glutamine, proline) [54]. The freezing point of aqueous solution decreases at elevated content of salts or these solutes, thus appearing as another mechanism making “Ca. Scalindua” especially cold-adapted. 4.4 Ladderane 
+
+  ... oncerning the latter, marine “Ca. Scalindua” seems to have extremely beneficial predispositions towards low temperatures which is particularly relevant to municipalities using sea water for toilet flushing [63] or WWTPs accepting saline industrial wastewater; this can be realized in various set-ups [61]. Overall, our data can also be used for the design Kouba et al. Page 11 Che 
+
+  ... arious species of “Ca. Scalindua” were reported to be adapted to low temperatures by “salt-in” strategy, and early evidence points also to one species synthesizing compatible solutes (i.e., glutamate, glutamine, proline) [54]. The freezing point of aqueous solution decreases at elevated content of salts or these solutes, thus appearing as another mechanism making “Ca. Scalindua 
+
+
+==========================================================================================
+### 10.1021/acs.est.6c05759
+  ... milated by key community members, contributing to osmotic balance and enhancing resilience under high NH3 conditions. The uptake of compatible solutes represents an energetically favorable strategy compared with de novo synthesis, particularly under energy-limited conditions. This pattern points to a shared osmoadaptation mechan 
+
+  ... compatible solute, conferring high salt resistance to the producing organisms.73,74 In addition to this, the presence of an ABC- type quaternary amine transporter (ProVWX) suggests that the archaeon can mediate the high-affinity uptake of glycine-betaine from the extracellular space,75 thereby contributing to osmotic stress mit 
+
+  ... 4C); however, this incomplete expression pattern indicates a potentially limited or condition-dependent capacity for glycine-betaine production.78 In parallel, the ProVWX transport system, responsible for glycine-betaine uptake, was highly expressed in dominant taxa, such as Tepidimicrobiaceae sp. EV16, Anaerosalibacter sp. EV7 
+
+  ... ions. Compatible solute metabolism emerged as a key adaptive strategy under extreme NH3 stress. V. promii EV40 encoded the glycine-betaine biosynthetic pathway from choline (Figure 4C); however, this incomplete expression pattern indicates a potentially limited or condition-dependent capacity for glycine-betaine production.78 In 
+

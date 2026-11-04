@@ -1,0 +1,8 @@
+[00:23:57] === gene calling: GCF_000786775.1_ASM78677v1_genomic.fna
+[adapter] thetaverse.external 不可用（ImportError: cannot import name 'ExecutableNotFoundError' from 'thetaverse.core.exceptions' (C:\Users\25416\Desktop\agent for polluti），退回 pyrodigal 直连
+[00:24:07] pyrodigal 3.7.1 直连（0.3.0 external 断裂适配，参数与 PyrodigalBridge 一致） genes=4029 -> GCF_000786775.1_ASM78677v1_genomic_pyrodigal.faa
+[00:24:09] [proteome] organism_name:"GCF_000786775.1_ASM78677v1_genomic": 0 rows, try next name variant
+[00:24:09] matched UniProt accessions: 0
+[00:24:09] hits rows: 0
+[00:24:12] [受阻] 用户 MAG 本机注释 0 命中：基因预测产物已交付，KO 注释走工作站（见 上游注释_工作站执行.md）
+[00:24:12] A1 DONE (mode A, 0 hits)

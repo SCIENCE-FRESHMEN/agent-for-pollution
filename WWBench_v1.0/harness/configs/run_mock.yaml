@@ -1,0 +1,22 @@
+﻿# 冒烟测试配置:mock 求解器 + 启发式评分器,全程离线,不消耗 API
+run_name: mock_smoke
+questions_csv: data/questions.csv
+output_dir: outputs
+context_mode: closed        # closed = 纯闭卷 | with_refs = 附参考文献线索(消融)
+replicates: 5               # 每题复跑次数(BixBench 用 5)
+max_workers: 4
+temperature: 0.2
+max_tokens: 4096
+solver:
+  provider: mock            # mock | openai
+judge:
+  provider: heuristic       # heuristic | openai
+  token_hit_ratio: 0.4
+rubric:
+  pass_threshold: 0.6       # 综合分达标阈值
+  kp_weight: 0.5            # 综合分 = 0.5*要点覆盖 + 0.5*六维
+filters:                    # 可选:只评子集,如 difficulty: [复杂]
+  difficulty: []
+  qtype: []
+  tag: []
+  topic: []

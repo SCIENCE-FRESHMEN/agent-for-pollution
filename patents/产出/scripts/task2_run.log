@@ -1,0 +1,32 @@
+[Task2] non-scanned PDFs=300 already_done=0 pending=300 pages_to_scan~6356
+[Task2] 10/300 PDFs | tables=16 | 29s | last=CN109355239A
+[Task2] 20/300 PDFs | tables=20 | 41s | last=CN110461321A
+[Task2] 30/300 PDFs | tables=34 | 54s | last=CN111685305A
+[Task2] 40/300 PDFs | tables=49 | 61s | last=CN112176002A
+[Task2] 50/300 PDFs | tables=55 | 78s | last=CN113024870B
+[Task2] 60/300 PDFs | tables=59 | 104s | last=CN113637838A
+[Task2] 70/300 PDFs | tables=62 | 119s | last=CN114657163B
+[Task2] 80/300 PDFs | tables=64 | 127s | last=CN115651870A
+[Task2] 90/300 PDFs | tables=70 | 144s | last=CN116195578B
+[Task2] 100/300 PDFs | tables=71 | 149s | last=CN116769633A
+[Task2] 110/300 PDFs | tables=79 | 160s | last=CN117402867A
+[Task2] 120/300 PDFs | tables=82 | 169s | last=CN118147012A
+[Task2] 130/300 PDFs | tables=84 | 176s | last=CN119351484A
+[Task2] 140/300 PDFs | tables=88 | 189s | last=DE102008009591A1
+[Task2] 150/300 PDFs | tables=95 | 206s | last=EP0999277A1
+[Task2] 160/300 PDFs | tables=121 | 243s | last=EP3106521B1
+[Task2] 170/300 PDFs | tables=140 | 293s | last=ES2315384T3
+[Task2] 180/300 PDFs | tables=146 | 323s | last=HK40084341A
+[Task2] 190/300 PDFs | tables=146 | 336s | last=JP2007159417A
+[Task2] 200/300 PDFs | tables=146 | 347s | last=JP2013513394A
+[Task2] 210/300 PDFs | tables=146 | 361s | last=JP5091867B2
+[Task2] 220/300 PDFs | tables=146 | 371s | last=JP5956225B2
+[Task2] 230/300 PDFs | tables=146 | 388s | last=KR101085789B1
+[Task2] 240/300 PDFs | tables=162 | 414s | last=KR102513450B1
+[Task2] 250/300 PDFs | tables=162 | 444s | last=US11051464B2
+[Task2] 260/300 PDFs | tables=162 | 489s | last=US20090227523A1
+[Task2] 270/300 PDFs | tables=162 | 538s | last=US20180030482A1
+[Task2] 280/300 PDFs | tables=162 | 576s | last=US5175068A
+[Task2] 290/300 PDFs | tables=162 | 620s | last=US7516788B2
+[Task2] 300/300 PDFs | tables=162 | 664s | last=WO2014180820A2
+[Task2] DONE status=completed | table_chunks=162 | wrote 7941+162=8103 lines -> chunks_with_tables.jsonl | elapsed=664s

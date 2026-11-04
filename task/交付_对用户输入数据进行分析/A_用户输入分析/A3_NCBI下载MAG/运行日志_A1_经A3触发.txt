@@ -1,0 +1,7 @@
+[13:27:00] === gene calling: GCF_000786775.1_ASM78677v1_genomic.fna
+[13:27:09] pyrodigal(3.7.1) genes=4029 -> GCF_000786775.1_ASM78677v1_genomic_pyrodigal.faa
+[13:27:10] [proteome] organism_name:"GCF_000786775.1_ASM78677v1_genomic": 0 rows, try next name variant
+[13:27:10] matched UniProt accessions: 0
+[13:27:10] hits rows: 0
+[13:27:12] [受阻] 用户 MAG 本机注释 0 命中：基因预测产物已交付，KO 注释走工作站（见 上游注释_工作站执行.md）
+[13:27:12] A1 DONE (mode A, 0 hits)

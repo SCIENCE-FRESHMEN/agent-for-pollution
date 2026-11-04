@@ -1,0 +1,5 @@
+[13:26:56] esearch: count=1 uids=['226991']
+[13:26:57] assembly=GCF_000786775.1 name=ASM78677v1 species=Candidatus Scalindua brodae
+[13:27:00] downloaded 1227127 bytes (md5 5adf5f8e8c67...) in 2.9s
+[13:27:00] launching A1 chain in-process: --fasta C:\Users\25416\Desktop\agent for pollution\task\交付_剩余任务_20261020\A_用户输入分析\A3_NCBI下载MAG\GCF_000786775.1_ASM78677v1_genomic.fna --workdir C:\Users\25416\Desktop\agent for pollution\task\交付_剩余任务_20261020\A_用户输入分析\A3_NCBI下载MAG\thetaverse分析
+[13:27:12] A1 chain exit code: 0

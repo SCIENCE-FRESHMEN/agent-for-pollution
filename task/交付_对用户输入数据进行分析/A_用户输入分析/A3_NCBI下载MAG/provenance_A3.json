@@ -1,0 +1,28 @@
+{
+  "input_species_name": "Candidatus Scalindua brodae",
+  "steps": {
+    "esearch": {
+      "term": "Candidatus Scalindua brodae[organism] AND \"latest genbank\"[filter]",
+      "uids": [
+        "226991"
+      ],
+      "count": "1",
+      "seconds": 0.7
+    },
+    "esummary": {
+      "assemblyaccession": "GCF_000786775.1",
+      "assemblyname": "ASM78677v1",
+      "speciesname_ncbi": "Candidatus Scalindua brodae",
+      "ftppath": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/786/775/GCF_000786775.1_ASM78677v1",
+      "uid": "226991"
+    },
+    "download": {
+      "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/786/775/GCF_000786775.1_ASM78677v1/GCF_000786775.1_ASM78677v1_genomic.fna.gz",
+      "bytes_gz": 1227127,
+      "md5_gz": "5adf5f8e8c67d3bb1c1af7bb7e803bc0",
+      "bytes_fna": 4162991,
+      "seconds": 2.9,
+      "fasta": "GCF_000786775.1_ASM78677v1_genomic.fna"
+    }
+  }
+}

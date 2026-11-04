@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-10-23 00:18:56",
+  "thetaverse_version": "0.3.0（工作树）",
+  "gene_caller": "pyrodigal 3.7.1 直连（0.3.0 external 断裂适配，参数与 PyrodigalBridge 一致）",
+  "predicted": 33,
+  "V1": {
+    "matched": 29,
+    "recall": 0.9667,
+    "precision": 0.8788,
+    "missed": [
+      {
+        "gene_id": "MOCK_0006",
+        "start": 8031,
+        "end": 8828,
+        "nearby": [
+          "MOCKCONTIG1_7"
+        ]
+      }
+    ]
+  },
+  "V2": {
+    "ref_db": 3810,
+    "exact_matched": 29,
+    "correct": 29,
+    "wrong": 0,
+    "precision": 1.0
+  },
+  "V3": "状态不变：KO 真值源三路受阻与本版本无关（UniProt xref 停摆/KOfam 传输瓶颈/KEGG REST 400）"
+}

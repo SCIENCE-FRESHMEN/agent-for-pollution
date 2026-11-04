@@ -1,0 +1,95 @@
+{
+  "inputs": {
+    "氮循环KO命中行_env_ench合并.tsv": 135142525,
+    "相容性溶质转运KO命中行_含transDB注释_env_ench合并.tsv": 379245393,
+    "CompSul_Biosys_MAG_env.xlsx": 1428643,
+    "CompSul_Biosys_faa_ench.xlsx": 497155
+  },
+  "malformed_rows_count": 0,
+  "nitrogen": {
+    "rows": 552808,
+    "expected_rows": 552808,
+    "rows_match_expected": true,
+    "distinct_genomes": 56661,
+    "parse_rules": {
+      "bin": 485857,
+      "tail2": 66951
+    }
+  },
+  "transport": {
+    "rows": 1184624,
+    "expected_rows": 1184624,
+    "rows_match_expected": true,
+    "distinct_genomes": 56152,
+    "parse_rules": {
+      "bin": 1034521,
+      "tail2": 150103
+    }
+  },
+  "synth_env": {
+    "rows": 79000,
+    "sheet": "MAG_CompSul_TPM",
+    "distinct_MAGs": 31700
+  },
+  "synth_ench": {
+    "rows": 33475,
+    "sheet": "MAG_CompSul",
+    "distinct_MAGs": 9418
+  },
+  "out_table1": {
+    "path": "1_基因组清单与注释丰度统计.tsv",
+    "rows": 58171,
+    "columns": [
+      "genome_id",
+      "source_file",
+      "样品类型",
+      "研究前缀_自基因组名解析",
+      "年份token_自基因组名解析",
+      "氮循环_命中行数",
+      "氮循环_去重KO数",
+      "氮循环_过程类别数",
+      "转运_命中行数",
+      "转运_去重KO数",
+      "转运_去重转运系统数",
+      "合成_env_记录数",
+      "合成_env_去重基因数",
+      "合成_env_去重溶质数",
+      "合成_ench_记录数",
+      "合成_ench_去重基因数",
+      "合成_ench_去重溶质数",
+      "数值丰度TPM或覆盖度"
+    ]
+  },
+  "out_table2": {
+    "path": "2_环境条件信息框架.tsv",
+    "rows": 58171,
+    "columns": [
+      "genome_id",
+      "source_file",
+      "样品类型",
+      "研究前缀_自基因组名解析",
+      "年份token_自基因组名解析",
+      "盐度",
+      "pH",
+      "温度",
+      "地理位置",
+      "采样时间",
+      "培养条件",
+      "缺失说明"
+    ]
+  },
+  "totals": {
+    "distinct_genomes_union": 58171,
+    "genomes_env_only": 48410,
+    "genomes_ench_only": 9761,
+    "genomes_in_both": 0,
+    "with_nitrogen_hits": 56661,
+    "with_transport_hits": 56152,
+    "with_synth_env": 31700,
+    "with_synth_ench": 9418,
+    "sum_nit_rows_check": 552808,
+    "sum_tr_rows_check": 1184624,
+    "sum_synth_env_check": 79000,
+    "sum_synth_ench_check": 33475
+  }
+}

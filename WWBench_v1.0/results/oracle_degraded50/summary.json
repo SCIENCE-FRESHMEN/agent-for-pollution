@@ -1,0 +1,1490 @@
+{
+  "overall": {
+    "n_questions": 1142,
+    "n_questions_expected": 1142,
+    "n_questions_evaluated": 1142,
+    "n_questions_missing": 0,
+    "n_unknown_question_ids": 0,
+    "n_runs": 2284,
+    "pass_threshold": 0.6,
+    "mean_score": 0.5251,
+    "accuracy": 0.0342,
+    "stable_accuracy": 0.0342,
+    "refusal_rate": 0.0,
+    "precision_on_answered": 0.5251,
+    "keypoint_coverage": 0.5763,
+    "dim_norm": 0.474,
+    "accuracy_wilson_95": {
+      "low": 0.0274,
+      "high": 0.0424
+    },
+    "stable_accuracy_wilson_95": {
+      "low": 0.0251,
+      "high": 0.0463
+    },
+    "per_dim": {
+      "accuracy": 0.4956,
+      "completeness": 0.4956,
+      "mechanism": 0.4755,
+      "feasibility": 0.4785,
+      "evidence": 0.4229,
+      "rigor": 0.4755
+    },
+    "numeric_recall": 0.5847,
+    "n_questions_with_numbers": 2242,
+    "accuracy_vs_votes": {
+      "1": 0.0342,
+      "2": 0.0342
+    }
+  },
+  "breakdowns": {
+    "tag": [
+      {
+        "tag": "脱氮",
+        "n": 1026,
+        "mean_score": 0.5207,
+        "accuracy": 0.038,
+        "stable_accuracy": 0.038,
+        "refusal_rate": 0.0
+      },
+      {
+        "tag": "污泥",
+        "n": 80,
+        "mean_score": 0.5765,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "tag": "厌氧消化",
+        "n": 36,
+        "mean_score": 0.5355,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      }
+    ],
+    "topic": [
+      {
+        "topic": "环境工程与能源",
+        "n": 757,
+        "mean_score": 0.5135,
+        "accuracy": 0.0423,
+        "stable_accuracy": 0.0423,
+        "refusal_rate": 0.0
+      },
+      {
+        "topic": "微生物调控",
+        "n": 262,
+        "mean_score": 0.5316,
+        "accuracy": 0.0267,
+        "stable_accuracy": 0.0267,
+        "refusal_rate": 0.0
+      },
+      {
+        "topic": "高盐胁迫",
+        "n": 123,
+        "mean_score": 0.5824,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      }
+    ],
+    "difficulty": [
+      {
+        "difficulty": "复杂",
+        "n": 637,
+        "mean_score": 0.5144,
+        "accuracy": 0.0518,
+        "stable_accuracy": 0.0518,
+        "refusal_rate": 0.0
+      },
+      {
+        "difficulty": "中等",
+        "n": 441,
+        "mean_score": 0.5323,
+        "accuracy": 0.0136,
+        "stable_accuracy": 0.0136,
+        "refusal_rate": 0.0
+      },
+      {
+        "difficulty": "简单",
+        "n": 64,
+        "mean_score": 0.5815,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      }
+    ],
+    "qtype": [
+      {
+        "qtype": "T1 总体耐盐化措施",
+        "n": 442,
+        "mean_score": 0.5272,
+        "accuracy": 0.0385,
+        "stable_accuracy": 0.0385,
+        "refusal_rate": 0.0
+      },
+      {
+        "qtype": "E 环境工程/能源",
+        "n": 223,
+        "mean_score": 0.5284,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "qtype": "T7 培养基设计",
+        "n": 143,
+        "mean_score": 0.4933,
+        "accuracy": 0.042,
+        "stable_accuracy": 0.042,
+        "refusal_rate": 0.0
+      },
+      {
+        "qtype": "A 盐度-主导溶质",
+        "n": 123,
+        "mean_score": 0.5824,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "qtype": "T5 菌株选择",
+        "n": 116,
+        "mean_score": 0.5758,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "qtype": "T10 场景推理",
+        "n": 95,
+        "mean_score": 0.4191,
+        "accuracy": 0.1684,
+        "stable_accuracy": 0.1684,
+        "refusal_rate": 0.0
+      }
+    ],
+    "domain": [
+      {
+        "domain": "废水生物处理",
+        "n": 1140,
+        "mean_score": 0.525,
+        "accuracy": 0.0342,
+        "stable_accuracy": 0.0342,
+        "refusal_rate": 0.0
+      },
+      {
+        "domain": "其他",
+        "n": 2,
+        "mean_score": 0.5833,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      }
+    ],
+    "organism": [
+      {
+        "organism": "(非T1)",
+        "n": 700,
+        "mean_score": 0.5237,
+        "accuracy": 0.0314,
+        "stable_accuracy": 0.0314,
+        "refusal_rate": 0.0
+      },
+      {
+        "organism": "Anammoxoglobus",
+        "n": 103,
+        "mean_score": 0.5296,
+        "accuracy": 0.0388,
+        "stable_accuracy": 0.0388,
+        "refusal_rate": 0.0
+      },
+      {
+        "organism": "Jettenia",
+        "n": 98,
+        "mean_score": 0.5195,
+        "accuracy": 0.0306,
+        "stable_accuracy": 0.0306,
+        "refusal_rate": 0.0
+      },
+      {
+        "organism": "Kuenenia",
+        "n": 82,
+        "mean_score": 0.5199,
+        "accuracy": 0.0244,
+        "stable_accuracy": 0.0244,
+        "refusal_rate": 0.0
+      },
+      {
+        "organism": "Scalindua",
+        "n": 81,
+        "mean_score": 0.5318,
+        "accuracy": 0.0247,
+        "stable_accuracy": 0.0247,
+        "refusal_rate": 0.0
+      },
+      {
+        "organism": "Brocadia",
+        "n": 78,
+        "mean_score": 0.5369,
+        "accuracy": 0.0769,
+        "stable_accuracy": 0.0769,
+        "refusal_rate": 0.0
+      }
+    ],
+    "salt_to": [
+      {
+        "salt_to": "(非T1)",
+        "n": 700,
+        "mean_score": 0.5237,
+        "accuracy": 0.0314,
+        "stable_accuracy": 0.0314,
+        "refusal_rate": 0.0
+      },
+      {
+        "salt_to": "3%",
+        "n": 86,
+        "mean_score": 0.5256,
+        "accuracy": 0.0465,
+        "stable_accuracy": 0.0465,
+        "refusal_rate": 0.0
+      },
+      {
+        "salt_to": "5%",
+        "n": 77,
+        "mean_score": 0.5393,
+        "accuracy": 0.0519,
+        "stable_accuracy": 0.0519,
+        "refusal_rate": 0.0
+      },
+      {
+        "salt_to": "2%",
+        "n": 76,
+        "mean_score": 0.5317,
+        "accuracy": 0.0526,
+        "stable_accuracy": 0.0526,
+        "refusal_rate": 0.0
+      },
+      {
+        "salt_to": "4%",
+        "n": 69,
+        "mean_score": 0.536,
+        "accuracy": 0.058,
+        "stable_accuracy": 0.058,
+        "refusal_rate": 0.0
+      },
+      {
+        "salt_to": "6%",
+        "n": 67,
+        "mean_score": 0.5147,
+        "accuracy": 0.0149,
+        "stable_accuracy": 0.0149,
+        "refusal_rate": 0.0
+      },
+      {
+        "salt_to": "5.5%",
+        "n": 35,
+        "mean_score": 0.5055,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "salt_to": "1.5%",
+        "n": 32,
+        "mean_score": 0.5234,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      }
+    ],
+    "genome_file": [
+      {
+        "genome_file": "(非T1)",
+        "n": 700,
+        "mean_score": 0.5237,
+        "accuracy": 0.0314,
+        "stable_accuracy": 0.0314,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Jettenia-P8.fna",
+        "n": 19,
+        "mean_score": 0.5789,
+        "accuracy": 0.1579,
+        "stable_accuracy": 0.1579,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Jettenia-P5.fna",
+        "n": 19,
+        "mean_score": 0.4232,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Anammoxoglobus-P4.fna",
+        "n": 17,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Scalindua-P8.fna",
+        "n": 15,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Kuenenia-P3.fna",
+        "n": 14,
+        "mean_score": 0.5762,
+        "accuracy": 0.1429,
+        "stable_accuracy": 0.1429,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Anammoxoglobus-P7.fna",
+        "n": 14,
+        "mean_score": 0.5631,
+        "accuracy": 0.0714,
+        "stable_accuracy": 0.0714,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Kuenenia-P6.fna",
+        "n": 14,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Brocadia-P2.fna",
+        "n": 14,
+        "mean_score": 0.5631,
+        "accuracy": 0.0714,
+        "stable_accuracy": 0.0714,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Anammoxoglobus-P2.fna",
+        "n": 14,
+        "mean_score": 0.5893,
+        "accuracy": 0.2143,
+        "stable_accuracy": 0.2143,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Anammoxoglobus-P3.fna",
+        "n": 14,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Anammoxoglobus-P1.fna",
+        "n": 13,
+        "mean_score": 0.4083,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Kuenenia-P5.fna",
+        "n": 13,
+        "mean_score": 0.4083,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Jettenia-P6.fna",
+        "n": 13,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Jettenia-P4.fna",
+        "n": 13,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Anammoxoglobus-P8.fna",
+        "n": 13,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Brocadia-P7.fna",
+        "n": 12,
+        "mean_score": 0.5958,
+        "accuracy": 0.25,
+        "stable_accuracy": 0.25,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Kuenenia-P7.fna",
+        "n": 12,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Scalindua-P2.fna",
+        "n": 11,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Jettenia-P3.fna",
+        "n": 11,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Scalindua-P3.fna",
+        "n": 11,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Brocadia-P4.fna",
+        "n": 11,
+        "mean_score": 0.5833,
+        "accuracy": 0.1818,
+        "stable_accuracy": 0.1818,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Brocadia-P8.fna",
+        "n": 11,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Scalindua-P4.fna",
+        "n": 10,
+        "mean_score": 0.5867,
+        "accuracy": 0.2,
+        "stable_accuracy": 0.2,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Scalindua-P6.fna",
+        "n": 10,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Kuenenia-P4.fna",
+        "n": 9,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Scalindua-P1.fna",
+        "n": 9,
+        "mean_score": 0.4398,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Scalindua-P7.fna",
+        "n": 9,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Anammoxoglobus-P5.fna",
+        "n": 9,
+        "mean_score": 0.4398,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Kuenenia-P1.fna",
+        "n": 9,
+        "mean_score": 0.4398,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Anammoxoglobus-P6.fna",
+        "n": 9,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Jettenia-P7.fna",
+        "n": 9,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Kuenenia-P8.fna",
+        "n": 8,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Jettenia-P1.fna",
+        "n": 8,
+        "mean_score": 0.4083,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Brocadia-P5.fna",
+        "n": 8,
+        "mean_score": 0.4083,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Brocadia-P3.fna",
+        "n": 8,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Brocadia-P6.fna",
+        "n": 7,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Brocadia-P1.fna",
+        "n": 7,
+        "mean_score": 0.4083,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Jettenia-P2.fna",
+        "n": 6,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Scalindua-P5.fna",
+        "n": 6,
+        "mean_score": 0.4083,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "genome_file": "Kuenenia-P2.fna",
+        "n": 3,
+        "mean_score": 0.55,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      }
+    ],
+    "by_category": [
+      {
+        "category": "Activated sludge",
+        "n": 34,
+        "mean_score": 0.5833,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Aerobic granular sludge",
+        "n": 2,
+        "mean_score": 0.3959,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Ammonia inhibition",
+        "n": 16,
+        "mean_score": 0.5022,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Anaerobic digestion",
+        "n": 35,
+        "mean_score": 0.5341,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Anammox",
+        "n": 610,
+        "mean_score": 0.5343,
+        "accuracy": 0.0393,
+        "stable_accuracy": 0.0393,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Bioaugmentation",
+        "n": 618,
+        "mean_score": 0.5357,
+        "accuracy": 0.0275,
+        "stable_accuracy": 0.0275,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Compatible solutes",
+        "n": 922,
+        "mean_score": 0.5312,
+        "accuracy": 0.0423,
+        "stable_accuracy": 0.0423,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Denitrification",
+        "n": 19,
+        "mean_score": 0.5662,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "EPS",
+        "n": 37,
+        "mean_score": 0.5732,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Halomonas",
+        "n": 22,
+        "mean_score": 0.5,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "MBR",
+        "n": 18,
+        "mean_score": 0.5787,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Mainstream",
+        "n": 1,
+        "mean_score": 0.5,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Membrane fouling",
+        "n": 18,
+        "mean_score": 0.5787,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Methanogenesis",
+        "n": 18,
+        "mean_score": 0.5815,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "N2O mitigation",
+        "n": 18,
+        "mean_score": 0.5671,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Nitrification",
+        "n": 42,
+        "mean_score": 0.5266,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "PN/A",
+        "n": 66,
+        "mean_score": 0.4527,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Partial denitrification",
+        "n": 24,
+        "mean_score": 0.4875,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "SRB competition",
+        "n": 15,
+        "mean_score": 0.5,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Salinity acclimation",
+        "n": 699,
+        "mean_score": 0.5133,
+        "accuracy": 0.0558,
+        "stable_accuracy": 0.0558,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Salt shock",
+        "n": 33,
+        "mean_score": 0.5962,
+        "accuracy": 0.4545,
+        "stable_accuracy": 0.4545,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Sulfate",
+        "n": 15,
+        "mean_score": 0.5,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Sulfur-driven denitrification",
+        "n": 25,
+        "mean_score": 0.4893,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Temperature",
+        "n": 16,
+        "mean_score": 0.4978,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Thauera",
+        "n": 23,
+        "mean_score": 0.4909,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "Wastewater treatment",
+        "n": 35,
+        "mean_score": 0.5619,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "场景推理",
+        "n": 95,
+        "mean_score": 0.4191,
+        "accuracy": 0.1684,
+        "stable_accuracy": 0.1684,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "培养基设计",
+        "n": 143,
+        "mean_score": 0.4933,
+        "accuracy": 0.042,
+        "stable_accuracy": 0.042,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "工艺决策",
+        "n": 15,
+        "mean_score": 0.125,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "总体策略",
+        "n": 442,
+        "mean_score": 0.5272,
+        "accuracy": 0.0385,
+        "stable_accuracy": 0.0385,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "污泥处置",
+        "n": 16,
+        "mean_score": 0.5833,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "环境工程-污泥",
+        "n": 6,
+        "mean_score": 0.493,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "环境工程-能源",
+        "n": 19,
+        "mean_score": 0.561,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "环境工程-脱氮",
+        "n": 70,
+        "mean_score": 0.4323,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "盐度-主导溶质",
+        "n": 123,
+        "mean_score": 0.5824,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "经济性",
+        "n": 17,
+        "mean_score": 0.125,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      },
+      {
+        "category": "菌株选择",
+        "n": 116,
+        "mean_score": 0.5758,
+        "accuracy": 0.0,
+        "stable_accuracy": 0.0,
+        "refusal_rate": 0.0
+      }
+    ]
+  },
+  "organism_salt_interaction": [
+    {
+      "organism": "(非T1)",
+      "salt_to": "(非T1)",
+      "n": 700,
+      "mean_score": 0.5237,
+      "accuracy": 0.0314,
+      "stable_accuracy": 0.0314
+    },
+    {
+      "organism": "Anammoxoglobus",
+      "salt_to": "1.5%",
+      "n": 7,
+      "mean_score": 0.55,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Anammoxoglobus",
+      "salt_to": "2%",
+      "n": 19,
+      "mean_score": 0.5276,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Anammoxoglobus",
+      "salt_to": "3%",
+      "n": 19,
+      "mean_score": 0.5224,
+      "accuracy": 0.0526,
+      "stable_accuracy": 0.0526
+    },
+    {
+      "organism": "Anammoxoglobus",
+      "salt_to": "4%",
+      "n": 13,
+      "mean_score": 0.5455,
+      "accuracy": 0.1538,
+      "stable_accuracy": 0.1538
+    },
+    {
+      "organism": "Anammoxoglobus",
+      "salt_to": "5%",
+      "n": 25,
+      "mean_score": 0.5403,
+      "accuracy": 0.04,
+      "stable_accuracy": 0.04
+    },
+    {
+      "organism": "Anammoxoglobus",
+      "salt_to": "5.5%",
+      "n": 6,
+      "mean_score": 0.5264,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Anammoxoglobus",
+      "salt_to": "6%",
+      "n": 14,
+      "mean_score": 0.4994,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Brocadia",
+      "salt_to": "1.5%",
+      "n": 6,
+      "mean_score": 0.5264,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Brocadia",
+      "salt_to": "2%",
+      "n": 12,
+      "mean_score": 0.5687,
+      "accuracy": 0.1667,
+      "stable_accuracy": 0.1667
+    },
+    {
+      "organism": "Brocadia",
+      "salt_to": "3%",
+      "n": 17,
+      "mean_score": 0.5191,
+      "accuracy": 0.0588,
+      "stable_accuracy": 0.0588
+    },
+    {
+      "organism": "Brocadia",
+      "salt_to": "4%",
+      "n": 9,
+      "mean_score": 0.5546,
+      "accuracy": 0.1111,
+      "stable_accuracy": 0.1111
+    },
+    {
+      "organism": "Brocadia",
+      "salt_to": "5%",
+      "n": 11,
+      "mean_score": 0.5704,
+      "accuracy": 0.1818,
+      "stable_accuracy": 0.1818
+    },
+    {
+      "organism": "Brocadia",
+      "salt_to": "5.5%",
+      "n": 12,
+      "mean_score": 0.5028,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Brocadia",
+      "salt_to": "6%",
+      "n": 11,
+      "mean_score": 0.5242,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Jettenia",
+      "salt_to": "1.5%",
+      "n": 5,
+      "mean_score": 0.55,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Jettenia",
+      "salt_to": "2%",
+      "n": 10,
+      "mean_score": 0.54,
+      "accuracy": 0.1,
+      "stable_accuracy": 0.1
+    },
+    {
+      "organism": "Jettenia",
+      "salt_to": "3%",
+      "n": 17,
+      "mean_score": 0.5191,
+      "accuracy": 0.0588,
+      "stable_accuracy": 0.0588
+    },
+    {
+      "organism": "Jettenia",
+      "salt_to": "4%",
+      "n": 21,
+      "mean_score": 0.5028,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Jettenia",
+      "salt_to": "5%",
+      "n": 18,
+      "mean_score": 0.5287,
+      "accuracy": 0.0556,
+      "stable_accuracy": 0.0556
+    },
+    {
+      "organism": "Jettenia",
+      "salt_to": "5.5%",
+      "n": 10,
+      "mean_score": 0.4933,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Jettenia",
+      "salt_to": "6%",
+      "n": 17,
+      "mean_score": 0.525,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Kuenenia",
+      "salt_to": "1.5%",
+      "n": 8,
+      "mean_score": 0.4792,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Kuenenia",
+      "salt_to": "2%",
+      "n": 24,
+      "mean_score": 0.5146,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Kuenenia",
+      "salt_to": "3%",
+      "n": 16,
+      "mean_score": 0.5323,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Kuenenia",
+      "salt_to": "4%",
+      "n": 9,
+      "mean_score": 0.5704,
+      "accuracy": 0.1111,
+      "stable_accuracy": 0.1111
+    },
+    {
+      "organism": "Kuenenia",
+      "salt_to": "5%",
+      "n": 9,
+      "mean_score": 0.5185,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Kuenenia",
+      "salt_to": "5.5%",
+      "n": 4,
+      "mean_score": 0.5146,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Kuenenia",
+      "salt_to": "6%",
+      "n": 12,
+      "mean_score": 0.5062,
+      "accuracy": 0.0833,
+      "stable_accuracy": 0.0833
+    },
+    {
+      "organism": "Scalindua",
+      "salt_to": "1.5%",
+      "n": 6,
+      "mean_score": 0.5264,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Scalindua",
+      "salt_to": "2%",
+      "n": 11,
+      "mean_score": 0.528,
+      "accuracy": 0.0909,
+      "stable_accuracy": 0.0909
+    },
+    {
+      "organism": "Scalindua",
+      "salt_to": "3%",
+      "n": 17,
+      "mean_score": 0.5358,
+      "accuracy": 0.0588,
+      "stable_accuracy": 0.0588
+    },
+    {
+      "organism": "Scalindua",
+      "salt_to": "4%",
+      "n": 17,
+      "mean_score": 0.5417,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Scalindua",
+      "salt_to": "5%",
+      "n": 14,
+      "mean_score": 0.5399,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Scalindua",
+      "salt_to": "5.5%",
+      "n": 3,
+      "mean_score": 0.5028,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    },
+    {
+      "organism": "Scalindua",
+      "salt_to": "6%",
+      "n": 13,
+      "mean_score": 0.5173,
+      "accuracy": 0.0,
+      "stable_accuracy": 0.0
+    }
+  ],
+  "hardest": [
+    {
+      "question_id": "q-203",
+      "mean_score": 0.1,
+      "pass_rate": 0.0
+    },
+    {
+      "question_id": "q-207",
+      "mean_score": 0.125,
+      "pass_rate": 0.0
+    },
+    {
+      "question_id": "q-674",
+      "mean_score": 0.125,
+      "pass_rate": 0.0
+    },
+    {
+      "question_id": "q-678",
+      "mean_score": 0.125,
+      "pass_rate": 0.0
+    },
+    {
+      "question_id": "q-680",
+      "mean_score": 0.125,
+      "pass_rate": 0.0
+    },
+    {
+      "question_id": "q-684",
+      "mean_score": 0.125,
+      "pass_rate": 0.0
+    },
+    {
+      "question_id": "q-686",
+      "mean_score": 0.125,
+      "pass_rate": 0.0
+    },
+    {
+      "question_id": "q-690",
+      "mean_score": 0.125,
+      "pass_rate": 0.0
+    },
+    {
+      "question_id": "q-692",
+      "mean_score": 0.125,
+      "pass_rate": 0.0
+    },
+    {
+      "question_id": "q-696",
+      "mean_score": 0.125,
+      "pass_rate": 0.0
+    }
+  ],
+  "easiest": [
+    {
+      "question_id": "q-105",
+      "mean_score": 0.9583,
+      "pass_rate": 1.0
+    },
+    {
+      "question_id": "q-125",
+      "mean_score": 0.7333,
+      "pass_rate": 1.0
+    },
+    {
+      "question_id": "q-126",
+      "mean_score": 0.7333,
+      "pass_rate": 1.0
+    },
+    {
+      "question_id": "q-127",
+      "mean_score": 0.7333,
+      "pass_rate": 1.0
+    },
+    {
+      "question_id": "q-128",
+      "mean_score": 0.7333,
+      "pass_rate": 1.0
+    },
+    {
+      "question_id": "q-129",
+      "mean_score": 0.7333,
+      "pass_rate": 1.0
+    },
+    {
+      "question_id": "q-130",
+      "mean_score": 0.7333,
+      "pass_rate": 1.0
+    },
+    {
+      "question_id": "q-172",
+      "mean_score": 0.7333,
+      "pass_rate": 1.0
+    },
+    {
+      "question_id": "q-174",
+      "mean_score": 0.7333,
+      "pass_rate": 1.0
+    },
+    {
+      "question_id": "q-177",
+      "mean_score": 0.7333,
+      "pass_rate": 1.0
+    }
+  ],
+  "dataset_stats": {
+    "n_questions": 1142,
+    "n_keypoints": 4644,
+    "avg_keypoints_per_question": 4.07,
+    "by_tag": {
+      "脱氮": 1026,
+      "污泥": 80,
+      "厌氧消化": 36
+    },
+    "by_topic": {
+      "环境工程与能源": 757,
+      "微生物调控": 262,
+      "高盐胁迫": 123
+    },
+    "by_difficulty": {
+      "复杂": 637,
+      "中等": 441,
+      "简单": 64
+    },
+    "by_qtype": {
+      "T1 总体耐盐化措施": 442,
+      "E 环境工程/能源": 223,
+      "T7 培养基设计": 143,
+      "A 盐度-主导溶质": 123,
+      "T5 菌株选择": 116,
+      "T10 场景推理": 95
+    },
+    "eval_modes": {
+      "rubric_6dims": 1142
+    },
+    "by_organism": {
+      "(非T1)": 700,
+      "Anammoxoglobus": 103,
+      "Jettenia": 98,
+      "Kuenenia": 82,
+      "Scalindua": 81,
+      "Brocadia": 78
+    },
+    "by_salt_regime": {
+      "(非T1)": 700,
+      "1%→3%": 46,
+      "1%→5%": 42,
+      "2%→4%": 41,
+      "0.5%→3%": 40,
+      "0.5%→2%": 38,
+      "1%→2%": 38,
+      "1.5%→5.5%": 35,
+      "2.5%→5%": 35,
+      "3%→6%": 34,
+      "2%→6%": 33,
+      "0.5%→1.5%": 32,
+      "1.5%→4%": 28
+    },
+    "by_genome_file": {
+      "(非T1)": 700,
+      "Jettenia-P8.fna": 19,
+      "Jettenia-P5.fna": 19,
+      "Anammoxoglobus-P4.fna": 17,
+      "Scalindua-P8.fna": 15,
+      "Brocadia-P2.fna": 14,
+      "Kuenenia-P6.fna": 14,
+      "Anammoxoglobus-P2.fna": 14,
+      "Kuenenia-P3.fna": 14,
+      "Anammoxoglobus-P7.fna": 14,
+      "Anammoxoglobus-P3.fna": 14,
+      "Jettenia-P4.fna": 13,
+      "Anammoxoglobus-P8.fna": 13,
+      "Anammoxoglobus-P1.fna": 13,
+      "Jettenia-P6.fna": 13,
+      "Kuenenia-P5.fna": 13,
+      "Brocadia-P7.fna": 12,
+      "Kuenenia-P7.fna": 12,
+      "Jettenia-P3.fna": 11,
+      "Brocadia-P4.fna": 11,
+      "Scalindua-P2.fna": 11,
+      "Scalindua-P3.fna": 11,
+      "Brocadia-P8.fna": 11,
+      "Scalindua-P4.fna": 10,
+      "Scalindua-P6.fna": 10,
+      "Kuenenia-P1.fna": 9,
+      "Anammoxoglobus-P5.fna": 9,
+      "Scalindua-P1.fna": 9,
+      "Jettenia-P7.fna": 9,
+      "Anammoxoglobus-P6.fna": 9,
+      "Scalindua-P7.fna": 9,
+      "Kuenenia-P4.fna": 9,
+      "Kuenenia-P8.fna": 8,
+      "Brocadia-P5.fna": 8,
+      "Jettenia-P1.fna": 8,
+      "Brocadia-P3.fna": 8,
+      "Brocadia-P6.fna": 7,
+      "Brocadia-P1.fna": 7,
+      "Scalindua-P5.fna": 6,
+      "Jettenia-P2.fna": 6,
+      "Kuenenia-P2.fna": 3
+    },
+    "categories_freq": {
+      "Compatible solutes": 922,
+      "Salinity acclimation": 699,
+      "Bioaugmentation": 618,
+      "Anammox": 610,
+      "总体策略": 442,
+      "培养基设计": 143,
+      "盐度-主导溶质": 123,
+      "菌株选择": 116,
+      "场景推理": 95,
+      "环境工程-脱氮": 70,
+      "PN/A": 66,
+      "Nitrification": 42,
+      "EPS": 37,
+      "Anaerobic digestion": 35,
+      "Wastewater treatment": 35,
+      "Activated sludge": 34,
+      "Salt shock": 33,
+      "Sulfur-driven denitrification": 25,
+      "Partial denitrification": 24,
+      "Thauera": 23,
+      "Halomonas": 22,
+      "环境工程-能源": 19,
+      "Denitrification": 19,
+      "Methanogenesis": 18,
+      "Membrane fouling": 18,
+      "MBR": 18,
+      "N2O mitigation": 18,
+      "经济性": 17,
+      "Temperature": 16,
+      "Ammonia inhibition": 16,
+      "污泥处置": 16,
+      "Sulfate": 15,
+      "SRB competition": 15,
+      "工艺决策": 15,
+      "环境工程-污泥": 6,
+      "Aerobic granular sludge": 2,
+      "Mainstream": 1
+    }
+  },
+  "config": {
+    "run_name": "oracle_degraded50",
+    "questions_csv": "data/questions.csv",
+    "output_dir": "outputs",
+    "context_mode": "closed",
+    "replicates": 2,
+    "max_workers": 4,
+    "temperature": 0.0,
+    "max_tokens": 4096,
+    "solver": {
+      "provider": "oracle",
+      "degrade": 0.5
+    },
+    "judge": {
+      "provider": "heuristic"
+    },
+    "rubric": {
+      "pass_threshold": 0.6,
+      "kp_weight": 0.5
+    },
+    "filters": {
+      "difficulty": [],
+      "qtype": [],
+      "tag": [],
+      "topic": []
+    }
+  },
+  "generated_at": "2026-09-24T23:50:27"
+}

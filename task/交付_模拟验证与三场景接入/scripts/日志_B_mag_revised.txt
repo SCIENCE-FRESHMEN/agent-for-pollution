@@ -1,0 +1,11 @@
+[00:20:42] input='task\\交付_模拟验证与三场景接入_20261020\\A_模拟验证\\mock_genome.fna' -> scenario=mag
+[00:20:42] === gene calling: mock_genome.fna
+[adapter] thetaverse.external 不可用（ImportError: cannot import name 'ExecutableNotFoundError' from 'thetaverse.core.exceptions' (C:\Users\25416\Desktop\agent for polluti），退回 pyrodigal 直连
+[00:20:43] pyrodigal 3.7.1 直连（0.3.0 external 断裂适配，参数与 PyrodigalBridge 一致） genes=33 -> mock_genome_pyrodigal.faa
+[00:20:44] [proteome] organism_name:"mock_genome": 0 rows, try next name variant
+[00:20:44] matched UniProt accessions: 0
+[00:20:44] hits rows: 0
+[00:20:46] [受阻] 用户 MAG 本机注释 0 命中：基因预测产物已交付，KO 注释走工作站（见 上游注释_工作站执行.md）
+[00:20:46] A1 DONE (mode A, 0 hits)
+[00:20:46] summary -> C:\Users\25416\Desktop\agent for pollution\task\交付_模拟验证与三场景接入_20261023_revised\B_三场景接入\运行演示\mag\运行摘要.json
+[00:20:46] ENTRY DONE (mag, 4.2s)

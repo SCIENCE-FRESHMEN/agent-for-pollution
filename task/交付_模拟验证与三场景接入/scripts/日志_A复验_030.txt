@@ -1,0 +1,15 @@
+[copy] mock_genome.fna
+[copy] ground_truth.json
+[copy] ref_proteome.tsv
+[adapter] thetaverse.external 不可用（ImportError: cannot import name 'ExecutableNotFoundError' from 'thetaverse.core.exceptions' (C:\Users\25416\Desktop\agent for polluti），退回 pyrodigal 直连
+[00:18:56] pyrodigal 3.7.1 直连（0.3.0 external 断裂适配，参数与 PyrodigalBridge 一致） predicted 33
+
+新旧对照（0.2.0 10-20 vs 0.3.0 今日）:
+  预测基因数          33 -> 33
+  V1 召回          0.9667 -> 0.9667
+  V1 精确率         0.8788 -> 0.8788
+  V2 精确匹配        29 -> 29
+  V2 正确          29 -> 29
+  V2 误配          0 -> 0
+
+metrics -> validation_metrics_030.json

@@ -1,0 +1,58 @@
+{
+  "inputs": [
+    "Candidatus Brocadia sinica sp.MAG_7(GCA_013360995.1).fna",
+    "Candidatus Kuenenia stuttgartiensis sp.HKUEN01(GCA_022180985.1).fna",
+    "Candidatus Scalindua sp.AMX11(GCA_004351875.1).fna"
+  ],
+  "steps": {
+    "reference_proteins_total": 11768,
+    "proteins_with_reference_match": 0,
+    "matched_accessions": 0,
+    "matched_genes": 0,
+    "annotation_method": "UniProt参考蛋白组精确序列匹配",
+    "hit_rows": 0,
+    "blocked_note": "本机注释0命中，下游演示见 下游演示_盐湖真实命中/；工作站回传hits后用 --hits 重跑"
+  },
+  "gene_calling": [
+    {
+      "fasta": "Candidatus Brocadia sinica sp.MAG_7(GCA_013360995.1).fna",
+      "mag_id": "Candidatus Brocadia sinica sp.MAG_7(GCA_013360995.1)",
+      "contigs": 142,
+      "genome_bp": 3600580,
+      "gc_percent": 42.27,
+      "predicted_genes": 3342,
+      "gene_bp": 3059700,
+      "coding_density_percent": 84.98,
+      "proteins_faa": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_剩余任务_20261020\\A_用户输入分析\\A1_MAG_thetaverse\\Candidatus Brocadia sinica sp.MAG_7(GCA_013360995.1)_pyrodigal.faa",
+      "pyrodigal_version": "3.7.1",
+      "gene_caller": "thetaverse.external.PyrodigalBridge (pyrodigal, 进程内)"
+    },
+    {
+      "fasta": "Candidatus Kuenenia stuttgartiensis sp.HKUEN01(GCA_022180985.1).fna",
+      "mag_id": "Candidatus Kuenenia stuttgartiensis sp.HKUEN01(GCA_022180985.1)",
+      "contigs": 391,
+      "genome_bp": 4181252,
+      "gc_percent": 40.75,
+      "predicted_genes": 3836,
+      "gene_bp": 3355515,
+      "coding_density_percent": 80.25,
+      "proteins_faa": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_剩余任务_20261020\\A_用户输入分析\\A1_MAG_thetaverse\\Candidatus Kuenenia stuttgartiensis sp.HKUEN01(GCA_022180985.1)_pyrodigal.faa",
+      "pyrodigal_version": "3.7.1",
+      "gene_caller": "thetaverse.external.PyrodigalBridge (pyrodigal, 进程内)"
+    },
+    {
+      "fasta": "Candidatus Scalindua sp.AMX11(GCA_004351875.1).fna",
+      "mag_id": "Candidatus Scalindua sp.AMX11(GCA_004351875.1)",
+      "contigs": 121,
+      "genome_bp": 4593657,
+      "gc_percent": 41.05,
+      "predicted_genes": 3958,
+      "gene_bp": 3718383,
+      "coding_density_percent": 80.95,
+      "proteins_faa": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_剩余任务_20261020\\A_用户输入分析\\A1_MAG_thetaverse\\Candidatus Scalindua sp.AMX11(GCA_004351875.1)_pyrodigal.faa",
+      "pyrodigal_version": "3.7.1",
+      "gene_caller": "thetaverse.external.PyrodigalBridge (pyrodigal, 进程内)"
+    }
+  ],
+  "nitrogen_dict_size": 64
+}

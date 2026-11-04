@@ -1,0 +1,2 @@
+slides=11  canvas=13.33x7.50in
+issues: 0

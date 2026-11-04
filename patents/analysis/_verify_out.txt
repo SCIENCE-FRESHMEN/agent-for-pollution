@@ -1,0 +1,24 @@
+chunks.jsonl: 7941 lines
+  keys: ['{"chunk_id": "AU2018344462A1::front"', ' "pub": "AU2018344462A1"', ' "title": "Improved yield in plants by overexpressing a trehalose-6 phosphate synthase"', ' "assignee": "Biogemma"', ' "country": "AU"', ' "priority": "2017-10-05"', ' "filing": "2018-10-04"', ' "publication": "2020-04-30"', ' "inventor": "Elise Redondo"', ' "themes": ["溶质生产/发酵/酶法"', ' "农业/植物抗逆"', ' "食品/饲料/防腐"]', ' "solutes": ["trehalose"]', ' "ipc_cpc": []', ' "sha256_pdf": "b8ee3d9cf27b3c1d003c069de6f2d9786fa6f1553e5b48b1bd52c892931a82c0"', ' "compliance_criterion": "EN完整词组命中"']
+chunks_with_tables.jsonl: 8103 lines
+  keys: ['{"chunk_id": "AU2018344462A1::front"', ' "pub": "AU2018344462A1"', ' "title": "Improved yield in plants by overexpressing a trehalose-6 phosphate synthase"', ' "assignee": "Biogemma"', ' "country": "AU"', ' "priority": "2017-10-05"', ' "filing": "2018-10-04"', ' "publication": "2020-04-30"', ' "inventor": "Elise Redondo"', ' "themes": ["溶质生产/发酵/酶法"', ' "农业/植物抗逆"', ' "食品/饲料/防腐"]', ' "solutes": ["trehalose"]', ' "ipc_cpc": []', ' "sha256_pdf": "b8ee3d9cf27b3c1d003c069de6f2d9786fa6f1553e5b48b1bd52c892931a82c0"', ' "compliance_criterion": "EN完整词组命中"']
+theme_digest_chunks.jsonl: 8 lines
+  keys: ['{"chunk_id": "THEME::溶质生产/发酵/酶法"', ' "pub": "THEME-INDEX"', ' "title": "主题索引:溶质生产/发酵/酶法"', ' "info_class": "【主题索引】按专利个体著录事实汇编"', ' "primary_theme": "溶质生产/发酵/酶法"', ' "members": ["CN119120536B"', ' "CN119855497A"', ' "CN116987649B"', ' "CN119372266A"', ' "CN119351484A"', ' "CN119193727A"', ' "CN116008406B"', ' "CN118956708A"', ' "CN118791434A"', ' "EP4438736A1"', ' "CN118599801A"']
+formulation_database.csv: 1953 data rows
+  cols: ['record_id', 'patent_id', 'chunk_id', 'section', 'info_class', 'solute_type', 'application_scenario', 'concentration_ratio', 'quantitative_effect', 'evidence_snippet', 'extraction_method', 'source_pdf']
+graph_nodes.csv: 424 data rows
+  cols: ['node_id', 'node_type', 'name', 'metadata_json']
+graph_edges.csv: 1009 data rows
+  cols: ['source_id', 'target_id', 'relation_type', 'evidence']
+metadata_index.csv: 227 data rows
+  cols: ['pub', 'title', 'assignee', 'country', 'priority', 'filing', 'publication', 'inventor', 'primary_theme', 'themes', 'solutes', 'ipc_cpc', 'sha256_pdf', 'compliance_criterion', 'chars', 'source_pdf']
+pdf/ dir: 419 files, ext: {'.pdf': 410, '.png': 4, '.txt': 5}
+txt/ dir: 409 files
+metadata rows: 227, cols: ['pub', 'title', 'assignee', 'country', 'priority', 'filing', 'publication', 'inventor', 'primary_theme', 'themes', 'solutes', 'ipc_cpc', 'sha256_pdf', 'compliance_criterion', 'chars', 'source_pdf']
+theme dist: [('溶质生产/发酵/酶法', 147), ('农业/植物抗逆', 146), ('医药制剂/蛋白稳定', 122), ('皮肤/化妆品', 111), ('食品/饲料/防腐', 90), ('废水/环境工程', 62), ('日化/口腔/洗护', 26), ('眼科应用', 26), ('细胞/组织/器官保存', 6)]
+
+RAG/产出 vs 产出/: only_in_产出=0 only_in_RAG=0 content_diff=0
+only_in_产出 sample: []
+only_in_RAG sample: []
+content_diff: []
+RAG/ total files: 46, top-level entries: ['adjudicate.py', 'audit_passes.py', 'build_rag.py', 'compatible_solute_patents.xlsx', 'compliance_check.py', 'debug_excluded.py', 'dump_key_snippets.py', 'export_review_data.py', 'extract_all.log', 'extract_all.py', 'extract_manifest.csv', 'final_check.py', 'finalize_corpus.py', 'gen_readable.py', 'google_patents_compatible_solute_candidates.csv', 'google_patents_compatible_solute_candidates.json', 'google_patents_compatible_solute_candidates.pre_full_query.csv', 'inspect_suspects.py', 'patent_pdf_download_status.csv', 'peek_meta.py', 'verify_edge_cases.py', 'verify_kb.py', '产出']

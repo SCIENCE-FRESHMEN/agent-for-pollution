@@ -1,0 +1,14 @@
+[13:25:02] === gene calling: Candidatus Brocadia sinica sp.MAG_7(GCA_013360995.1).fna
+[13:25:10] pyrodigal(3.7.1) genes=3342 -> Candidatus Brocadia sinica sp.MAG_7(GCA_013360995.1)_pyrodigal.faa
+[13:25:10] === gene calling: Candidatus Kuenenia stuttgartiensis sp.HKUEN01(GCA_022180985.1).fna
+[13:25:18] pyrodigal(3.7.1) genes=3836 -> Candidatus Kuenenia stuttgartiensis sp.HKUEN01(GCA_022180985.1)_pyrodigal.faa
+[13:25:18] === gene calling: Candidatus Scalindua sp.AMX11(GCA_004351875.1).fna
+[13:25:29] pyrodigal(3.7.1) genes=3958 -> Candidatus Scalindua sp.AMX11(GCA_004351875.1)_pyrodigal.faa
+[13:25:32] [proteome] organism_name:"Candidatus Brocadia sinica": 3878 reference proteins
+[13:25:33] [proteome] organism_name:"Candidatus Kuenenia stuttgartiensis": 0 rows, try next name variant
+[13:25:35] [proteome] organism_name:"Kuenenia stuttgartiensis": 3824 reference proteins
+[13:25:37] [proteome] organism_name:"Candidatus Scalindua": 4066 reference proteins
+[13:25:37] matched UniProt accessions: 0
+[13:25:37] hits rows: 0
+[13:25:39] [受阻] 用户 MAG 本机注释 0 命中：基因预测产物已交付，KO 注释走工作站（见 上游注释_工作站执行.md）
+[13:25:39] A1 DONE (mode A, 0 hits)

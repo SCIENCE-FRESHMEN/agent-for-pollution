@@ -1,0 +1,8 @@
+C:\Users\25416\Desktop\agent for pollution\task\交付_模拟验证与三场景接入_20261023_revised\scripts\D_build_experience_db_revised.py:3: SyntaxWarning: invalid escape sequence '\D'
+  [revised 2026-10-23] ThetaVerse 0.3.0 复验版：复制到 revised 交付夹后路径自动指向 revised\D_经验库；逻辑零改动。
+[00:24:56] genomes: 58171 rows
+[00:24:57] env_conditions: 58171 rows
+[00:24:57] ko_dictionary: 64 rows
+[00:24:57] transport_dict: 77 rows
+[00:24:57] 对账: 6/6 PASS -> 建库对账.json
+[00:24:57] DB -> C:\Users\25416\Desktop\agent for pollution\task\交付_模拟验证与三场景接入_20261023_revised\D_经验库\盐湖经验库.db

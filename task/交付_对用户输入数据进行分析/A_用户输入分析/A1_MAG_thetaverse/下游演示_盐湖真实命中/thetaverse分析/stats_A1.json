@@ -1,0 +1,28 @@
+{
+  "inputs": [
+    "Candidatus Brocadia sinica sp.MAG_7(GCA_013360995.1).fna",
+    "Candidatus Kuenenia stuttgartiensis sp.HKUEN01(GCA_022180985.1).fna",
+    "Candidatus Scalindua sp.AMX11(GCA_004351875.1).fna"
+  ],
+  "steps": {
+    "annotation_method": "外部提供命中表(工作站BLAST口径)",
+    "hit_rows": 1056
+  },
+  "nitrogen_dict_size": 64,
+  "ko_per_mag": {
+    "BLK_2023_AMX_bin177": 27,
+    "KLK3-2_2024_D4_428": 55,
+    "KLK3-2_2024_D4_864": 54,
+    "LH1_D0_163": 44,
+    "LH2_D0_22": 45,
+    "LH2_D5_64": 45,
+    "blk_2018_lit_bin1059": 35,
+    "blk_2018_s_h_bin1549": 42,
+    "dbc_2018_w_bin143": 41,
+    "slgl_2021_s_bin112501": 42,
+    "xcd_2021_s_bin711": 48,
+    "zbyck2_2022_s_bin243": 37
+  },
+  "nitrogen_ko_hits_rows": 529,
+  "nitrogen_ko_distinct": 37
+}

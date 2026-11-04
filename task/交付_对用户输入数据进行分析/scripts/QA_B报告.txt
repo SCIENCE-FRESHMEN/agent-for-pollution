@@ -1,0 +1,25 @@
+B项QA共23项，失败0项
+
+[PASS] 表1行数=stats.union 58171 vs 58171
+[PASS] 表2行数=表1行数 
+[PASS] 表1列数=18 
+[PASS] 表2列数=12 
+[PASS] genome_id 无空值 
+[PASS] 表1与表2基因组集合一致 
+[PASS] 氮循环命中行数累加=552808 552808
+[PASS] 转运命中行数累加=1184624 1184624
+[PASS] 合成env累加=79000 79000
+[PASS] 合成ench累加=33475 33475
+[PASS] 表2[盐度]全缺失标注 58171/58171
+[PASS] 表2[pH]全缺失标注 58171/58171
+[PASS] 表2[温度]全缺失标注 58171/58171
+[PASS] 表2[地理位置]全缺失标注 58171/58171
+[PASS] 表2[采样时间]全缺失标注 58171/58171
+[PASS] 表2[培养条件]全缺失标注 58171/58171
+[PASS] 抽查zrnmc_2022_w_bin94[nitrogen] 重数5 vs 表5
+[PASS] 抽查xcd_2021_s_bin658[nitrogen] 重数16 vs 表16
+[PASS] 抽查ABH_460[nitrogen] 重数36 vs 表36
+[PASS] 抽查zrnmc_2022_w_bin94[transport] 重数17 vs 表17
+[PASS] 抽查xcd_2021_s_bin658[transport] 重数43 vs 表43
+[PASS] 抽查ABH_460[transport] 重数53 vs 表53
+[PASS] 无 env+ench 混杂基因组 {'ench': 9761, 'env': 48410}

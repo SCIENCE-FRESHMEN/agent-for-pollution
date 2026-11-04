@@ -1,0 +1,3 @@
+[Task3] nodes=424 by_type={'Patent': 227, 'Applicant': 159, 'Solute': 20, 'IPC': 18}
+[Task3] edges=1009 by_type={'HAS_APPLICANT': 227, 'CONTAINS_SOLUTE': 628, 'HAS_IPC': 132, 'CITES': 1, 'CITED_BY': 1, 'SAME_FAMILY': 20}
+[Task3] cite_links_in_corpus=1 family_groups=[3, 2, 2, 4, 3, 2]

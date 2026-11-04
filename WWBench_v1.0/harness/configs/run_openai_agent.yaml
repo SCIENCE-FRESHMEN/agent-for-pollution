@@ -1,0 +1,41 @@
+# 真实智能体评测配置模板:模型在每题独立工作区中自主探索(仿 BixBench capsule)
+#
+# 工作区内容(data/attachments/,可选):
+#   data/attachments/<question_id>/**  只分发给该题(如 Kuenenia-P1.fna 基因组)
+#   data/attachments/_shared/**        分发给所有题
+#   stage_references: true 时题库参考文献写入 references.txt
+#
+# 安全提示:run_python 在本机执行模型生成的代码,建议在 Docker 容器中运行本脚本
+# (BixBench 即用预构建 Docker 镜像隔离执行环境)。
+run_name: glm_agent_run
+questions_csv: data/questions.csv
+output_dir: outputs
+context_mode: closed
+replicates: 5
+max_workers: 4
+temperature: 0.2
+max_tokens: 4096
+attachments_dir: data/attachments
+solver:
+  provider: openai
+  model: glm-4.7
+  base_url: https://open.bigmodel.cn/api/paas/v4
+  api_key_env: GLM_API_KEY
+  agent:
+    max_steps: 30
+    exec_timeout: 60
+    stage_references: true
+judge:
+  provider: openai
+  model: gpt-4o
+  temperature: 0.0
+  max_tokens: 2048
+rubric:
+  pass_threshold: 0.6
+  kp_weight: 0.5
+  numeric_tolerance: 0.05
+filters:
+  difficulty: []
+  qtype: []
+  tag: []
+  topic: []

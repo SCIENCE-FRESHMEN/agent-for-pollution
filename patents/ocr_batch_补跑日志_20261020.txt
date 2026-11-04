@@ -1,0 +1,39 @@
+[batch] pending=5
+Traceback (most recent call last):
+  File "C:\Users\25416\Desktop\agent for pollution\patents\ocr_batch.py", line 67, in <module>
+    with mp.Pool(3) as pool:
+         ~~~~~~~^^^
+  File "C:\Users\25416\Desktop\agent for pollution\_ppt_build\lo_portable\program\python-core-3.13.15\lib\multiprocessing\context.py", line 119, in Pool
+    return Pool(processes, initializer, initargs, maxtasksperchild,
+                context=self.get_context())
+  File "C:\Users\25416\Desktop\agent for pollution\_ppt_build\lo_portable\program\python-core-3.13.15\lib\multiprocessing\pool.py", line 215, in __init__
+    self._repopulate_pool()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\25416\Desktop\agent for pollution\_ppt_build\lo_portable\program\python-core-3.13.15\lib\multiprocessing\pool.py", line 306, in _repopulate_pool
+    return self._repopulate_pool_static(self._ctx, self.Process,
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+                                        self._processes,
+                                        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+                                        self._maxtasksperchild,
+                                        ^^^^^^^^^^^^^^^^^^^^^^^
+                                        self._wrap_exception)
+                                        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\25416\Desktop\agent for pollution\_ppt_build\lo_portable\program\python-core-3.13.15\lib\multiprocessing\pool.py", line 329, in _repopulate_pool_static
+    w.start()
+    ~~~~~~~^^
+  File "C:\Users\25416\Desktop\agent for pollution\_ppt_build\lo_portable\program\python-core-3.13.15\lib\multiprocessing\process.py", line 121, in start
+    self._popen = self._Popen(self)
+                  ~~~~~~~~~~~^^^^^^
+  File "C:\Users\25416\Desktop\agent for pollution\_ppt_build\lo_portable\program\python-core-3.13.15\lib\multiprocessing\context.py", line 343, in _Popen
+    return Popen(process_obj)
+  File "C:\Users\25416\Desktop\agent for pollution\_ppt_build\lo_portable\program\python-core-3.13.15\lib\multiprocessing\popen_spawn_win32.py", line 76, in __init__
+    hp, ht, pid, tid = _winapi.CreateProcess(
+                       ~~~~~~~~~~~~~~~~~~~~~^
+        python_exe, cmd,
+        ^^^^^^^^^^^^^^^^
+        None, None, False, 0, env, None,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        STARTUPINFO(dwFlags=STARTF_FORCEOFFFEEDBACK))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] 拒绝访问。

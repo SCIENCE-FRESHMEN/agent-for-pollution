@@ -1,0 +1,8 @@
+[00:23:01] input='Candidatus Scalindua brodae' -> scenario=taxon
+[00:23:02] esearch: count=1 uids=['226991']
+[00:23:02] assembly=GCF_000786775.1 name=ASM78677v1 species=Candidatus Scalindua brodae
+[00:23:57] downloaded 1227127 bytes (md5 5adf5f8e8c67...) in 54.4s
+[00:23:57] launching A1 chain in-process: --fasta C:\Users\25416\Desktop\agent for pollution\task\交付_模拟验证与三场景接入_20261023_revised\B_三场景接入\运行演示\taxon\NCBI下载\GCF_000786775.1_ASM78677v1_genomic.fna --workdir C:\Users\25416\Desktop\agent for pollution\task\交付_模拟验证与三场景接入_20261023_revised\B_三场景接入\运行演示\taxon\NCBI下载\thetaverse分析
+[00:24:12] A1 chain exit code: 0
+[00:24:12] summary -> C:\Users\25416\Desktop\agent for pollution\task\交付_模拟验证与三场景接入_20261023_revised\B_三场景接入\运行演示\taxon\运行摘要.json
+[00:24:12] ENTRY DONE (taxon, 71.2s)

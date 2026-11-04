@@ -1,0 +1,7 @@
+[13:21:40] --hits mode: 1056 rows from hits_8col_盐湖真实命中.tsv
+[13:21:42] read_kegg_hits: (1056, 5), columns=['qseqid', 'pident', 'qcovhsp', 'evalue', 'ko']
+[13:21:42] ThetaData: (12, 83)
+[13:21:42] nitrogen process profile: (12, 19) -> 氮循环过程谱_每MAG.tsv
+[13:21:42] core_metrics done (alpha written)
+[13:21:42] stats -> task\交付_剩余任务_20261020\A_用户输入分析\A1_MAG_thetaverse\下游演示_盐湖真实命中\thetaverse分析\stats_A1.json
+[13:21:42] A1 DONE

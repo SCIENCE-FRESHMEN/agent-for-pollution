@@ -1,0 +1,10 @@
+{
+  "scenario": "mag",
+  "input": "task\\交付_模拟验证与三场景接入_20261020\\A_模拟验证\\mock_genome.fna",
+  "pipeline": "A1 (交付_剩余任务_20261020/scripts/run_A1_mag_thetaverse.py)",
+  "outputs_dir": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_模拟验证与三场景接入_20261023_revised\\B_三场景接入\\运行演示\\mag\\A1管线输出",
+  "stats": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_模拟验证与三场景接入_20261023_revised\\B_三场景接入\\运行演示\\mag\\A1管线输出\\stats_A1.json",
+  "note": "KO 注释生产口径=工作站 blastp（命令见 A1 上游文档）；本机受阻状态见 stats_A1.json 的 steps.blocked_note",
+  "elapsed_seconds": 4.2,
+  "exit": "ok"
+}

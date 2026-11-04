@@ -1,0 +1,50 @@
+全链QA共48项，失败0项
+
+[PASS] B stats_B.json 存在 
+[PASS] B 表1 存在 
+[PASS] B 表2 存在 
+[PASS] B QA报告 存在且全PASS 
+[PASS] A2 stats_A2.json 存在 
+[PASS] A2 三个qza均记录 uuid+sha256 ['table.qza', 'taxonomy.qza', 'rooted-tree.qza']
+[PASS] A2 qza SHA-256 复算一致 
+[PASS] A2 ThetaData 34样本 [34, 770]
+[PASS] A2 taxonomy 全覆盖770 
+[PASS] A2 alpha_diversity.tsv 34行+表头 
+[PASS] A2 PCoA_core_metrics_braycurtis_pcoa.tsv 34行 34
+[PASS] A2 PCoA_core_metrics_jaccard_pcoa.tsv 34行 34
+[PASS] A2 上游工作站命令文档存在 
+[PASS] A2 载荷 feature-table.biom 存在 
+[PASS] A2 载荷 taxonomy.tsv 存在 
+[PASS] A2 载荷 tree.nwk 存在 
+[PASS] A1 stats_A1.json 存在 
+[PASS] A1 三个MAG基因预测记录 Candidatus Brocadia :3342; Candidatus Kuenenia :3836; Candidatus Scalindua:3958
+[PASS] A1 注释方法已记录 UniProt参考蛋白组精确序列匹配
+[PASS] A1 受阻说明已记录(0命中) 
+[PASS] A1 参考蛋白组规模已记录 11768
+[PASS] A1 演示 manifest 1056 行真实命中 1056
+[PASS] A1 演示入选12基因组跨6研究 12
+[PASS] A1 演示 stats 存在 
+[PASS] A1 演示 hit_rows=1056 与 manifest 一致 
+[PASS] A1 演示 ThetaData 12样本 
+[PASS] A1 演示氮循环过程谱存在 
+[PASS] A1 演示 alpha_diversity 存在 
+[PASS] A1 演示命中行数=1056 1056
+[PASS] A1 演示命中行全部8列 
+[PASS] A1 蛋白预测产物 Candidatus Brocadia sini.. 
+[PASS] A1 蛋白预测产物 Candidatus Kuenenia stut.. 
+[PASS] A1 蛋白预测产物 Candidatus Scalindua sp... 
+[PASS] A1 工作站命令文档存在 
+[PASS] A3 provenance 存在 
+[PASS] A3 fna 存在且字节数一致 GCF_000786775.1_ASM78677v1_genomic.fna
+[PASS] A3 下载URL已记录 https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/786/775/GCF
+[PASS] A3 物种解析已记录 
+[PASS] A3 下载基因组的 ThetaVerse 分析已跑 
+[PASS] scripts/run_B_abundance_env.py 存在 
+[PASS] scripts/run_B_qa.py 存在 
+[PASS] scripts/run_A1_mag_thetaverse.py 存在 
+[PASS] scripts/run_A2_16S_qiime2.py 存在 
+[PASS] scripts/run_A3_ncbi_mag.py 存在 
+[PASS] scripts/download_qiime2_artifacts.py 存在 
+[PASS] scripts/run_QA_all.py 存在 
+[PASS] scripts/stats_B.json 存在 
+[PASS] scripts/QA_B报告.txt 存在 

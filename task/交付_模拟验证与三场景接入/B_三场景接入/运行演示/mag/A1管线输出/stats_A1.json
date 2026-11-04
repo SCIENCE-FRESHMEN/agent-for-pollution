@@ -1,0 +1,30 @@
+{
+  "inputs": [
+    "mock_genome.fna"
+  ],
+  "steps": {
+    "reference_proteins_total": 0,
+    "proteins_with_reference_match": 0,
+    "matched_accessions": 0,
+    "matched_genes": 0,
+    "annotation_method": "UniProt参考蛋白组精确序列匹配",
+    "hit_rows": 0,
+    "blocked_note": "本机注释0命中，下游演示见 下游演示_盐湖真实命中/；工作站回传hits后用 --hits 重跑"
+  },
+  "gene_calling": [
+    {
+      "fasta": "mock_genome.fna",
+      "mag_id": "mock_genome",
+      "contigs": 1,
+      "genome_bp": 39263,
+      "gc_percent": 44.86,
+      "predicted_genes": 33,
+      "gene_bp": 35952,
+      "coding_density_percent": 91.57,
+      "proteins_faa": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_模拟验证与三场景接入_20261023_revised\\B_三场景接入\\运行演示\\mag\\A1管线输出\\mock_genome_pyrodigal.faa",
+      "pyrodigal_version": "pyrodigal 3.7.1 直连（0.3.0 external 断裂适配，参数与 PyrodigalBridge 一致）",
+      "gene_caller": "pyrodigal 3.7.1 直连（0.3.0 external 断裂适配，参数与 PyrodigalBridge 一致）"
+    }
+  ],
+  "nitrogen_dict_size": 64
+}

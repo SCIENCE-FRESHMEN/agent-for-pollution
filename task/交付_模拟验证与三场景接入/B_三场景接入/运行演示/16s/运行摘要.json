@@ -1,0 +1,10 @@
+{
+  "scenario": "16s",
+  "input": "task\\交付_剩余任务_20261020\\A_用户输入分析\\A2_16S_qiime2\\artifacts",
+  "pipeline": "A2 (交付_剩余任务_20261020/scripts/run_A2_16S_qiime2.py)",
+  "outputs_dir": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_模拟验证与三场景接入_20261023_revised\\B_三场景接入\\运行演示\\16s\\thetaverse分析输出_revised",
+  "stats": "C:\\Users\\25416\\Desktop\\agent for pollution\\task\\交付_模拟验证与三场景接入_20261023_revised\\B_三场景接入\\运行演示\\16s\\thetaverse分析输出_revised\\stats_A2.json",
+  "note": "qza 上游去噪在 QIIME 2 框架（Linux/conda），本机读表+下游已验证",
+  "elapsed_seconds": 3.6,
+  "exit": "ok"
+}

@@ -1,0 +1,12 @@
+[00:20:59] input='task\\交付_剩余任务_20261020\\A_用户输入分析\\A2_16S_qiime2\\artifacts' -> scenario=16s
+[00:21:01] table.qza: uuid=000b0c9f-1db7.. type=FeatureTable[Frequency] -> 1 data files
+[00:21:01] taxonomy.qza: uuid=b66f5bb0-9ea7.. type=FeatureData[Taxonomy] -> 1 data files
+[00:21:01] rooted-tree.qza: uuid=e3b9f6ba-bd90.. type=Phylogeny[Rooted] -> 1 data files
+[00:21:01] read_biom -> ThetaData (34, 770)
+[00:21:01] taxonomy attached: (34, 770), features with taxonomy=770
+[00:21:03] tree loaded: TreeNode
+[00:21:03] core_metrics done, alpha cols: ['core_metrics_alpha_shannon', 'core_metrics_alpha_observed', 'core_metrics_alpha_pielou']
+[00:21:03] uns=['core_metrics_alpha', 'core_metrics_braycurtis_pcoa_variance', 'core_metrics_braycurtis_pcoa_eigenvalues', 'core_metrics_jaccard_pcoa_variance', 'core_metrics_jaccard_pcoa_eigenvalues', 'core_metrics'] obsm=['core_metrics_braycurtis_pcoa', 'core_metrics_jaccard_pcoa']
+[00:21:03] A2 DONE
+[00:21:03] summary -> C:\Users\25416\Desktop\agent for pollution\task\交付_模拟验证与三场景接入_20261023_revised\B_三场景接入\运行演示\16s\运行摘要.json
+[00:21:03] ENTRY DONE (16s, 3.6s)

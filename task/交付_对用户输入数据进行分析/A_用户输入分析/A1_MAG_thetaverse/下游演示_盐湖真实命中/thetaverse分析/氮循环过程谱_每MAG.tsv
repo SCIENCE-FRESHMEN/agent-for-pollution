@@ -1,0 +1,13 @@
+﻿mag	Ammonia oxidation (hydroxylamine oxidation step)	Ammonium assimilation (GS-GOGAT)	Ammonium assimilation/ammonification (GDH)	Assimilatory nitrate reduction	Assimilatory nitrite reduction	Assimilatory nitrite reduction / DNRA	DNRA	Denitrification	Denitrification / DNRA	Denitrification / DNRA (periplasmic nitrate reduction)	Denitrification / DNRA / nitrification-nitrite oxidation (nxr; also in comammox)	Denitrification / anammox (NO2 -> NO)	Hydroxylamine reduction (N-cycle intermediate)	Nitrate/nitrite transport	Nitrogen fixation	Organic N metabolism (arginine degradation, NH3 yielding)	Organic N metabolism (other)	Organic N mineralization (cyanate hydrolysis)	ammonification
+BLK_2023_AMX_bin177	0	3	1	1	2	0	0	3	1	2	2	1	0	2	0	0	1	0	0
+KLK3-2_2024_D4_428	0	3	2	1	1	2	0	3	1	2	2	1	0	4	0	0	1	1	0
+KLK3-2_2024_D4_864	0	3	2	1	1	1	0	2	1	2	2	1	0	4	0	0	1	1	0
+LH1_D0_163	0	3	2	1	2	0	0	0	1	0	2	0	0	4	2	1	1	1	1
+LH2_D0_22	0	3	2	1	2	0	0	0	1	0	2	0	0	4	3	1	1	1	1
+LH2_D5_64	0	3	2	1	2	0	0	0	1	0	2	0	0	4	3	1	1	1	1
+blk_2018_lit_bin1059	1	2	3	0	0	0	1	0	1	0	2	0	1	1	3	0	1	0	0
+blk_2018_s_h_bin1549	0	3	2	1	1	2	0	2	1	2	2	0	0	4	0	1	1	0	1
+dbc_2018_w_bin143	0	3	2	1	2	0	0	3	1	0	2	1	0	4	2	1	1	1	2
+slgl_2021_s_bin112501	0	3	2	1	2	0	0	2	1	0	2	0	0	4	3	1	1	1	1
+xcd_2021_s_bin711	0	3	1	1	2	2	0	3	1	0	2	0	0	4	0	0	1	0	1
+zbyck2_2022_s_bin243	0	3	2	1	1	0	0	3	1	0	2	1	0	4	3	1	1	0	0

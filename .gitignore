@@ -1,0 +1,33 @@
+# ===== 环境与构建（永不入库）=====
+.rc_venv/
+_ppt_build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# ===== 超大数据体（库外保留 / 可重生成）=====
+task/Nitrogen_3files/
+*.tar.gz
+*.tar.gz.*
+patents/pdf/
+patents/RAG/
+patents/txt/
+lit_workspace/
+
+# ===== 运行输出 =====
+WWBench_v1.0/harness/outputs/
+WWBench_v1.0/logs/
+literature_downloader/_task_logs/
+
+# ===== 本机配置与凭据 =====
+.env
+
+# ===== 日志（保留交付目录里的运行日志）=====
+*.log
+!patents/产出/scripts/*.log
+!task/交付_Nitrogen_CompSul_20261014/scripts/*.log
+
+# ===== 系统文件 =====
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,4 @@
+FINDSTR: 无法打开 ;
+FINDSTR: 无法打开 powershell
+FINDSTR: 无法打开 -Command
+FINDSTR: 无法打开 Get-Content 'C:\Users\25416\Desktop\agent for pollution\qa_gen\check_refs.txt' -TotalCount 20 -Encoding UTF8

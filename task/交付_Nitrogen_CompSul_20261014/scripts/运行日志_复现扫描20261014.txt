@@ -1,0 +1,21 @@
+[   0.0s] 字典加载: {'nit_dict_rows': 72, 'nit_dict_unique_ko': 72, 'nit_dict_duplicates': [], 'cs_dict_rows': 78, 'cs_dict_unique_ko': 77, 'cs_dict_duplicates': ['K10111'], 'dict_overlap_nit_vs_cs': []}
+[  18.7s] env: 5,059,989 行, nit=32,488, cs=68,181
+[  37.9s] env: 10,038,602 行, nit=63,665, cs=136,902
+[  57.8s] env: 15,005,947 行, nit=98,488, cs=202,769
+[  77.5s] env: 20,005,386 行, nit=129,936, cs=269,179
+[  97.4s] env: 25,063,852 行, nit=163,888, cs=341,312
+[ 115.2s] env: 30,041,067 行, nit=197,984, cs=405,160
+[ 134.6s] env: 35,016,027 行, nit=230,730, cs=470,925
+[ 155.6s] env: 40,074,359 行, nit=263,394, cs=531,424
+[ 178.1s] env: 45,026,977 行, nit=298,067, cs=598,802
+[ 198.9s] env: 50,083,006 行, nit=331,560, cs=672,876
+[ 219.0s] env: 55,056,187 行, nit=365,113, cs=733,455
+[ 239.0s] env: 60,053,236 行, nit=400,436, cs=796,601
+[ 259.5s] env: 65,026,114 行, nit=433,081, cs=864,731
+[ 280.3s] env: 70,072,392 行, nit=465,442, cs=932,540
+[ 299.2s] env: 75,047,791 行, nit=497,429, cs=983,533
+[ 304.2s] env 完成: total=76,343,624 nit=506,681 cs=996,963 malformed=0
+[  23.0s] ench: 5,048,099 行, nit=31,031, cs=81,909
+[  44.8s] ench: 10,064,749 行, nit=63,151, cs=134,181
+[ 367.2s] ench 完成: total=14,301,884 nit=90,079 cs=187,661 malformed=0
+DONE 总耗时 367.2s, stats -> C:\Users\25416\Desktop\agent for pollution\task\交付_Nitrogen_CompSul_20261014\scripts\stats_extraction.json

@@ -1,0 +1,9 @@
+[12:41:30] table.qza: uuid=000b0c9f-1db7.. type=FeatureTable[Frequency] -> 1 data files
+[12:41:30] taxonomy.qza: uuid=b66f5bb0-9ea7.. type=FeatureData[Taxonomy] -> 1 data files
+[12:41:30] rooted-tree.qza: uuid=e3b9f6ba-bd90.. type=Phylogeny[Rooted] -> 1 data files
+[12:41:30] read_biom -> ThetaData (34, 770)
+[12:41:30] taxonomy attached: (34, 770), features with taxonomy=770
+[12:41:32] tree loaded: TreeNode
+[12:41:32] core_metrics done, alpha cols: ['core_metrics_alpha_shannon', 'core_metrics_alpha_observed', 'core_metrics_alpha_pielou']
+[12:41:32] uns=['core_metrics_alpha', 'core_metrics_braycurtis_pcoa_variance', 'core_metrics_braycurtis_pcoa_eigenvalues', 'core_metrics_jaccard_pcoa_variance', 'core_metrics_jaccard_pcoa_eigenvalues', 'core_metrics'] obsm=['core_metrics_braycurtis_pcoa', 'core_metrics_jaccard_pcoa']
+[12:41:32] A2 DONE

@@ -1,0 +1,33 @@
+# 真实评测配置模板:OpenAI 兼容接口(适用于 OpenAI/GLM/DeepSeek/Qwen 等)
+# 运行前:export OPENAI_API_KEY=sk-xxx(或改用下方 api_key_env 指定别的变量名)
+run_name: glm_run
+questions_csv: data/questions.csv
+output_dir: outputs
+context_mode: closed
+replicates: 5               # BixBench 同款:每题 5 次复跑取多数
+max_workers: 4
+temperature: 0.2
+max_tokens: 4096
+solver:
+  provider: openai
+  model: glm-4.7            # 换成你的模型名
+  base_url: https://open.bigmodel.cn/api/paas/v4   # 换成你的端点;OpenAI 官方则删除此行
+  api_key_env: GLM_API_KEY  # 从该环境变量读 key
+  retries: 3
+judge:                        # judge 模型应与 solver 不同,避免自评偏置(BixBench 用 Claude 评 GPT/反之)
+  provider: openai
+  model: gpt-4o
+  # api_key_env: OPENAI_API_KEY
+  # base_url: https://api.openai.com/v1
+  temperature: 0.0
+  max_tokens: 2048
+rubric:
+  pass_threshold: 0.6
+  kp_weight: 0.5
+  # dims:                    # 可覆盖六维定义,键须为 accuracy/completeness/mechanism/feasibility/evidence/rigor
+  #   accuracy: "准确性:..."
+filters:
+  difficulty: []
+  qtype: []
+  tag: []
+  topic: []

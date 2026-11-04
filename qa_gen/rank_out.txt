@@ -1,0 +1,72 @@
+scored: 754
+file                                                        amx  score  top_kw
+10.1038_s41396-021-01031-8.txt                               28    431  anammox:28;scalindua:16;brocadia:3;nitrite:2;nitrogen removal:1
+10.1074_jbc.M113.470567.txt                                   0    415  ectoine:32;halophilic:16;salinity:11;osmoadaptation:9;compatible solute:8;haloto
+10.1038_s41467-020-16016-y.txt                               37    410  anammox:37;brocadia:6;scalindua:6;kuenenia:4;nitrite:1
+10.1038_ncomms15416.txt                                      49    408  anammox:49;brocadia:9;nitrite:9;jettenia:2;nitrogen removal:2;kuenenia:1;scalind
+10.1038_s41598-022-26069-2.txt                               55    403  anammox:55;nitrite:16;brocadia:6;jettenia:4;nitrogen removal:3;anammoxoglobus:1
+10.1038_s41467-024-52364-9.txt                               38    401  nitrite:76;anammox:38;nitrogen removal:9;jettenia:2;brocadia:1;kuenenia:1;anammo
+10.1038_srep28327.txt                                        66    387  anammox:66;nitrite:9;brocadia:7;jettenia:2;kuenenia:1;scalindua:1;nitrogen remov
+10.1038_s41545-024-00385-8.txt                               43    368  anammox:43;nitrogen removal:24;kuenenia:4;jettenia:2;brocadia:1;nitrite:1
+10.1074_jbc.RA120.012722.txt                                  0    351  ectoine:107;hydroxyectoine:20;compatible solute:8;osmotic:4;salinity:1;osmolyte:
+10.1016_j.cej.2022.136712.txt                                41    341  anammox:41;brocadia:3;kuenenia:1;scalindua:1;jettenia:1;nitrogen removal:1;nitri
+10.1038_s41396-020-00850-5.txt                               19    337  anammox:19;trehalose:12;brocadia:8;nitrite:4;kuenenia:2;scalindua:2;anammoxoglob
+10.1038_srep24825.txt                                         0    335  salinity:38;halophilic:27;saline:24;nitrite:11;hypersaline:10;nitrogen removal:3
+10.1038_s41545-020-00088-w.txt                               47    332  anammox:47;nitrogen removal:16;nitrite:5;kuenenia:1
+10.1038_s41598-019-45620-2.txt                               48    331  anammox:48;nitrite:9;nitrogen removal:4;saline:2;salinity:1
+10.1038_s41467-024-54805-x.txt                               34    323  anammox:34;nitrogen removal:10;nitrite:2;brocadia:1;salinity:1
+10.1038_srep19568.txt                                        31    321  anammox:31;nitrogen removal:13;nitrite:3;osmotic:1
+10.1038_s41598-021-81738-y.txt                               37    319  anammox:37;nitrogen removal:5;brocadia:1;jettenia:1;nitrite:1
+10.1038_srep27576.txt                                        37    317  anammox:37;nitrite:8;nitrogen removal:1
+10.1038_srep40173.txt                                        73    314  anammox:73;nitrite:4;brocadia:1
+10.1038_s41396-023-01388-y.txt                               39    313  anammox:39;nitrogen removal:2;brocadia:1;saline:1;nitrite:1
+10.1038_s41598-020-72577-4.txt                               15    311  brocadia:17;anammox:15;nitrogen removal:3;nitrite:3;scalindua:2;anammoxoglobus:2
+10.1038_s41598-022-16566-9.txt                               59    311  anammox:59;nitrogen removal:9;nitrite:1
+10.1099_acmi.0.000359.txt                                     0    310  compatible solute:13;ectoine:13;halophilic:10;salinity:8;saline:6;betaine:5;hydr
+10.1038_s43705-023-00246-4.txt                               23    292  anammox:23;nitrite:20;nitrogen removal:10;brocadia:1;kuenenia:1
+10.1038_s41598-020-80747-7.txt                               26    291  anammox:26;nitrogen removal:12;brocadia:1;scalindua:1;saline:1;nitrite:1
+10.1021_acs.est.2c01104.txt                                   3    282  brocadia:16;scalindua:8;kuenenia:7;salinity:7;anammox:3;jettenia:3;osmoadaptatio
+10.1016_j.synbio.2025.07.004.txt                              0    281  ectoine:34;salinity:13;halophilic:3;osmotic:3;compatible solute:3;glutamate:3;sa
+10.1016_j.csbj.2021.01.030.txt                                0    276  compatible solute:16;osmotic:8;ectoine:8;salinity:7;glutamate:7;betaine:6;osmoly
+10.1038_srep27744.txt                                        23    269  anammox:23;nitrite:15;nitrogen removal:9
+10.1038_s41522-022-00308-w.txt                               18    256  anammox:18;nitrite:12;brocadia:8;nitrogen removal:2;osmotic:1
+10.1016_j.synbio.2026.04.016.txt                              0    254  ectoine:35;salinity:12;halophilic:4;osmotic:2;saline:1;halotolerant:1;compatible
+10.1038_s41545-025-00549-0.txt                               18    239  anammox:18;nitrite:16;nitrogen removal:15;brocadia:2
+10.1074_jbc.RA119.011277.txt                                  0    239  ectoine:34;hydroxyectoine:5;osmotic:4;compatible solute:3;halophilic:1;osmolyte:
+10.1038_srep39289.txt                                        22    230  anammox:22;nitrogen removal:2;brocadia:1;nitrite:1
+10.1038_s41396-019-0513-x.txt                                21    226  anammox:21;nitrite:2;brocadia:1;jettenia:1
+10.1038_s42003-020-01534-8.txt                               22    225  anammox:22;nitrogen removal:3;nitrite:1
+10.1021_acs.est.4c12259.txt                                   0    222  ectoine:35;salinity:3;halophilic:3;halotolerant:2;osmotic:2;osmolyte:1;hydroxyec
+10.1016_j.jece.2025.120093.txt                                0    216  ectoine:52;halophilic:4;salinity:2;osmotic:2;osmolyte:1;compatible solute:1
+10.1128_msystems.01050-23.txt                                 0    215  saline:24;hypersaline:18;osmotic:4;halophilic:3;osmolyte:3;compatible solute:3;h
+10.1038_s41396-020-00805-w.txt                               19    214  anammox:19;nitrite:3;kuenenia:2;brocadia:1
+10.1038_s41545-024-00402-w.txt                               21    214  anammox:21;nitrogen removal:2;nitrite:1
+10.1038_s41545-025-00502-1.txt                               17    205  anammox:17;nitrogen removal:15;nitrite:4;brocadia:1;kuenenia:1
+10.1016_j.watres.2025.123663.txt                             19    194  anammox:19;nitrogen removal:2;nitrite:1
+10.1021_acssuschemeng.1c06772.txt                             0    188  ectoine:40;salinity:2;osmotic:1
+10.1016_j.ese.2025.100542.txt                                 0    187  saline:18;hypersaline:16;salinity:7;halophilic:5;halotolerant:3;compatible solut
+10.1016_j.btre.2020.e00463.txt                                0    181  ectoine:14;hydroxyectoine:12;osmoadaptation:4;compatible solute:2;salinity:1;osm
+10.1128_mbio.00092-22.txt                                     0    180  osmotic:21;osmoadaptation:20;compatible solute:5;osmolyte:1;betaine:1
+10.1016_j.ese.2024.100406.txt                                 0    177  salinity:25;saline:10;betaine:6;osmotic:5;compatible solute:5;hypersaline:2
+10.1128_AEM.01728-18.txt                                      0    177  compatible solute:21;betaine:7;osmotic:6;osmolyte:2;salinity:1
+10.1002_cssc.71032.txt                                        0    175  ectoine:25;compatible solute:2;saline:1;halophilic:1;halotolerant:1;osmotic:1
+10.1016_j.jare.2023.06.015.txt                                1    175  salinity:24;saline:19;hypersaline:4;osmotic:3;halophilic:2;anammox:1;halotoleran
+10.1128_spectrum.01782-21.txt                                 0    175  halophilic:29;halotolerant:13;saline:1;hypersaline:1
+10.1038_ncomms11172.txt                                      13    164  anammox:13;nitrite:13;nitrogen removal:2;brocadia:1
+10.1128_mBio.00390-21.txt                                     0    155  trehalose:28;osmotic:5;compatible solute:5;ectoine:3;betaine:2;hydroxyectoine:1
+10.1021_acs.est.6b04500.txt                                  13    144  anammox:13;nitrite:6;nitrogen removal:2
+10.1021_acs.est.3c10030.txt                                  14    141  anammox:14;nitrogen removal:1
+10.1093_femsre_fuaf020.txt                                    0    141  osmotic:17;saline:14;salinity:11;halophilic:2;halotolerant:2;compatible solute:2
+10.1038_s41598-020-75294-0.txt                                0    140  saline:22;salinity:16;osmotic:4;halophilic:1;compatible solute:1;betaine:1;treha
+10.1038_srep42072.txt                                        12    139  anammox:12;nitrite:9;nitrogen removal:1
+10.1016_j.bbrep.2026.102452.txt                               0    138  saline:20;hypersaline:18;ectoine:1
+10.1021_acssuschemeng.0c08036.txt                            12    138  anammox:12;nitrite:6;kuenenia:1
+10.1016_j.hal.2026.103091.txt                                 0    137  salinity:29;ectoine:4;betaine:4;osmolyte:2;osmotic:1
+10.1016_j.crmicr.2022.100136.txt                              0    136  saline:14;halophilic:11;hypersaline:8;salinity:6
+10.1016_j.watres.2023.120824.txt                             13    136  anammox:13;nitrogen removal:4;nitrite:1
+10.1021_acs.est.4c04375.txt                                  10    133  anammox:10;nitrogen removal:9;nitrite:9;brocadia:1
+10.1128_msphere.00169-26.txt                                  0    133  trehalose:12;compatible solute:11;betaine:6;osmotic:2;saline:1
+10.1016_j.crmicr.2026.100654.txt                              0    132  salinity:16;saline:12;hypersaline:7;compatible solute:2;halotolerant:1;osmolyte:
+10.1038_s41467-021-21400-3.txt                               10    132  nitrite:16;anammox:10
+10.1038_s41598-026-57033-z.txt                               12    129  anammox:12;nitrogen removal:7;nitrite:1
+10.1016_j.ese.2022.100211.txt                                 0    128  salinity:34;saline:10;halophilic:1;hypersaline:1

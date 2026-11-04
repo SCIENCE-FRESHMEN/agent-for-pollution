@@ -1,0 +1,24 @@
+{
+  "sources": {
+    "env": {
+      "found": true,
+      "file": "CompSul_Biosys_MAG_env.xlsx",
+      "sheet": "MAG_CompSul_TPM",
+      "rows": 79000,
+      "unique_MAGs": 31700,
+      "unique_solutes": 29
+    },
+    "ench": {
+      "found": true,
+      "file": "CompSul_Biosys_faa_ench.xlsx",
+      "sheet": "MAG_CompSul",
+      "rows": 33475,
+      "unique_MAGs": 9418,
+      "unique_solutes": 27
+    }
+  },
+  "output": "相容性溶质合成_env_ench合并.xlsx",
+  "merged_rows": 112475,
+  "expected_rows": 112475,
+  "match": true
+}

@@ -1,0 +1,4 @@
+[Task1] chunks_read=7941 filtered(实施例/权利要求)=5056 llm_calls=0 llm_fail=3
+[Task1] formulation records=1934 distinct patents=193 elapsed=107s
+[Task1] solute_type top: [('Ectoine', 630), ('Multiple/Mixed', 505), ('Glycerol', 238), ('Betaine', 123), ('Trehalose', 83), ('Proline', 83), ('Sorbitol', 41), ('Carnitine', 41)]
+[Task1] scenario top: [('溶质生产制造', 457), ('生物分子/细胞保存', 386), ('化妆品/皮肤护理', 263), ('高盐废水生物处理', 232), ('农业/植物抗逆', 169), ('溶质生产/发酵/酶法', 95)]

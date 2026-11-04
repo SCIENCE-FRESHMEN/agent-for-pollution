@@ -1,0 +1,5280 @@
+[
+ {
+  "file": "10.1038_s41396-021-01031-8.txt",
+  "doi": "10.1038/s41396-021-01031-8",
+  "anammox": 28,
+  "score": 431,
+  "top_kw": "anammox:28;scalindua:16;brocadia:3;nitrite:2;nitrogen removal:1"
+ },
+ {
+  "file": "10.1074_jbc.M113.470567.txt",
+  "doi": "10.1074/jbc.M113.470567",
+  "anammox": 0,
+  "score": 415,
+  "top_kw": "ectoine:32;halophilic:16;salinity:11;osmoadaptation:9;compatible solute:8;halotolerant:4;glutamate:4;hydroxyectoine:3"
+ },
+ {
+  "file": "10.1038_s41467-020-16016-y.txt",
+  "doi": "10.1038/s41467-020-16016-y",
+  "anammox": 37,
+  "score": 410,
+  "top_kw": "anammox:37;brocadia:6;scalindua:6;kuenenia:4;nitrite:1"
+ },
+ {
+  "file": "10.1038_ncomms15416.txt",
+  "doi": "10.1038/ncomms15416",
+  "anammox": 49,
+  "score": 408,
+  "top_kw": "anammox:49;brocadia:9;nitrite:9;jettenia:2;nitrogen removal:2;kuenenia:1;scalindua:1;anammoxoglobus:1"
+ },
+ {
+  "file": "10.1038_s41598-022-26069-2.txt",
+  "doi": "10.1038/s41598-022-26069-2",
+  "anammox": 55,
+  "score": 403,
+  "top_kw": "anammox:55;nitrite:16;brocadia:6;jettenia:4;nitrogen removal:3;anammoxoglobus:1"
+ },
+ {
+  "file": "10.1038_s41467-024-52364-9.txt",
+  "doi": "10.1038/s41467-024-52364-9",
+  "anammox": 38,
+  "score": 401,
+  "top_kw": "nitrite:76;anammox:38;nitrogen removal:9;jettenia:2;brocadia:1;kuenenia:1;anammoxoglobus:1"
+ },
+ {
+  "file": "10.1038_srep28327.txt",
+  "doi": "10.1038/srep28327",
+  "anammox": 66,
+  "score": 387,
+  "top_kw": "anammox:66;nitrite:9;brocadia:7;jettenia:2;kuenenia:1;scalindua:1;nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41545-024-00385-8.txt",
+  "doi": "10.1038/s41545-024-00385-8",
+  "anammox": 43,
+  "score": 368,
+  "top_kw": "anammox:43;nitrogen removal:24;kuenenia:4;jettenia:2;brocadia:1;nitrite:1"
+ },
+ {
+  "file": "10.1074_jbc.RA120.012722.txt",
+  "doi": "10.1074/jbc.RA120.012722",
+  "anammox": 0,
+  "score": 351,
+  "top_kw": "ectoine:107;hydroxyectoine:20;compatible solute:8;osmotic:4;salinity:1;osmolyte:1;betaine:1;trehalose:1"
+ },
+ {
+  "file": "10.1016_j.cej.2022.136712.txt",
+  "doi": "10.1016/j.cej.2022.136712",
+  "anammox": 41,
+  "score": 341,
+  "top_kw": "anammox:41;brocadia:3;kuenenia:1;scalindua:1;jettenia:1;nitrogen removal:1;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41396-020-00850-5.txt",
+  "doi": "10.1038/s41396-020-00850-5",
+  "anammox": 19,
+  "score": 337,
+  "top_kw": "anammox:19;trehalose:12;brocadia:8;nitrite:4;kuenenia:2;scalindua:2;anammoxoglobus:2;osmotic:2"
+ },
+ {
+  "file": "10.1038_srep24825.txt",
+  "doi": "10.1038/srep24825",
+  "anammox": 0,
+  "score": 335,
+  "top_kw": "salinity:38;halophilic:27;saline:24;nitrite:11;hypersaline:10;nitrogen removal:3"
+ },
+ {
+  "file": "10.1038_s41545-020-00088-w.txt",
+  "doi": "10.1038/s41545-020-00088-w",
+  "anammox": 47,
+  "score": 332,
+  "top_kw": "anammox:47;nitrogen removal:16;nitrite:5;kuenenia:1"
+ },
+ {
+  "file": "10.1038_s41598-019-45620-2.txt",
+  "doi": "10.1038/s41598-019-45620-2",
+  "anammox": 48,
+  "score": 331,
+  "top_kw": "anammox:48;nitrite:9;nitrogen removal:4;saline:2;salinity:1"
+ },
+ {
+  "file": "10.1038_s41467-024-54805-x.txt",
+  "doi": "10.1038/s41467-024-54805-x",
+  "anammox": 34,
+  "score": 323,
+  "top_kw": "anammox:34;nitrogen removal:10;nitrite:2;brocadia:1;salinity:1"
+ },
+ {
+  "file": "10.1038_srep19568.txt",
+  "doi": "10.1038/srep19568",
+  "anammox": 31,
+  "score": 321,
+  "top_kw": "anammox:31;nitrogen removal:13;nitrite:3;osmotic:1"
+ },
+ {
+  "file": "10.1038_s41598-021-81738-y.txt",
+  "doi": "10.1038/s41598-021-81738-y",
+  "anammox": 37,
+  "score": 319,
+  "top_kw": "anammox:37;nitrogen removal:5;brocadia:1;jettenia:1;nitrite:1"
+ },
+ {
+  "file": "10.1038_srep27576.txt",
+  "doi": "10.1038/srep27576",
+  "anammox": 37,
+  "score": 317,
+  "top_kw": "anammox:37;nitrite:8;nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_srep40173.txt",
+  "doi": "10.1038/srep40173",
+  "anammox": 73,
+  "score": 314,
+  "top_kw": "anammox:73;nitrite:4;brocadia:1"
+ },
+ {
+  "file": "10.1038_s41396-023-01388-y.txt",
+  "doi": "10.1038/s41396-023-01388-y",
+  "anammox": 39,
+  "score": 313,
+  "top_kw": "anammox:39;nitrogen removal:2;brocadia:1;saline:1;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-020-72577-4.txt",
+  "doi": "10.1038/s41598-020-72577-4",
+  "anammox": 15,
+  "score": 311,
+  "top_kw": "brocadia:17;anammox:15;nitrogen removal:3;nitrite:3;scalindua:2;anammoxoglobus:2;jettenia:2;kuenenia:1"
+ },
+ {
+  "file": "10.1038_s41598-022-16566-9.txt",
+  "doi": "10.1038/s41598-022-16566-9",
+  "anammox": 59,
+  "score": 311,
+  "top_kw": "anammox:59;nitrogen removal:9;nitrite:1"
+ },
+ {
+  "file": "10.1099_acmi.0.000359.txt",
+  "doi": "10.1099/acmi.0.000359",
+  "anammox": 0,
+  "score": 310,
+  "top_kw": "compatible solute:13;ectoine:13;halophilic:10;salinity:8;saline:6;betaine:5;hydroxyectoine:5;osmotic:4"
+ },
+ {
+  "file": "10.1038_s43705-023-00246-4.txt",
+  "doi": "10.1038/s43705-023-00246-4",
+  "anammox": 23,
+  "score": 292,
+  "top_kw": "anammox:23;nitrite:20;nitrogen removal:10;brocadia:1;kuenenia:1"
+ },
+ {
+  "file": "10.1038_s41598-020-80747-7.txt",
+  "doi": "10.1038/s41598-020-80747-7",
+  "anammox": 26,
+  "score": 291,
+  "top_kw": "anammox:26;nitrogen removal:12;brocadia:1;scalindua:1;saline:1;nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.2c01104.txt",
+  "doi": "10.1021/acs.est.2c01104",
+  "anammox": 3,
+  "score": 282,
+  "top_kw": "brocadia:16;scalindua:8;kuenenia:7;salinity:7;anammox:3;jettenia:3;osmoadaptation:2;glutamate:1"
+ },
+ {
+  "file": "10.1016_j.synbio.2025.07.004.txt",
+  "doi": "10.1016/j.synbio.2025.07.004",
+  "anammox": 0,
+  "score": 281,
+  "top_kw": "ectoine:34;salinity:13;halophilic:3;osmotic:3;compatible solute:3;glutamate:3;saline:2;hypersaline:2"
+ },
+ {
+  "file": "10.1016_j.csbj.2021.01.030.txt",
+  "doi": "10.1016/j.csbj.2021.01.030",
+  "anammox": 0,
+  "score": 276,
+  "top_kw": "compatible solute:16;osmotic:8;ectoine:8;salinity:7;glutamate:7;betaine:6;osmolyte:5;trehalose:4"
+ },
+ {
+  "file": "10.1038_srep27744.txt",
+  "doi": "10.1038/srep27744",
+  "anammox": 23,
+  "score": 269,
+  "top_kw": "anammox:23;nitrite:15;nitrogen removal:9"
+ },
+ {
+  "file": "10.1038_s41522-022-00308-w.txt",
+  "doi": "10.1038/s41522-022-00308-w",
+  "anammox": 18,
+  "score": 256,
+  "top_kw": "anammox:18;nitrite:12;brocadia:8;nitrogen removal:2;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.synbio.2026.04.016.txt",
+  "doi": "10.1016/j.synbio.2026.04.016",
+  "anammox": 0,
+  "score": 254,
+  "top_kw": "ectoine:35;salinity:12;halophilic:4;osmotic:2;saline:1;halotolerant:1;compatible solute:1;hydroxyectoine:1"
+ },
+ {
+  "file": "10.1038_s41545-025-00549-0.txt",
+  "doi": "10.1038/s41545-025-00549-0",
+  "anammox": 18,
+  "score": 239,
+  "top_kw": "anammox:18;nitrite:16;nitrogen removal:15;brocadia:2"
+ },
+ {
+  "file": "10.1074_jbc.RA119.011277.txt",
+  "doi": "10.1074/jbc.RA119.011277",
+  "anammox": 0,
+  "score": 239,
+  "top_kw": "ectoine:34;hydroxyectoine:5;osmotic:4;compatible solute:3;halophilic:1;osmolyte:1"
+ },
+ {
+  "file": "10.1038_srep39289.txt",
+  "doi": "10.1038/srep39289",
+  "anammox": 22,
+  "score": 230,
+  "top_kw": "anammox:22;nitrogen removal:2;brocadia:1;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41396-019-0513-x.txt",
+  "doi": "10.1038/s41396-019-0513-x",
+  "anammox": 21,
+  "score": 226,
+  "top_kw": "anammox:21;nitrite:2;brocadia:1;jettenia:1"
+ },
+ {
+  "file": "10.1038_s42003-020-01534-8.txt",
+  "doi": "10.1038/s42003-020-01534-8",
+  "anammox": 22,
+  "score": 225,
+  "top_kw": "anammox:22;nitrogen removal:3;nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.4c12259.txt",
+  "doi": "10.1021/acs.est.4c12259",
+  "anammox": 0,
+  "score": 222,
+  "top_kw": "ectoine:35;salinity:3;halophilic:3;halotolerant:2;osmotic:2;osmolyte:1;hydroxyectoine:1"
+ },
+ {
+  "file": "10.1016_j.jece.2025.120093.txt",
+  "doi": "10.1016/j.jece.2025.120093",
+  "anammox": 0,
+  "score": 216,
+  "top_kw": "ectoine:52;halophilic:4;salinity:2;osmotic:2;osmolyte:1;compatible solute:1"
+ },
+ {
+  "file": "10.1128_msystems.01050-23.txt",
+  "doi": "10.1128/msystems.01050-23",
+  "anammox": 0,
+  "score": 215,
+  "top_kw": "saline:24;hypersaline:18;osmotic:4;halophilic:3;osmolyte:3;compatible solute:3;halotolerant:2;ectoine:1"
+ },
+ {
+  "file": "10.1038_s41396-020-00805-w.txt",
+  "doi": "10.1038/s41396-020-00805-w",
+  "anammox": 19,
+  "score": 214,
+  "top_kw": "anammox:19;nitrite:3;kuenenia:2;brocadia:1"
+ },
+ {
+  "file": "10.1038_s41545-024-00402-w.txt",
+  "doi": "10.1038/s41545-024-00402-w",
+  "anammox": 21,
+  "score": 214,
+  "top_kw": "anammox:21;nitrogen removal:2;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41545-025-00502-1.txt",
+  "doi": "10.1038/s41545-025-00502-1",
+  "anammox": 17,
+  "score": 205,
+  "top_kw": "anammox:17;nitrogen removal:15;nitrite:4;brocadia:1;kuenenia:1"
+ },
+ {
+  "file": "10.1016_j.watres.2025.123663.txt",
+  "doi": "10.1016/j.watres.2025.123663",
+  "anammox": 19,
+  "score": 194,
+  "top_kw": "anammox:19;nitrogen removal:2;nitrite:1"
+ },
+ {
+  "file": "10.1021_acssuschemeng.1c06772.txt",
+  "doi": "10.1021/acssuschemeng.1c06772",
+  "anammox": 0,
+  "score": 188,
+  "top_kw": "ectoine:40;salinity:2;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.ese.2025.100542.txt",
+  "doi": "10.1016/j.ese.2025.100542",
+  "anammox": 0,
+  "score": 187,
+  "top_kw": "saline:18;hypersaline:16;salinity:7;halophilic:5;halotolerant:3;compatible solute:1;ectoine:1;betaine:1"
+ },
+ {
+  "file": "10.1016_j.btre.2020.e00463.txt",
+  "doi": "10.1016/j.btre.2020.e00463",
+  "anammox": 0,
+  "score": 181,
+  "top_kw": "ectoine:14;hydroxyectoine:12;osmoadaptation:4;compatible solute:2;salinity:1;osmotic:1"
+ },
+ {
+  "file": "10.1128_mbio.00092-22.txt",
+  "doi": "10.1128/mbio.00092-22",
+  "anammox": 0,
+  "score": 180,
+  "top_kw": "osmotic:21;osmoadaptation:20;compatible solute:5;osmolyte:1;betaine:1"
+ },
+ {
+  "file": "10.1016_j.ese.2024.100406.txt",
+  "doi": "10.1016/j.ese.2024.100406",
+  "anammox": 0,
+  "score": 177,
+  "top_kw": "salinity:25;saline:10;betaine:6;osmotic:5;compatible solute:5;hypersaline:2"
+ },
+ {
+  "file": "10.1128_AEM.01728-18.txt",
+  "doi": "10.1128/AEM.01728-18",
+  "anammox": 0,
+  "score": 177,
+  "top_kw": "compatible solute:21;betaine:7;osmotic:6;osmolyte:2;salinity:1"
+ },
+ {
+  "file": "10.1002_cssc.71032.txt",
+  "doi": "10.1002/cssc.71032",
+  "anammox": 0,
+  "score": 175,
+  "top_kw": "ectoine:25;compatible solute:2;saline:1;halophilic:1;halotolerant:1;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.jare.2023.06.015.txt",
+  "doi": "10.1016/j.jare.2023.06.015",
+  "anammox": 1,
+  "score": 175,
+  "top_kw": "salinity:24;saline:19;hypersaline:4;osmotic:3;halophilic:2;anammox:1;halotolerant:1;nitrite:1"
+ },
+ {
+  "file": "10.1128_spectrum.01782-21.txt",
+  "doi": "10.1128/spectrum.01782-21",
+  "anammox": 0,
+  "score": 175,
+  "top_kw": "halophilic:29;halotolerant:13;saline:1;hypersaline:1"
+ },
+ {
+  "file": "10.1038_ncomms11172.txt",
+  "doi": "10.1038/ncomms11172",
+  "anammox": 13,
+  "score": 164,
+  "top_kw": "anammox:13;nitrite:13;nitrogen removal:2;brocadia:1"
+ },
+ {
+  "file": "10.1128_mBio.00390-21.txt",
+  "doi": "10.1128/mBio.00390-21",
+  "anammox": 0,
+  "score": 155,
+  "top_kw": "trehalose:28;osmotic:5;compatible solute:5;ectoine:3;betaine:2;hydroxyectoine:1"
+ },
+ {
+  "file": "10.1021_acs.est.6b04500.txt",
+  "doi": "10.1021/acs.est.6b04500",
+  "anammox": 13,
+  "score": 144,
+  "top_kw": "anammox:13;nitrite:6;nitrogen removal:2"
+ },
+ {
+  "file": "10.1021_acs.est.3c10030.txt",
+  "doi": "10.1021/acs.est.3c10030",
+  "anammox": 14,
+  "score": 141,
+  "top_kw": "anammox:14;nitrogen removal:1"
+ },
+ {
+  "file": "10.1093_femsre_fuaf020.txt",
+  "doi": "10.1093/femsre/fuaf020",
+  "anammox": 0,
+  "score": 141,
+  "top_kw": "osmotic:17;saline:14;salinity:11;halophilic:2;halotolerant:2;compatible solute:2;betaine:1"
+ },
+ {
+  "file": "10.1038_s41598-020-75294-0.txt",
+  "doi": "10.1038/s41598-020-75294-0",
+  "anammox": 0,
+  "score": 140,
+  "top_kw": "saline:22;salinity:16;osmotic:4;halophilic:1;compatible solute:1;betaine:1;trehalose:1;glutamate:1"
+ },
+ {
+  "file": "10.1038_srep42072.txt",
+  "doi": "10.1038/srep42072",
+  "anammox": 12,
+  "score": 139,
+  "top_kw": "anammox:12;nitrite:9;nitrogen removal:1"
+ },
+ {
+  "file": "10.1016_j.bbrep.2026.102452.txt",
+  "doi": "10.1016/j.bbrep.2026.102452",
+  "anammox": 0,
+  "score": 138,
+  "top_kw": "saline:20;hypersaline:18;ectoine:1"
+ },
+ {
+  "file": "10.1021_acssuschemeng.0c08036.txt",
+  "doi": "10.1021/acssuschemeng.0c08036",
+  "anammox": 12,
+  "score": 138,
+  "top_kw": "anammox:12;nitrite:6;kuenenia:1"
+ },
+ {
+  "file": "10.1016_j.hal.2026.103091.txt",
+  "doi": "10.1016/j.hal.2026.103091",
+  "anammox": 0,
+  "score": 137,
+  "top_kw": "salinity:29;ectoine:4;betaine:4;osmolyte:2;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.crmicr.2022.100136.txt",
+  "doi": "10.1016/j.crmicr.2022.100136",
+  "anammox": 0,
+  "score": 136,
+  "top_kw": "saline:14;halophilic:11;hypersaline:8;salinity:6"
+ },
+ {
+  "file": "10.1016_j.watres.2023.120824.txt",
+  "doi": "10.1016/j.watres.2023.120824",
+  "anammox": 13,
+  "score": 136,
+  "top_kw": "anammox:13;nitrogen removal:4;nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.4c04375.txt",
+  "doi": "10.1021/acs.est.4c04375",
+  "anammox": 10,
+  "score": 133,
+  "top_kw": "anammox:10;nitrogen removal:9;nitrite:9;brocadia:1"
+ },
+ {
+  "file": "10.1128_msphere.00169-26.txt",
+  "doi": "10.1128/msphere.00169-26",
+  "anammox": 0,
+  "score": 133,
+  "top_kw": "trehalose:12;compatible solute:11;betaine:6;osmotic:2;saline:1"
+ },
+ {
+  "file": "10.1016_j.crmicr.2026.100654.txt",
+  "doi": "10.1016/j.crmicr.2026.100654",
+  "anammox": 0,
+  "score": 132,
+  "top_kw": "salinity:16;saline:12;hypersaline:7;compatible solute:2;halotolerant:1;osmolyte:1"
+ },
+ {
+  "file": "10.1038_s41467-021-21400-3.txt",
+  "doi": "10.1038/s41467-021-21400-3",
+  "anammox": 10,
+  "score": 132,
+  "top_kw": "nitrite:16;anammox:10"
+ },
+ {
+  "file": "10.1038_s41598-026-57033-z.txt",
+  "doi": "10.1038/s41598-026-57033-z",
+  "anammox": 12,
+  "score": 129,
+  "top_kw": "anammox:12;nitrogen removal:7;nitrite:1"
+ },
+ {
+  "file": "10.1016_j.ese.2022.100211.txt",
+  "doi": "10.1016/j.ese.2022.100211",
+  "anammox": 0,
+  "score": 128,
+  "top_kw": "salinity:34;saline:10;halophilic:1;hypersaline:1"
+ },
+ {
+  "file": "10.1021_acs.jpcb.2c00281.txt",
+  "doi": "10.1021/acs.jpcb.2c00281",
+  "anammox": 0,
+  "score": 124,
+  "top_kw": "osmolyte:43;betaine:1"
+ },
+ {
+  "file": "10.1128_msphere.00369-26.txt",
+  "doi": "10.1128/msphere.00369-26",
+  "anammox": 0,
+  "score": 124,
+  "top_kw": "salinity:34;saline:3;halotolerant:3;osmotic:1;osmoadaptation:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.jbc.2026.111216.txt",
+  "doi": "10.1016/j.jbc.2026.111216",
+  "anammox": 0,
+  "score": 123,
+  "top_kw": "betaine:44;glutamate:1;nitrite:1"
+ },
+ {
+  "file": "10.1016_j.jenvman.2025.124858.txt",
+  "doi": "10.1016/j.jenvman.2025.124858",
+  "anammox": 0,
+  "score": 123,
+  "top_kw": "salinity:26;saline:15"
+ },
+ {
+  "file": "10.1093_sumbio_qvag013.txt",
+  "doi": "10.1093/sumbio/qvag013",
+  "anammox": 0,
+  "score": 119,
+  "top_kw": "trehalose:36;compatible solute:4;salinity:1;osmotic:1"
+ },
+ {
+  "file": "10.1038_srep25114.txt",
+  "doi": "10.1038/srep25114",
+  "anammox": 10,
+  "score": 118,
+  "top_kw": "anammox:10;nitrite:8;nitrogen removal:2"
+ },
+ {
+  "file": "10.1016_j.rhisph.2022.100623.txt",
+  "doi": "10.1016/j.rhisph.2022.100623",
+  "anammox": 0,
+  "score": 116,
+  "top_kw": "salinity:15;saline:11;halotolerant:6;osmotic:2;osmolyte:1;compatible solute:1"
+ },
+ {
+  "file": "10.1128_mra.00500-20.txt",
+  "doi": "10.1128/mra.00500-20",
+  "anammox": 0,
+  "score": 114,
+  "top_kw": "osmotic:8;betaine:5;saline:4;halophilic:4;compatible solute:3;hypersaline:2;ectoine:2;salinity:1"
+ },
+ {
+  "file": "10.1128_msystems.01198-22.txt",
+  "doi": "10.1128/msystems.01198-22",
+  "anammox": 0,
+  "score": 112,
+  "top_kw": "saline:12;hypersaline:11;halophilic:6;salinity:1;osmoadaptation:1"
+ },
+ {
+  "file": "10.1021_acs.est.7b01866.txt",
+  "doi": "10.1021/acs.est.7b01866",
+  "anammox": 10,
+  "score": 111,
+  "top_kw": "anammox:10;nitrite:5;nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.3c00596.txt",
+  "doi": "10.1021/acs.est.3c00596",
+  "anammox": 11,
+  "score": 110,
+  "top_kw": "anammox:11"
+ },
+ {
+  "file": "10.1128_mra.00877-18.txt",
+  "doi": "10.1128/mra.00877-18",
+  "anammox": 0,
+  "score": 109,
+  "top_kw": "halophilic:6;osmotic:6;saline:4;betaine:4;ectoine:3;hypersaline:2;salinity:1;osmolyte:1"
+ },
+ {
+  "file": "10.5004_dwt.2020.24791.txt",
+  "doi": "10.5004/dwt.2020.24791",
+  "anammox": 0,
+  "score": 109,
+  "top_kw": "saline:10;halotolerant:9;hypersaline:4;osmolyte:4;salinity:3;osmotic:1"
+ },
+ {
+  "file": "10.5004_dwt.2021.27528.txt",
+  "doi": "10.5004/dwt.2021.27528",
+  "anammox": 0,
+  "score": 107,
+  "top_kw": "halophilic:26;saline:1"
+ },
+ {
+  "file": "10.1128_msystems.01026-22.txt",
+  "doi": "10.1128/msystems.01026-22",
+  "anammox": 0,
+  "score": 105,
+  "top_kw": "salinity:25;saline:8;nitrite:3"
+ },
+ {
+  "file": "10.1016_j.heliyon.2024.e41114.txt",
+  "doi": "10.1016/j.heliyon.2024.e41114",
+  "anammox": 0,
+  "score": 103,
+  "top_kw": "salinity:20;saline:9;betaine:2;osmotic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1007_s12192-015-0658-0.txt",
+  "doi": "10.1007/s12192-015-0658-0",
+  "anammox": 0,
+  "score": 101,
+  "top_kw": "trehalose:34;saline:1;osmotic:1;betaine:1;nitrite:1"
+ },
+ {
+  "file": "10.1016_j.bidere.2026.100092.txt",
+  "doi": "10.1016/j.bidere.2026.100092",
+  "anammox": 0,
+  "score": 101,
+  "top_kw": "saline:11;hypersaline:8;salinity:6;halophilic:4;osmotic:1"
+ },
+ {
+  "file": "10.1038_srep25547.txt",
+  "doi": "10.1038/srep25547",
+  "anammox": 6,
+  "score": 101,
+  "top_kw": "nitrite:18;anammox:6;nitrogen removal:5"
+ },
+ {
+  "file": "10.1016_j.jwpe.2024.105689.txt",
+  "doi": "10.1016/j.jwpe.2024.105689",
+  "anammox": 0,
+  "score": 98,
+  "top_kw": "salinity:19;saline:5;osmotic:2;compatible solute:2;ectoine:1;betaine:1"
+ },
+ {
+  "file": "10.1016_j.heliyon.2024.e40822.txt",
+  "doi": "10.1016/j.heliyon.2024.e40822",
+  "anammox": 0,
+  "score": 97,
+  "top_kw": "halophilic:10;saline:7;hypersaline:5;salinity:4;osmotic:1;nitrite:1"
+ },
+ {
+  "file": "10.32604_phyton.2022.017365.txt",
+  "doi": "10.32604/phyton.2022.017365",
+  "anammox": 0,
+  "score": 97,
+  "top_kw": "salinity:37;osmotic:2;saline:1"
+ },
+ {
+  "file": "10.32604_phyton.2026.076579.txt",
+  "doi": "10.32604/phyton.2026.076579",
+  "anammox": 0,
+  "score": 97,
+  "top_kw": "saline:10;osmotic:5;osmolyte:4;salinity:3;halotolerant:3;betaine:2;trehalose:2;compatible solute:1"
+ },
+ {
+  "file": "10.1128_spectrum.03403-25.txt",
+  "doi": "10.1128/spectrum.03403-25",
+  "anammox": 0,
+  "score": 96,
+  "top_kw": "salinity:8;halophilic:6;saline:5;osmotic:3;hypersaline:2;compatible solute:2;osmolyte:1;trehalose:1"
+ },
+ {
+  "file": "10.3762_bjoc.12.96.txt",
+  "doi": "10.3762/bjoc.12.96",
+  "anammox": 0,
+  "score": 94,
+  "top_kw": "halotolerant:5;halophilic:4;osmolyte:4;salinity:2;ectoine:2;betaine:2;saline:1;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.watres.2018.12.051.txt",
+  "doi": "10.1016/j.watres.2018.12.051",
+  "anammox": 8,
+  "score": 93,
+  "top_kw": "anammox:8;nitrite:6;nitrogen removal:1"
+ },
+ {
+  "file": "10.1371_journal.pone.0184974.txt",
+  "doi": "10.1371/journal.pone.0184974",
+  "anammox": 0,
+  "score": 93,
+  "top_kw": "salinity:10;halophilic:5;saline:3;osmotic:3;compatible solute:3;glutamate:2;hypersaline:1;betaine:1"
+ },
+ {
+  "file": "10.1016_j.csbj.2022.11.046.txt",
+  "doi": "10.1016/j.csbj.2022.11.046",
+  "anammox": 0,
+  "score": 91,
+  "top_kw": "saline:12;salinity:9;osmotic:9;osmolyte:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.isci.2025.113384.txt",
+  "doi": "10.1016/j.isci.2025.113384",
+  "anammox": 0,
+  "score": 89,
+  "top_kw": "salinity:15;saline:8;osmotic:8;betaine:1"
+ },
+ {
+  "file": "10.1038_s41545-026-00600-8.txt",
+  "doi": "10.1038/s41545-026-00600-8",
+  "anammox": 8,
+  "score": 89,
+  "top_kw": "anammox:8;nitrogen removal:3;brocadia:1"
+ },
+ {
+  "file": "10.1128_mra.00435-22.txt",
+  "doi": "10.1128/mra.00435-22",
+  "anammox": 0,
+  "score": 89,
+  "top_kw": "ectoine:9;saline:2;compatible solute:2;halophilic:1;hypersaline:1;halotolerant:1;hydroxyectoine:1"
+ },
+ {
+  "file": "10.1128_msystems.00842-20.txt",
+  "doi": "10.1128/msystems.00842-20",
+  "anammox": 0,
+  "score": 88,
+  "top_kw": "salinity:24;osmotic:4;osmolyte:2"
+ },
+ {
+  "file": "10.1128_mra.00084-24.txt",
+  "doi": "10.1128/mra.00084-24",
+  "anammox": 0,
+  "score": 87,
+  "top_kw": "ectoine:6;hydroxyectoine:4;halophilic:3;compatible solute:2;salinity:1;betaine:1"
+ },
+ {
+  "file": "10.1038_s41545-025-00543-6.txt",
+  "doi": "10.1038/s41545-025-00543-6",
+  "anammox": 5,
+  "score": 86,
+  "top_kw": "nitrite:15;nitrogen removal:6;anammox:5"
+ },
+ {
+  "file": "10.1128_msphere.00358-23.txt",
+  "doi": "10.1128/msphere.00358-23",
+  "anammox": 0,
+  "score": 86,
+  "top_kw": "osmotic:14;saline:4;ectoine:4;betaine:3;osmolyte:1;compatible solute:1"
+ },
+ {
+  "file": "10.1128_msystems.00924-25.txt",
+  "doi": "10.1128/msystems.00924-25",
+  "anammox": 0,
+  "score": 84,
+  "top_kw": "osmotic:26;osmolyte:3;betaine:2;salinity:1;compatible solute:1;trehalose:1"
+ },
+ {
+  "file": "10.1128_msystems.01106-22.txt",
+  "doi": "10.1128/msystems.01106-22",
+  "anammox": 0,
+  "score": 83,
+  "top_kw": "salinity:23;osmolyte:2;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.hal.2024.102627.txt",
+  "doi": "10.1016/j.hal.2024.102627",
+  "anammox": 0,
+  "score": 82,
+  "top_kw": "salinity:10;osmotic:4;compatible solute:4;osmolyte:2;trehalose:2;betaine:1;nitrite:1"
+ },
+ {
+  "file": "10.1128_Spectrum.01296-21.txt",
+  "doi": "10.1128/Spectrum.01296-21",
+  "anammox": 0,
+  "score": 81,
+  "top_kw": "osmotic:10;compatible solute:7;betaine:2;salinity:1;osmoadaptation:1;trehalose:1"
+ },
+ {
+  "file": "10.1021_acsestwater.5c01373.txt",
+  "doi": "10.1021/acsestwater.5c01373",
+  "anammox": 0,
+  "score": 80,
+  "top_kw": "salinity:14;saline:6;hypersaline:2;halophilic:1;osmotic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.bpj.2016.07.024.txt",
+  "doi": "10.1016/j.bpj.2016.07.024",
+  "anammox": 0,
+  "score": 78,
+  "top_kw": "ectoine:8;compatible solute:3;saline:1;osmotic:1;betaine:1;trehalose:1"
+ },
+ {
+  "file": "10.1038_s41598-020-66989-5.txt",
+  "doi": "10.1038/s41598-020-66989-5",
+  "anammox": 0,
+  "score": 78,
+  "top_kw": "saline:15;nitrite:8;salinity:5;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.jprot.2019.103400.txt",
+  "doi": "10.1016/j.jprot.2019.103400",
+  "anammox": 0,
+  "score": 77,
+  "top_kw": "osmotic:12;osmoadaptation:7;betaine:3;glutamate:3;trehalose:1"
+ },
+ {
+  "file": "10.1016_j.algal.2023.103155.txt",
+  "doi": "10.1016/j.algal.2023.103155",
+  "anammox": 0,
+  "score": 74,
+  "top_kw": "saline:9;salinity:7;osmotic:3;compatible solute:2;halotolerant:1;osmolyte:1"
+ },
+ {
+  "file": "10.1128_mra.00266-19.txt",
+  "doi": "10.1128/mra.00266-19",
+  "anammox": 0,
+  "score": 72,
+  "top_kw": "salinity:4;betaine:4;osmotic:3;saline:2;compatible solute:2;ectoine:2;halophilic:1;halotolerant:1"
+ },
+ {
+  "file": "10.1128_mra.00882-18.txt",
+  "doi": "10.1128/mra.00882-18",
+  "anammox": 0,
+  "score": 72,
+  "top_kw": "halophilic:6;osmotic:5;salinity:2;betaine:2;saline:1;hypersaline:1;osmolyte:1;compatible solute:1"
+ },
+ {
+  "file": "10.1038_s41598-025-26324-2.txt",
+  "doi": "10.1038/s41598-025-26324-2",
+  "anammox": 6,
+  "score": 69,
+  "top_kw": "anammox:6;nitrite:4;nitrogen removal:1"
+ },
+ {
+  "file": "10.1128_mBio.00324-21.txt",
+  "doi": "10.1128/mBio.00324-21",
+  "anammox": 0,
+  "score": 67,
+  "top_kw": "osmolyte:9;osmotic:4;glutamate:3;compatible solute:2;betaine:2"
+ },
+ {
+  "file": "10.1016_j.foodres.2020.109287.txt",
+  "doi": "10.1016/j.foodres.2020.109287",
+  "anammox": 0,
+  "score": 66,
+  "top_kw": "compatible solute:9;trehalose:4"
+ },
+ {
+  "file": "10.1128_msystems.00936-23.txt",
+  "doi": "10.1128/msystems.00936-23",
+  "anammox": 0,
+  "score": 66,
+  "top_kw": "salinity:22"
+ },
+ {
+  "file": "10.1016_j.carbpol.2026.125157.txt",
+  "doi": "10.1016/j.carbpol.2026.125157",
+  "anammox": 0,
+  "score": 65,
+  "top_kw": "saline:4;hypersaline:4;halotolerant:3;salinity:2;osmotic:2;halophilic:1;osmoadaptation:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.jgeb.2025.100636.txt",
+  "doi": "10.1016/j.jgeb.2025.100636",
+  "anammox": 0,
+  "score": 64,
+  "top_kw": "salinity:10;saline:4;osmotic:3;compatible solute:2;osmolyte:1"
+ },
+ {
+  "file": "10.1021_acs.est.1c00674.txt",
+  "doi": "10.1021/acs.est.1c00674",
+  "anammox": 6,
+  "score": 64,
+  "top_kw": "anammox:6;salinity:1;nitrogen removal:1"
+ },
+ {
+  "file": "10.1128_mbio.02272-19.txt",
+  "doi": "10.1128/mbio.02272-19",
+  "anammox": 0,
+  "score": 64,
+  "top_kw": "trehalose:18;osmotic:2;compatible solute:1"
+ },
+ {
+  "file": "10.1128_mra.01710-18.txt",
+  "doi": "10.1128/mra.01710-18",
+  "anammox": 0,
+  "score": 64,
+  "top_kw": "halophilic:4;compatible solute:3;betaine:3;glutamate:2;saline:1;hypersaline:1;halotolerant:1;osmoadaptation:1"
+ },
+ {
+  "file": "10.1128_mSystems.01202-20.txt",
+  "doi": "10.1128/mSystems.01202-20",
+  "anammox": 0,
+  "score": 63,
+  "top_kw": "betaine:6;osmolyte:3;saline:2;hypersaline:2;salinity:1;halophilic:1;ectoine:1"
+ },
+ {
+  "file": "10.1016_j.crmicr.2025.100433.txt",
+  "doi": "10.1016/j.crmicr.2025.100433",
+  "anammox": 0,
+  "score": 62,
+  "top_kw": "saline:7;hypersaline:7;salinity:3;betaine:1"
+ },
+ {
+  "file": "10.1021_acs.est.2c07294.txt",
+  "doi": "10.1021/acs.est.2c07294",
+  "anammox": 4,
+  "score": 60,
+  "top_kw": "nitrite:10;anammox:4"
+ },
+ {
+  "file": "10.1021_acs.est.5c09128.txt",
+  "doi": "10.1021/acs.est.5c09128",
+  "anammox": 6,
+  "score": 60,
+  "top_kw": "anammox:6"
+ },
+ {
+  "file": "10.1016_j.ceb.2023.102170.txt",
+  "doi": "10.1016/j.ceb.2023.102170",
+  "anammox": 0,
+  "score": 59,
+  "top_kw": "osmotic:18;osmolyte:3;betaine:2;trehalose:1"
+ },
+ {
+  "file": "10.1016_j.fmre.2025.02.009.txt",
+  "doi": "10.1016/j.fmre.2025.02.009",
+  "anammox": 0,
+  "score": 57,
+  "top_kw": "saline:11;salinity:8"
+ },
+ {
+  "file": "10.1016_j.mec.2024.e00251.txt",
+  "doi": "10.1016/j.mec.2024.e00251",
+  "anammox": 0,
+  "score": 57,
+  "top_kw": "ectoine:5;osmotic:2;hydroxyectoine:2;salinity:1;halophilic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.sjbs.2015.10.019.txt",
+  "doi": "10.1016/j.sjbs.2015.10.019",
+  "anammox": 0,
+  "score": 57,
+  "top_kw": "halophilic:6;saline:5;ectoine:2;compatible solute:1"
+ },
+ {
+  "file": "10.1021_acs.jafc.5c06247.txt",
+  "doi": "10.1021/acs.jafc.5c06247",
+  "anammox": 0,
+  "score": 57,
+  "top_kw": "halotolerant:6;halophilic:4;salinity:2;saline:1;osmotic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1021_acssuschemeng.5c13300.txt",
+  "doi": "10.1021/acssuschemeng.5c13300",
+  "anammox": 0,
+  "score": 56,
+  "top_kw": "betaine:12;salinity:1;saline:1;osmotic:1"
+ },
+ {
+  "file": "10.32604_phyton.2025.070712.txt",
+  "doi": "10.32604/phyton.2025.070712",
+  "anammox": 0,
+  "score": 56,
+  "top_kw": "salinity:5;compatible solute:4;osmotic:3;betaine:2;trehalose:1"
+ },
+ {
+  "file": "10.1016_j.bpj.2023.01.004.txt",
+  "doi": "10.1016/j.bpj.2023.01.004",
+  "anammox": 0,
+  "score": 54,
+  "top_kw": "compatible solute:4;trehalose:3;osmotic:2;salinity:1;osmolyte:1;ectoine:1;betaine:1"
+ },
+ {
+  "file": "10.1021_acs.est.3c03022.txt",
+  "doi": "10.1021/acs.est.3c03022",
+  "anammox": 4,
+  "score": 54,
+  "top_kw": "anammox:4;brocadia:2;nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.jnatprod.5c01035.txt",
+  "doi": "10.1021/acs.jnatprod.5c01035",
+  "anammox": 0,
+  "score": 54,
+  "top_kw": "ectoine:9"
+ },
+ {
+  "file": "10.1016_j.sjbs.2019.12.034.txt",
+  "doi": "10.1016/j.sjbs.2019.12.034",
+  "anammox": 0,
+  "score": 53,
+  "top_kw": "salinity:15;saline:2;osmotic:1"
+ },
+ {
+  "file": "10.1038_s41545-025-00494-y.txt",
+  "doi": "10.1038/s41545-025-00494-y",
+  "anammox": 2,
+  "score": 53,
+  "top_kw": "nitrite:15;nitrogen removal:3;anammox:2"
+ },
+ {
+  "file": "10.1128_spectrum.02334-23.txt",
+  "doi": "10.1128/spectrum.02334-23",
+  "anammox": 0,
+  "score": 53,
+  "top_kw": "salinity:9;saline:2;halotolerant:2;halophilic:1;hypersaline:1;betaine:1"
+ },
+ {
+  "file": "10.1038_srep45609.txt",
+  "doi": "10.1038/srep45609",
+  "anammox": 3,
+  "score": 51,
+  "top_kw": "nitrite:10;anammox:3;nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.8b04397.txt",
+  "doi": "10.1021/acs.est.8b04397",
+  "anammox": 5,
+  "score": 50,
+  "top_kw": "anammox:5"
+ },
+ {
+  "file": "10.1186_s43141-020-00070-6.txt",
+  "doi": "10.1186/s43141-020-00070-6",
+  "anammox": 0,
+  "score": 50,
+  "top_kw": "halophilic:5;salinity:3;saline:3;halotolerant:1;osmotic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1128_mra.00817-18.txt",
+  "doi": "10.1128/mra.00817-18",
+  "anammox": 0,
+  "score": 48,
+  "top_kw": "halotolerant:4;halophilic:2;salinity:1;osmotic:1;osmoadaptation:1;osmolyte:1;compatible solute:1;betaine:1"
+ },
+ {
+  "file": "10.1016_j.gdata.2016.01.010.txt",
+  "doi": "10.1016/j.gdata.2016.01.010",
+  "anammox": 0,
+  "score": 46,
+  "top_kw": "ectoine:5;salinity:1;saline:1;hypersaline:1;compatible solute:1"
+ },
+ {
+  "file": "10.1038_srep27502.txt",
+  "doi": "10.1038/srep27502",
+  "anammox": 0,
+  "score": 46,
+  "top_kw": "nitrite:17;nitrogen removal:9;salinity:1"
+ },
+ {
+  "file": "10.1038_srep44728.txt",
+  "doi": "10.1038/srep44728",
+  "anammox": 0,
+  "score": 44,
+  "top_kw": "nitrite:19;nitrogen removal:6"
+ },
+ {
+  "file": "10.1021_acs.est.0c01469.txt",
+  "doi": "10.1021/acs.est.0c01469",
+  "anammox": 4,
+  "score": 43,
+  "top_kw": "anammox:4;osmotic:1;nitrogen removal:1"
+ },
+ {
+  "file": "10.1186_s43141-022-00407-3.txt",
+  "doi": "10.1186/s43141-022-00407-3",
+  "anammox": 0,
+  "score": 43,
+  "top_kw": "salinity:6;saline:3;halotolerant:1;osmotic:1;osmolyte:1;compatible solute:1"
+ },
+ {
+  "file": "10.7150_jgen.53678.txt",
+  "doi": "10.7150/jgen.53678",
+  "anammox": 0,
+  "score": 43,
+  "top_kw": "compatible solute:5;salinity:2;betaine:1;trehalose:1"
+ },
+ {
+  "file": "10.1038_s41598-022-05521-3.txt",
+  "doi": "10.1038/s41598-022-05521-3",
+  "anammox": 2,
+  "score": 42,
+  "top_kw": "nitrite:10;anammox:2;nitrogen removal:2"
+ },
+ {
+  "file": "10.1128_msystems.01085-23.txt",
+  "doi": "10.1128/msystems.01085-23",
+  "anammox": 0,
+  "score": 42,
+  "top_kw": "osmotic:4;osmolyte:2;salinity:1;saline:1;halophilic:1;hypersaline:1;compatible solute:1;ectoine:1"
+ },
+ {
+  "file": "10.1016_j.isci.2026.117003.txt",
+  "doi": "10.1016/j.isci.2026.117003",
+  "anammox": 0,
+  "score": 41,
+  "top_kw": "salinity:11;halophilic:1;halotolerant:1"
+ },
+ {
+  "file": "10.1016_j.crfs.2022.10.004.txt",
+  "doi": "10.1016/j.crfs.2022.10.004",
+  "anammox": 0,
+  "score": 40,
+  "top_kw": "halophilic:7;osmotic:1;compatible solute:1;betaine:1"
+ },
+ {
+  "file": "10.1016_j.synbio.2024.06.008.txt",
+  "doi": "10.1016/j.synbio.2024.06.008",
+  "anammox": 0,
+  "score": 40,
+  "top_kw": "saline:9;osmotic:3;salinity:1;halophilic:1"
+ },
+ {
+  "file": "10.1016_j.watres.2024.121737.txt",
+  "doi": "10.1016/j.watres.2024.121737",
+  "anammox": 0,
+  "score": 40,
+  "top_kw": "salinity:8;saline:2;osmotic:2;trehalose:2"
+ },
+ {
+  "file": "10.1021_acs.est.0c01154.txt",
+  "doi": "10.1021/acs.est.0c01154",
+  "anammox": 4,
+  "score": 40,
+  "top_kw": "anammox:4"
+ },
+ {
+  "file": "10.1038_s41545-024-00352-3.txt",
+  "doi": "10.1038/s41545-024-00352-3",
+  "anammox": 3,
+  "score": 40,
+  "top_kw": "nitrite:4;anammox:3;nitrogen removal:2"
+ },
+ {
+  "file": "10.1038_srep39795.txt",
+  "doi": "10.1038/srep39795",
+  "anammox": 0,
+  "score": 40,
+  "top_kw": "nitrite:20"
+ },
+ {
+  "file": "10.1016_j.gdata.2016.08.014.txt",
+  "doi": "10.1016/j.gdata.2016.08.014",
+  "anammox": 0,
+  "score": 38,
+  "top_kw": "saline:4;halophilic:4;hypersaline:1;compatible solute:1"
+ },
+ {
+  "file": "10.1128_mbio.01498-25.txt",
+  "doi": "10.1128/mbio.01498-25",
+  "anammox": 0,
+  "score": 38,
+  "top_kw": "ectoine:5;osmotic:4"
+ },
+ {
+  "file": "10.1038_s41598-020-78314-1.txt",
+  "doi": "10.1038/s41598-020-78314-1",
+  "anammox": 1,
+  "score": 37,
+  "top_kw": "nitrite:13;anammox:1;nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-020-80057-y.txt",
+  "doi": "10.1038/s41598-020-80057-y",
+  "anammox": 3,
+  "score": 37,
+  "top_kw": "anammox:3;nitrite:3;nitrogen removal:1"
+ },
+ {
+  "file": "10.1128_msphere.00613-19.txt",
+  "doi": "10.1128/msphere.00613-19",
+  "anammox": 0,
+  "score": 36,
+  "top_kw": "salinity:5;saline:3;hypersaline:3"
+ },
+ {
+  "file": "10.1021_acs.jnatprod.3c00766.txt",
+  "doi": "10.1021/acs.jnatprod.3c00766",
+  "anammox": 0,
+  "score": 35,
+  "top_kw": "ectoine:5;osmoadaptation:1"
+ },
+ {
+  "file": "10.1128_mra.00144-21.txt",
+  "doi": "10.1128/mra.00144-21",
+  "anammox": 0,
+  "score": 35,
+  "top_kw": "halophilic:4;saline:3;hypersaline:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.mib.2020.02.004.txt",
+  "doi": "10.1016/j.mib.2020.02.004",
+  "anammox": 0,
+  "score": 34,
+  "top_kw": "nitrite:8;osmotic:3;betaine:2;halophilic:1"
+ },
+ {
+  "file": "10.1038_srep23747.txt",
+  "doi": "10.1038/srep23747",
+  "anammox": 0,
+  "score": 34,
+  "top_kw": "salinity:7;nitrite:3;compatible solute:1;nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.4c01417.txt",
+  "doi": "10.1021/acs.est.4c01417",
+  "anammox": 3,
+  "score": 33,
+  "top_kw": "anammox:3;salinity:1"
+ },
+ {
+  "file": "10.1021_acsestengg.3c00477.txt",
+  "doi": "10.1021/acsestengg.3c00477",
+  "anammox": 0,
+  "score": 33,
+  "top_kw": "salinity:7;betaine:3"
+ },
+ {
+  "file": "10.1038_s41598-017-02936-1.txt",
+  "doi": "10.1038/s41598-017-02936-1",
+  "anammox": 3,
+  "score": 33,
+  "top_kw": "anammox:3;nitrogen removal:3"
+ },
+ {
+  "file": "10.1128_msystems.00896-20.txt",
+  "doi": "10.1128/msystems.00896-20",
+  "anammox": 0,
+  "score": 33,
+  "top_kw": "osmolyte:3;salinity:2;osmotic:2;nitrite:2;betaine:1;trehalose:1"
+ },
+ {
+  "file": "10.1016_j.engmic.2026.100264.txt",
+  "doi": "10.1016/j.engmic.2026.100264",
+  "anammox": 0,
+  "score": 32,
+  "top_kw": "glutamate:58;osmotic:1"
+ },
+ {
+  "file": "10.1021_acs.est.5c15228.txt",
+  "doi": "10.1021/acs.est.5c15228",
+  "anammox": 3,
+  "score": 32,
+  "top_kw": "anammox:3;nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.6b01560.txt",
+  "doi": "10.1021/acs.est.6b01560",
+  "anammox": 3,
+  "score": 32,
+  "top_kw": "anammox:3;nitrite:1"
+ },
+ {
+  "file": "10.1128_mbio.02139-23.txt",
+  "doi": "10.1128/mbio.02139-23",
+  "anammox": 0,
+  "score": 31,
+  "top_kw": "compatible solute:3;salinity:2;saline:1;trehalose:1;glutamate:1"
+ },
+ {
+  "file": "10.1128_mbio.02572-24.txt",
+  "doi": "10.1128/mbio.02572-24",
+  "anammox": 0,
+  "score": 31,
+  "top_kw": "salinity:7;osmotic:2;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.sjbs.2021.05.056.txt",
+  "doi": "10.1016/j.sjbs.2021.05.056",
+  "anammox": 0,
+  "score": 30,
+  "top_kw": "saline:6;salinity:4"
+ },
+ {
+  "file": "10.1021_acs.est.6b05878.txt",
+  "doi": "10.1021/acs.est.6b05878",
+  "anammox": 3,
+  "score": 30,
+  "top_kw": "anammox:3"
+ },
+ {
+  "file": "10.1021_acs.est.9b06404.txt",
+  "doi": "10.1021/acs.est.9b06404",
+  "anammox": 3,
+  "score": 30,
+  "top_kw": "anammox:3"
+ },
+ {
+  "file": "10.1038_srep39208.txt",
+  "doi": "10.1038/srep39208",
+  "anammox": 1,
+  "score": 30,
+  "top_kw": "nitrite:10;anammox:1"
+ },
+ {
+  "file": "10.1128_mra.01496-18.txt",
+  "doi": "10.1128/mra.01496-18",
+  "anammox": 0,
+  "score": 30,
+  "top_kw": "ectoine:4;compatible solute:1"
+ },
+ {
+  "file": "10.1021_acs.est.2c02081.txt",
+  "doi": "10.1021/acs.est.2c02081",
+  "anammox": 1,
+  "score": 29,
+  "top_kw": "nitrite:7;nitrogen removal:5;anammox:1"
+ },
+ {
+  "file": "10.1021_acs.jproteome.3c00538.txt",
+  "doi": "10.1021/acs.jproteome.3c00538",
+  "anammox": 0,
+  "score": 29,
+  "top_kw": "halophilic:3;saline:2;hypersaline:2;salinity:1"
+ },
+ {
+  "file": "10.1128_mra.00007-21.txt",
+  "doi": "10.1128/mra.00007-21",
+  "anammox": 0,
+  "score": 29,
+  "top_kw": "ectoine:3;compatible solute:1;hydroxyectoine:1"
+ },
+ {
+  "file": "10.1038_s41598-018-21702-5.txt",
+  "doi": "10.1038/s41598-018-21702-5",
+  "anammox": 0,
+  "score": 28,
+  "top_kw": "salinity:6;nitrite:5"
+ },
+ {
+  "file": "10.1074_jbc.RA119.008774.txt",
+  "doi": "10.1074/jbc.RA119.008774",
+  "anammox": 0,
+  "score": 28,
+  "top_kw": "compatible solute:4;osmolyte:1"
+ },
+ {
+  "file": "10.1016_j.eehl.2026.100258.txt",
+  "doi": "10.1016/j.eehl.2026.100258",
+  "anammox": 0,
+  "score": 27,
+  "top_kw": "salinity:7;nitrite:3"
+ },
+ {
+  "file": "10.1128_spectrum.00136-24.txt",
+  "doi": "10.1128/spectrum.00136-24",
+  "anammox": 0,
+  "score": 27,
+  "top_kw": "osmotic:12;trehalose:1"
+ },
+ {
+  "file": "10.1016_j.soilbio.2018.07.013.txt",
+  "doi": "10.1016/j.soilbio.2018.07.013",
+  "anammox": 0,
+  "score": 26,
+  "top_kw": "saline:4;salinity:2;halophilic:1;halotolerant:1"
+ },
+ {
+  "file": "10.1016_j.watres.2024.121993.txt",
+  "doi": "10.1016/j.watres.2024.121993",
+  "anammox": 2,
+  "score": 26,
+  "top_kw": "nitrite:3;anammox:2"
+ },
+ {
+  "file": "10.1128_spectrum.01606-22.txt",
+  "doi": "10.1128/spectrum.01606-22",
+  "anammox": 0,
+  "score": 26,
+  "top_kw": "betaine:5;compatible solute:1"
+ },
+ {
+  "file": "10.1021_acs.est.7b02567.txt",
+  "doi": "10.1021/acs.est.7b02567",
+  "anammox": 0,
+  "score": 25,
+  "top_kw": "osmotic:7;salinity:1;halophilic:1;halotolerant:1"
+ },
+ {
+  "file": "10.1038_s41396-019-0538-1.txt",
+  "doi": "10.1038/s41396-019-0538-1",
+  "anammox": 1,
+  "score": 25,
+  "top_kw": "nitrite:7;anammox:1;glutamate:1"
+ },
+ {
+  "file": "10.1128_mbio.01155-20.txt",
+  "doi": "10.1128/mbio.01155-20",
+  "anammox": 0,
+  "score": 25,
+  "top_kw": "compatible solute:2;saline:1;hypersaline:1;halotolerant:1;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.crmicr.2025.100419.txt",
+  "doi": "10.1016/j.crmicr.2025.100419",
+  "anammox": 0,
+  "score": 24,
+  "top_kw": "salinity:5;saline:3"
+ },
+ {
+  "file": "10.1016_j.watres.2016.12.042.txt",
+  "doi": "10.1016/j.watres.2016.12.042",
+  "anammox": 0,
+  "score": 24,
+  "top_kw": "salinity:8"
+ },
+ {
+  "file": "10.1021_acs.jafc.5c08498.txt",
+  "doi": "10.1021/acs.jafc.5c08498",
+  "anammox": 0,
+  "score": 24,
+  "top_kw": "saline:6;salinity:2"
+ },
+ {
+  "file": "10.1021_acs.jproteome.5b00526.txt",
+  "doi": "10.1021/acs.jproteome.5b00526",
+  "anammox": 0,
+  "score": 24,
+  "top_kw": "salinity:2;saline:2;halophilic:1;hypersaline:1;betaine:1"
+ },
+ {
+  "file": "10.1038_s41396-020-0650-2.txt",
+  "doi": "10.1038/s41396-020-0650-2",
+  "anammox": 0,
+  "score": 24,
+  "top_kw": "nitrite:12"
+ },
+ {
+  "file": "10.1128_mra.00227-20.txt",
+  "doi": "10.1128/mra.00227-20",
+  "anammox": 0,
+  "score": 24,
+  "top_kw": "compatible solute:2;ectoine:2"
+ },
+ {
+  "file": "10.1128_spectrum.03786-23.txt",
+  "doi": "10.1128/spectrum.03786-23",
+  "anammox": 0,
+  "score": 24,
+  "top_kw": "osmotic:4;compatible solute:2;osmolyte:1"
+ },
+ {
+  "file": "10.1038_s41598-019-40872-4.txt",
+  "doi": "10.1038/s41598-019-40872-4",
+  "anammox": 0,
+  "score": 23,
+  "top_kw": "nitrite:11;nitrogen removal:1"
+ },
+ {
+  "file": "10.1128_msystems.00403-22.txt",
+  "doi": "10.1128/msystems.00403-22",
+  "anammox": 0,
+  "score": 23,
+  "top_kw": "osmotic:3;osmolyte:2;compatible solute:1;glutamate:1;nitrite:1"
+ },
+ {
+  "file": "10.3897_mbmg.9.144128.txt",
+  "doi": "10.3897/mbmg.9.144128",
+  "anammox": 0,
+  "score": 23,
+  "top_kw": "salinity:5;osmotic:2;betaine:1"
+ },
+ {
+  "file": "10.1016_j.crfs.2026.101397.txt",
+  "doi": "10.1016/j.crfs.2026.101397",
+  "anammox": 0,
+  "score": 22,
+  "top_kw": "osmotic:5;saline:4"
+ },
+ {
+  "file": "10.1021_acs.est.6c05759.txt",
+  "doi": "10.1021/acs.est.6c05759",
+  "anammox": 0,
+  "score": 22,
+  "top_kw": "osmotic:1;osmoadaptation:1;osmolyte:1;compatible solute:1;betaine:1;glutamate:1"
+ },
+ {
+  "file": "10.1021_acs.est.7b05699.txt",
+  "doi": "10.1021/acs.est.7b05699",
+  "anammox": 2,
+  "score": 22,
+  "top_kw": "anammox:2;nitrite:1"
+ },
+ {
+  "file": "10.1021_acsestengg.6c00012.txt",
+  "doi": "10.1021/acsestengg.6c00012",
+  "anammox": 2,
+  "score": 22,
+  "top_kw": "anammox:2;nitrite:1"
+ },
+ {
+  "file": "10.1021_acssynbio.5c00344.txt",
+  "doi": "10.1021/acssynbio.5c00344",
+  "anammox": 0,
+  "score": 22,
+  "top_kw": "compatible solute:3;osmolyte:1"
+ },
+ {
+  "file": "10.1038_s41598-022-07132-4.txt",
+  "doi": "10.1038/s41598-022-07132-4",
+  "anammox": 2,
+  "score": 22,
+  "top_kw": "anammox:2;nitrite:1"
+ },
+ {
+  "file": "10.1016_j.bbrc.2018.08.073.txt",
+  "doi": "10.1016/j.bbrc.2018.08.073",
+  "anammox": 0,
+  "score": 21,
+  "top_kw": "saline:3;hypersaline:3"
+ },
+ {
+  "file": "10.1016_j.chemosphere.2022.133988.txt",
+  "doi": "10.1016/j.chemosphere.2022.133988",
+  "anammox": 0,
+  "score": 21,
+  "top_kw": "salinity:4;saline:3"
+ },
+ {
+  "file": "10.1021_acs.est.2c08034.txt",
+  "doi": "10.1021/acs.est.2c08034",
+  "anammox": 2,
+  "score": 21,
+  "top_kw": "anammox:2;nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.3c07017.txt",
+  "doi": "10.1021/acs.est.3c07017",
+  "anammox": 2,
+  "score": 21,
+  "top_kw": "anammox:2;nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.9b04400.txt",
+  "doi": "10.1021/acs.est.9b04400",
+  "anammox": 2,
+  "score": 21,
+  "top_kw": "anammox:2;nitrogen removal:1"
+ },
+ {
+  "file": "10.1128_msystems.01718-25.txt",
+  "doi": "10.1128/msystems.01718-25",
+  "anammox": 0,
+  "score": 21,
+  "top_kw": "salinity:5;compatible solute:1"
+ },
+ {
+  "file": "10.1139_cjm-2019-0323.txt",
+  "doi": "10.1139/cjm-2019-0323",
+  "anammox": 0,
+  "score": 21,
+  "top_kw": "saline:4;salinity:3"
+ },
+ {
+  "file": "10.1016_j.watres.2020.115855.txt",
+  "doi": "10.1016/j.watres.2020.115855",
+  "anammox": 0,
+  "score": 20,
+  "top_kw": "salinity:3;osmotic:2;saline:1;osmolyte:1"
+ },
+ {
+  "file": "10.1016_j.watres.2023.119620.txt",
+  "doi": "10.1016/j.watres.2023.119620",
+  "anammox": 2,
+  "score": 20,
+  "top_kw": "anammox:2"
+ },
+ {
+  "file": "10.1038_s41396-020-00827-4.txt",
+  "doi": "10.1038/s41396-020-00827-4",
+  "anammox": 0,
+  "score": 20,
+  "top_kw": "nitrite:10"
+ },
+ {
+  "file": "10.1038_s43247-025-02815-y.txt",
+  "doi": "10.1038/s43247-025-02815-y",
+  "anammox": 0,
+  "score": 20,
+  "top_kw": "nitrite:8;nitrogen removal:4"
+ },
+ {
+  "file": "10.1128_mbio.03175-19.txt",
+  "doi": "10.1128/mbio.03175-19",
+  "anammox": 0,
+  "score": 20,
+  "top_kw": "nitrite:10"
+ },
+ {
+  "file": "10.1128_msystems.00114-22.txt",
+  "doi": "10.1128/msystems.00114-22",
+  "anammox": 0,
+  "score": 20,
+  "top_kw": "compatible solute:2;saline:1;osmotic:1;trehalose:1"
+ },
+ {
+  "file": "10.1128_spectrum.05112-22.txt",
+  "doi": "10.1128/spectrum.05112-22",
+  "anammox": 0,
+  "score": 20,
+  "top_kw": "halophilic:2;compatible solute:1;ectoine:1"
+ },
+ {
+  "file": "10.1038_s41598-017-12565-3.txt",
+  "doi": "10.1038/s41598-017-12565-3",
+  "anammox": 0,
+  "score": 19,
+  "top_kw": "nitrite:8;nitrogen removal:3"
+ },
+ {
+  "file": "10.1038_s41598-024-65146-6.txt",
+  "doi": "10.1038/s41598-024-65146-6",
+  "anammox": 0,
+  "score": 19,
+  "top_kw": "salinity:5;nitrite:2"
+ },
+ {
+  "file": "10.1038_s41598-025-09460-7.txt",
+  "doi": "10.1038/s41598-025-09460-7",
+  "anammox": 1,
+  "score": 19,
+  "top_kw": "nitrite:3;anammox:1;salinity:1"
+ },
+ {
+  "file": "10.1016_j.jbc.2024.108127.txt",
+  "doi": "10.1016/j.jbc.2024.108127",
+  "anammox": 0,
+  "score": 18,
+  "top_kw": "saline:5;salinity:1"
+ },
+ {
+  "file": "10.1016_j.synbio.2018.10.012.txt",
+  "doi": "10.1016/j.synbio.2018.10.012",
+  "anammox": 0,
+  "score": 18,
+  "top_kw": "osmotic:9"
+ },
+ {
+  "file": "10.1016_j.watres.2017.02.011.txt",
+  "doi": "10.1016/j.watres.2017.02.011",
+  "anammox": 0,
+  "score": 18,
+  "top_kw": "nitrite:9"
+ },
+ {
+  "file": "10.1021_acs.jproteome.1c00851.txt",
+  "doi": "10.1021/acs.jproteome.1c00851",
+  "anammox": 0,
+  "score": 18,
+  "top_kw": "osmolyte:3;osmotic:1;betaine:1"
+ },
+ {
+  "file": "10.1038_s41558-020-0723-2.txt",
+  "doi": "10.1038/s41558-020-0723-2",
+  "anammox": 1,
+  "score": 18,
+  "top_kw": "salinity:2;anammox:1;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-017-17312-2.txt",
+  "doi": "10.1038/s41598-017-17312-2",
+  "anammox": 1,
+  "score": 18,
+  "top_kw": "nitrite:4;anammox:1"
+ },
+ {
+  "file": "10.1007_s12192-020-01139-4.txt",
+  "doi": "10.1007/s12192-020-01139-4",
+  "anammox": 0,
+  "score": 17,
+  "top_kw": "osmotic:2;compatible solute:1;betaine:1;trehalose:1"
+ },
+ {
+  "file": "10.1016_j.heliyon.2022.e09493.txt",
+  "doi": "10.1016/j.heliyon.2022.e09493",
+  "anammox": 0,
+  "score": 17,
+  "top_kw": "osmolyte:2;saline:1;osmotic:1;betaine:1"
+ },
+ {
+  "file": "10.1021_acs.est.5c01275.txt",
+  "doi": "10.1021/acs.est.5c01275",
+  "anammox": 1,
+  "score": 17,
+  "top_kw": "nitrite:3;anammox:1;nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.6c03588.txt",
+  "doi": "10.1021/acs.est.6c03588",
+  "anammox": 1,
+  "score": 17,
+  "top_kw": "nitrogen removal:3;nitrite:2;anammox:1"
+ },
+ {
+  "file": "10.1038_s41598-017-06943-0.txt",
+  "doi": "10.1038/s41598-017-06943-0",
+  "anammox": 0,
+  "score": 17,
+  "top_kw": "nitrite:7;nitrogen removal:3"
+ },
+ {
+  "file": "10.1128_mbio.01555-25.txt",
+  "doi": "10.1128/mbio.01555-25",
+  "anammox": 0,
+  "score": 17,
+  "top_kw": "betaine:2;salinity:1;compatible solute:1"
+ },
+ {
+  "file": "10.5004_dwt.2021.27884.txt",
+  "doi": "10.5004/dwt.2021.27884",
+  "anammox": 0,
+  "score": 17,
+  "top_kw": "saline:3;halophilic:2"
+ },
+ {
+  "file": "10.1016_j.fm.2019.103380.txt",
+  "doi": "10.1016/j.fm.2019.103380",
+  "anammox": 0,
+  "score": 16,
+  "top_kw": "osmotic:2;compatible solute:2"
+ },
+ {
+  "file": "10.1016_j.soilbio.2018.11.017.txt",
+  "doi": "10.1016/j.soilbio.2018.11.017",
+  "anammox": 0,
+  "score": 16,
+  "top_kw": "osmotic:7;nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.5c16556.txt",
+  "doi": "10.1021/acs.est.5c16556",
+  "anammox": 0,
+  "score": 16,
+  "top_kw": "nitrite:6;nitrogen removal:4"
+ },
+ {
+  "file": "10.1093_femsre_fuad025.txt",
+  "doi": "10.1093/femsre/fuad025",
+  "anammox": 0,
+  "score": 16,
+  "top_kw": "osmotic:3;compatible solute:1;betaine:1"
+ },
+ {
+  "file": "10.1016_j.carres.2019.107902.txt",
+  "doi": "10.1016/j.carres.2019.107902",
+  "anammox": 0,
+  "score": 15,
+  "top_kw": "trehalose:5"
+ },
+ {
+  "file": "10.1016_j.synbio.2026.02.008.txt",
+  "doi": "10.1016/j.synbio.2026.02.008",
+  "anammox": 0,
+  "score": 15,
+  "top_kw": "betaine:3;glutamate:3"
+ },
+ {
+  "file": "10.1016_j.watres.2024.121875.txt",
+  "doi": "10.1016/j.watres.2024.121875",
+  "anammox": 1,
+  "score": 15,
+  "top_kw": "nitrogen removal:3;anammox:1;nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.jpcb.1c01930.txt",
+  "doi": "10.1021/acs.jpcb.1c01930",
+  "anammox": 0,
+  "score": 15,
+  "top_kw": "osmotic:6;salinity:1"
+ },
+ {
+  "file": "10.1038_s41467-019-09790-x.txt",
+  "doi": "10.1038/s41467-019-09790-x",
+  "anammox": 0,
+  "score": 15,
+  "top_kw": "nitrite:7;nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-024-56196-x.txt",
+  "doi": "10.1038/s41598-024-56196-x",
+  "anammox": 0,
+  "score": 15,
+  "top_kw": "nitrite:7;nitrogen removal:1"
+ },
+ {
+  "file": "10.1016_j.cub.2026.06.070.txt",
+  "doi": "10.1016/j.cub.2026.06.070",
+  "anammox": 0,
+  "score": 14,
+  "top_kw": "salinity:2;saline:2;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.watres.2022.119497.txt",
+  "doi": "10.1016/j.watres.2022.119497",
+  "anammox": 0,
+  "score": 14,
+  "top_kw": "nitrogen removal:6;nitrite:4"
+ },
+ {
+  "file": "10.1021_acs.est.2c04943.txt",
+  "doi": "10.1021/acs.est.2c04943",
+  "anammox": 0,
+  "score": 14,
+  "top_kw": "salinity:4;nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.7b01225.txt",
+  "doi": "10.1021/acs.est.7b01225",
+  "anammox": 1,
+  "score": 14,
+  "top_kw": "nitrite:2;anammox:1"
+ },
+ {
+  "file": "10.1038_s41396-020-0701-8.txt",
+  "doi": "10.1038/s41396-020-0701-8",
+  "anammox": 1,
+  "score": 14,
+  "top_kw": "nitrite:2;anammox:1"
+ },
+ {
+  "file": "10.1038_s41545-024-00313-w.txt",
+  "doi": "10.1038/s41545-024-00313-w",
+  "anammox": 0,
+  "score": 14,
+  "top_kw": "osmotic:4;salinity:2"
+ },
+ {
+  "file": "10.1038_s41564-023-01578-6.txt",
+  "doi": "10.1038/s41564-023-01578-6",
+  "anammox": 0,
+  "score": 14,
+  "top_kw": "nitrite:7"
+ },
+ {
+  "file": "10.1038_s41598-019-41542-1.txt",
+  "doi": "10.1038/s41598-019-41542-1",
+  "anammox": 1,
+  "score": 14,
+  "top_kw": "nitrogen removal:2;anammox:1;nitrite:1"
+ },
+ {
+  "file": "10.1128_spectrum.04110-22.txt",
+  "doi": "10.1128/spectrum.04110-22",
+  "anammox": 0,
+  "score": 14,
+  "top_kw": "salinity:2;compatible solute:1;nitrite:1"
+ },
+ {
+  "file": "10.1016_j.scienta.2021.110621.txt",
+  "doi": "10.1016/j.scienta.2021.110621",
+  "anammox": 0,
+  "score": 13,
+  "top_kw": "salinity:2;nitrite:2;saline:1"
+ },
+ {
+  "file": "10.1038_srep22547.txt",
+  "doi": "10.1038/srep22547",
+  "anammox": 1,
+  "score": 13,
+  "top_kw": "anammox:1;nitrogen removal:1;nitrite:1"
+ },
+ {
+  "file": "10.1128_msphere.00237-17.txt",
+  "doi": "10.1128/msphere.00237-17",
+  "anammox": 0,
+  "score": 13,
+  "top_kw": "salinity:2;saline:1;hypersaline:1"
+ },
+ {
+  "file": "10.1128_spectrum.01994-21.txt",
+  "doi": "10.1128/spectrum.01994-21",
+  "anammox": 0,
+  "score": 13,
+  "top_kw": "osmotic:5;salinity:1"
+ },
+ {
+  "file": "10.1016_j.envadv.2026.100710.txt",
+  "doi": "10.1016/j.envadv.2026.100710",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "salinity:4"
+ },
+ {
+  "file": "10.1016_j.sjbs.2019.07.010.txt",
+  "doi": "10.1016/j.sjbs.2019.07.010",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "salinity:2;saline:2"
+ },
+ {
+  "file": "10.1016_j.watres.2023.119748.txt",
+  "doi": "10.1016/j.watres.2023.119748",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "nitrogen removal:3;nitrite:3;salinity:1"
+ },
+ {
+  "file": "10.1021_acs.est.6c08729.txt",
+  "doi": "10.1021/acs.est.6c08729",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "salinity:4"
+ },
+ {
+  "file": "10.1038_s41597-025-04682-w.txt",
+  "doi": "10.1038/s41597-025-04682-w",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "saline:4"
+ },
+ {
+  "file": "10.1038_s41598-023-36507-4.txt",
+  "doi": "10.1038/s41598-023-36507-4",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "nitrite:5;nitrogen removal:2"
+ },
+ {
+  "file": "10.1038_s41598-026-60272-9.txt",
+  "doi": "10.1038/s41598-026-60272-9",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "nitrite:6"
+ },
+ {
+  "file": "10.1093_synbio_ysy014.txt",
+  "doi": "10.1093/synbio/ysy014",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "compatible solute:2"
+ },
+ {
+  "file": "10.1128_spectrum.00710-21.txt",
+  "doi": "10.1128/spectrum.00710-21",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "osmotic:2;compatible solute:1;nitrite:1"
+ },
+ {
+  "file": "10.1128_spectrum.01273-25.txt",
+  "doi": "10.1128/spectrum.01273-25",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "ectoine:2"
+ },
+ {
+  "file": "10.5004_dwt.2021.26692.txt",
+  "doi": "10.5004/dwt.2021.26692",
+  "anammox": 0,
+  "score": 12,
+  "top_kw": "salinity:3;saline:1"
+ },
+ {
+  "file": "10.1016_j.crmicr.2026.100580.txt",
+  "doi": "10.1016/j.crmicr.2026.100580",
+  "anammox": 0,
+  "score": 11,
+  "top_kw": "osmotic:1;compatible solute:1;trehalose:1"
+ },
+ {
+  "file": "10.1016_j.isci.2025.113261.txt",
+  "doi": "10.1016/j.isci.2025.113261",
+  "anammox": 0,
+  "score": 11,
+  "top_kw": "glutamate:3;osmotic:2;osmolyte:1"
+ },
+ {
+  "file": "10.1016_j.jbc.2025.111055.txt",
+  "doi": "10.1016/j.jbc.2025.111055",
+  "anammox": 0,
+  "score": 11,
+  "top_kw": "osmolyte:2;salinity:1"
+ },
+ {
+  "file": "10.1021_acsestengg.4c00058.txt",
+  "doi": "10.1021/acsestengg.4c00058",
+  "anammox": 1,
+  "score": 11,
+  "top_kw": "anammox:1;nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acsestwater.6c00239.txt",
+  "doi": "10.1021/acsestwater.6c00239",
+  "anammox": 0,
+  "score": 11,
+  "top_kw": "nitrite:4;saline:1"
+ },
+ {
+  "file": "10.1038_s41598-018-28305-0.txt",
+  "doi": "10.1038/s41598-018-28305-0",
+  "anammox": 0,
+  "score": 11,
+  "top_kw": "nitrogen removal:5;nitrite:3"
+ },
+ {
+  "file": "10.1128_mra.00347-19.txt",
+  "doi": "10.1128/mra.00347-19",
+  "anammox": 0,
+  "score": 11,
+  "top_kw": "salinity:1;osmotic:1;compatible solute:1"
+ },
+ {
+  "file": "10.32604_phyton.2026.080990.txt",
+  "doi": "10.32604/phyton.2026.080990",
+  "anammox": 0,
+  "score": 11,
+  "top_kw": "salinity:3;osmotic:1"
+ },
+ {
+  "file": "10.32604_phyton.2026.083440.txt",
+  "doi": "10.32604/phyton.2026.083440",
+  "anammox": 0,
+  "score": 11,
+  "top_kw": "salinity:3;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.copbio.2024.103141.txt",
+  "doi": "10.1016/j.copbio.2024.103141",
+  "anammox": 0,
+  "score": 10,
+  "top_kw": "compatible solute:1;betaine:1"
+ },
+ {
+  "file": "10.1016_j.synbio.2016.05.001.txt",
+  "doi": "10.1016/j.synbio.2016.05.001",
+  "anammox": 0,
+  "score": 10,
+  "top_kw": "halophilic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.tim.2020.11.005.txt",
+  "doi": "10.1016/j.tim.2020.11.005",
+  "anammox": 0,
+  "score": 10,
+  "top_kw": "osmotic:2;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.watres.2022.118408.txt",
+  "doi": "10.1016/j.watres.2022.118408",
+  "anammox": 1,
+  "score": 10,
+  "top_kw": "anammox:1"
+ },
+ {
+  "file": "10.1016_j.ymben.2025.05.007.txt",
+  "doi": "10.1016/j.ymben.2025.05.007",
+  "anammox": 0,
+  "score": 10,
+  "top_kw": "compatible solute:1;betaine:1"
+ },
+ {
+  "file": "10.1021_acs.est.1c05123.txt",
+  "doi": "10.1021/acs.est.1c05123",
+  "anammox": 1,
+  "score": 10,
+  "top_kw": "anammox:1"
+ },
+ {
+  "file": "10.1021_acs.est.2c06706.txt",
+  "doi": "10.1021/acs.est.2c06706",
+  "anammox": 1,
+  "score": 10,
+  "top_kw": "anammox:1"
+ },
+ {
+  "file": "10.1021_acs.est.7b03975.txt",
+  "doi": "10.1021/acs.est.7b03975",
+  "anammox": 1,
+  "score": 10,
+  "top_kw": "anammox:1"
+ },
+ {
+  "file": "10.1038_s41545-020-00080-4.txt",
+  "doi": "10.1038/s41545-020-00080-4",
+  "anammox": 0,
+  "score": 10,
+  "top_kw": "nitrite:4;nitrogen removal:2"
+ },
+ {
+  "file": "10.1038_s41598-018-34183-3.txt",
+  "doi": "10.1038/s41598-018-34183-3",
+  "anammox": 1,
+  "score": 10,
+  "top_kw": "anammox:1"
+ },
+ {
+  "file": "10.1038_s41598-019-42521-2.txt",
+  "doi": "10.1038/s41598-019-42521-2",
+  "anammox": 1,
+  "score": 10,
+  "top_kw": "anammox:1"
+ },
+ {
+  "file": "10.1038_srep18509.txt",
+  "doi": "10.1038/srep18509",
+  "anammox": 1,
+  "score": 10,
+  "top_kw": "anammox:1"
+ },
+ {
+  "file": "10.1128_mbio.03456-23.txt",
+  "doi": "10.1128/mbio.03456-23",
+  "anammox": 0,
+  "score": 10,
+  "top_kw": "glutamate:2;osmotic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.clet.2026.101269.txt",
+  "doi": "10.1016/j.clet.2026.101269",
+  "anammox": 0,
+  "score": 9,
+  "top_kw": "salinity:2;saline:1"
+ },
+ {
+  "file": "10.1021_acs.jafc.6c07185.txt",
+  "doi": "10.1021/acs.jafc.6c07185",
+  "anammox": 0,
+  "score": 9,
+  "top_kw": "trehalose:3"
+ },
+ {
+  "file": "10.1038_s41545-018-0022-x.txt",
+  "doi": "10.1038/s41545-018-0022-x",
+  "anammox": 0,
+  "score": 9,
+  "top_kw": "osmotic:2;nitrite:2;nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-022-15527-6.txt",
+  "doi": "10.1038/s41598-022-15527-6",
+  "anammox": 0,
+  "score": 9,
+  "top_kw": "salinity:3"
+ },
+ {
+  "file": "10.1038_s41598-022-23123-x.txt",
+  "doi": "10.1038/s41598-022-23123-x",
+  "anammox": 0,
+  "score": 9,
+  "top_kw": "nitrogen removal:3;nitrite:3"
+ },
+ {
+  "file": "10.1038_s41598-024-72490-0.txt",
+  "doi": "10.1038/s41598-024-72490-0",
+  "anammox": 0,
+  "score": 9,
+  "top_kw": "nitrogen removal:3;nitrite:3"
+ },
+ {
+  "file": "10.1038_srep26514.txt",
+  "doi": "10.1038/srep26514",
+  "anammox": 0,
+  "score": 9,
+  "top_kw": "nitrogen removal:3;nitrite:3"
+ },
+ {
+  "file": "10.32604_phyton.2023.027469.txt",
+  "doi": "10.32604/phyton.2023.027469",
+  "anammox": 0,
+  "score": 9,
+  "top_kw": "salinity:3"
+ },
+ {
+  "file": "10.32604_phyton.2025.063763.txt",
+  "doi": "10.32604/phyton.2025.063763",
+  "anammox": 0,
+  "score": 9,
+  "top_kw": "salinity:3"
+ },
+ {
+  "file": "10.1016_j.ferfo.2026.100005.txt",
+  "doi": "10.1016/j.ferfo.2026.100005",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "osmotic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.scitotenv.2021.150136.txt",
+  "doi": "10.1016/j.scitotenv.2021.150136",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "osmotic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.watres.2018.06.025.txt",
+  "doi": "10.1016/j.watres.2018.06.025",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "nitrite:4"
+ },
+ {
+  "file": "10.1021_acs.est.1c07522.txt",
+  "doi": "10.1021/acs.est.1c07522",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "nitrite:4"
+ },
+ {
+  "file": "10.1021_acs.jafc.3c04936.txt",
+  "doi": "10.1021/acs.jafc.3c04936",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "betaine:2"
+ },
+ {
+  "file": "10.1021_acs.jpcb.0c03311.txt",
+  "doi": "10.1021/acs.jpcb.0c03311",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "osmolyte:2"
+ },
+ {
+  "file": "10.1021_acs.jproteome.4c00581.txt",
+  "doi": "10.1021/acs.jproteome.4c00581",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "saline:1;osmoadaptation:1"
+ },
+ {
+  "file": "10.1021_acssynbio.0c00234.txt",
+  "doi": "10.1021/acssynbio.0c00234",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "betaine:2"
+ },
+ {
+  "file": "10.1021_jacs.9b06727.txt",
+  "doi": "10.1021/jacs.9b06727",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "osmolyte:2"
+ },
+ {
+  "file": "10.1038_s41467-022-35533-6.txt",
+  "doi": "10.1038/s41467-022-35533-6",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "nitrite:4"
+ },
+ {
+  "file": "10.1038_s41545-024-00299-5.txt",
+  "doi": "10.1038/s41545-024-00299-5",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "nitrogen removal:6;nitrite:1"
+ },
+ {
+  "file": "10.1038_srep24444.txt",
+  "doi": "10.1038/srep24444",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "nitrogen removal:6;nitrite:1"
+ },
+ {
+  "file": "10.1128_mbio.01207-26.txt",
+  "doi": "10.1128/mbio.01207-26",
+  "anammox": 0,
+  "score": 8,
+  "top_kw": "osmotic:1;compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.crmicr.2024.100319.txt",
+  "doi": "10.1016/j.crmicr.2024.100319",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "saline:1;osmolyte:1"
+ },
+ {
+  "file": "10.1016_j.cub.2026.03.041.txt",
+  "doi": "10.1016/j.cub.2026.03.041",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "saline:1;hypersaline:1"
+ },
+ {
+  "file": "10.1016_j.watres.2016.10.057.txt",
+  "doi": "10.1016/j.watres.2016.10.057",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "nitrite:3;nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.3c01936.txt",
+  "doi": "10.1021/acs.est.3c01936",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "nitrite:2;saline:1"
+ },
+ {
+  "file": "10.1021_jacs.4c15940.txt",
+  "doi": "10.1021/jacs.4c15940",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "ectoine:1;glutamate:1"
+ },
+ {
+  "file": "10.1038_s41522-021-00218-3.txt",
+  "doi": "10.1038/s41522-021-00218-3",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "nitrite:2;salinity:1"
+ },
+ {
+  "file": "10.1038_s41545-018-0005-y.txt",
+  "doi": "10.1038/s41545-018-0005-y",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "nitrite:2;salinity:1"
+ },
+ {
+  "file": "10.1038_s41598-021-89665-8.txt",
+  "doi": "10.1038/s41598-021-89665-8",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "nitrite:3;nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-025-11476-y.txt",
+  "doi": "10.1038/s41598-025-11476-y",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "nitrogen removal:5;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-026-44237-6.txt",
+  "doi": "10.1038/s41598-026-44237-6",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "nitrite:3;nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_srep36178.txt",
+  "doi": "10.1038/srep36178",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "nitrogen removal:3;nitrite:2"
+ },
+ {
+  "file": "10.1128_msystems.00493-25.txt",
+  "doi": "10.1128/msystems.00493-25",
+  "anammox": 0,
+  "score": 7,
+  "top_kw": "osmolyte:1;trehalose:1"
+ },
+ {
+  "file": "10.1016_B978-0-12-819528-4.00028-6.txt",
+  "doi": "10.1016/B978-0-12-819528-4.00028-6",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.fm.2019.103406.txt",
+  "doi": "10.1016/j.fm.2019.103406",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.fochms.2026.100430.txt",
+  "doi": "10.1016/j.fochms.2026.100430",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "salinity:1;glutamate:1;nitrite:1"
+ },
+ {
+  "file": "10.1016_j.jenvman.2025.125631.txt",
+  "doi": "10.1016/j.jenvman.2025.125631",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "saline:2"
+ },
+ {
+  "file": "10.1016_j.jgeb.2025.100535.txt",
+  "doi": "10.1016/j.jgeb.2025.100535",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "osmotic:1;osmolyte:1"
+ },
+ {
+  "file": "10.1016_j.sjbs.2021.03.044.txt",
+  "doi": "10.1016/j.sjbs.2021.03.044",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "osmotic:3"
+ },
+ {
+  "file": "10.1016_j.ultsonch.2021.105755.txt",
+  "doi": "10.1016/j.ultsonch.2021.105755",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.1016_j.watres.2018.08.045.txt",
+  "doi": "10.1016/j.watres.2018.08.045",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "salinity:2"
+ },
+ {
+  "file": "10.1021_acs.est.0c02882.txt",
+  "doi": "10.1021/acs.est.0c02882",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "nitrite:3"
+ },
+ {
+  "file": "10.1021_acs.est.3c07840.txt",
+  "doi": "10.1021/acs.est.3c07840",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "osmotic:3"
+ },
+ {
+  "file": "10.1021_acs.est.6b05184.txt",
+  "doi": "10.1021/acs.est.6b05184",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "nitrite:3"
+ },
+ {
+  "file": "10.1021_acs.est.8b05476.txt",
+  "doi": "10.1021/acs.est.8b05476",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "nitrite:3"
+ },
+ {
+  "file": "10.1021_acs.jafc.9b01618.txt",
+  "doi": "10.1021/acs.jafc.9b01618",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "trehalose:2"
+ },
+ {
+  "file": "10.1021_acs.jpcc.4c07422.txt",
+  "doi": "10.1021/acs.jpcc.4c07422",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "saline:2"
+ },
+ {
+  "file": "10.1021_acsestwater.5c01436.txt",
+  "doi": "10.1021/acsestwater.5c01436",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "nitrite:3"
+ },
+ {
+  "file": "10.1021_acssuschemeng.1c00699.txt",
+  "doi": "10.1021/acssuschemeng.1c00699",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.1021_acssynbio.4c00876.txt",
+  "doi": "10.1021/acssynbio.4c00876",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "ectoine:1"
+ },
+ {
+  "file": "10.1021_acssynbio.4c00899.txt",
+  "doi": "10.1021/acssynbio.4c00899",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "ectoine:1"
+ },
+ {
+  "file": "10.1021_acssynbio.5c00316.txt",
+  "doi": "10.1021/acssynbio.5c00316",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "osmotic:3"
+ },
+ {
+  "file": "10.1021_acssynbio.5c00330.txt",
+  "doi": "10.1021/acssynbio.5c00330",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "ectoine:1"
+ },
+ {
+  "file": "10.1021_acssynbio.6c00088.txt",
+  "doi": "10.1021/acssynbio.6c00088",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "ectoine:1"
+ },
+ {
+  "file": "10.1038_s41396-023-01380-6.txt",
+  "doi": "10.1038/s41396-023-01380-6",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "nitrite:3"
+ },
+ {
+  "file": "10.1038_s41545-020-00090-2.txt",
+  "doi": "10.1038/s41545-020-00090-2",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "salinity:1;saline:1"
+ },
+ {
+  "file": "10.1038_s41598-025-34503-4.txt",
+  "doi": "10.1038/s41598-025-34503-4",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "nitrite:3"
+ },
+ {
+  "file": "10.1038_srep25571.txt",
+  "doi": "10.1038/srep25571",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "osmotic:3"
+ },
+ {
+  "file": "10.1128_mbio.01467-19.txt",
+  "doi": "10.1128/mbio.01467-19",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.1128_mra.00816-22.txt",
+  "doi": "10.1128/mra.00816-22",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.1128_mra.00930-22.txt",
+  "doi": "10.1128/mra.00930-22",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.1128_msystems.00944-21.txt",
+  "doi": "10.1128/msystems.00944-21",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.1128_msystems.00956-25.txt",
+  "doi": "10.1128/msystems.00956-25",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.1128_spectrum.00263-25.txt",
+  "doi": "10.1128/spectrum.00263-25",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "compatible solute:1"
+ },
+ {
+  "file": "10.32604_phyton.2026.078974.txt",
+  "doi": "10.32604/phyton.2026.078974",
+  "anammox": 0,
+  "score": 6,
+  "top_kw": "salinity:2"
+ },
+ {
+  "file": "10.1016_j.watres.2016.11.017.txt",
+  "doi": "10.1016/j.watres.2016.11.017",
+  "anammox": 0,
+  "score": 5,
+  "top_kw": "salinity:1;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.watres.2025.123351.txt",
+  "doi": "10.1016/j.watres.2025.123351",
+  "anammox": 0,
+  "score": 5,
+  "top_kw": "nitrite:2;nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-020-59279-7.txt",
+  "doi": "10.1038/s41598-020-59279-7",
+  "anammox": 0,
+  "score": 5,
+  "top_kw": "salinity:1;nitrite:1"
+ },
+ {
+  "file": "10.1128_spectrum.04094-22.txt",
+  "doi": "10.1128/spectrum.04094-22",
+  "anammox": 0,
+  "score": 5,
+  "top_kw": "salinity:1;osmotic:1"
+ },
+ {
+  "file": "10.2174_1874070701610010301.txt",
+  "doi": "10.2174/1874070701610010301",
+  "anammox": 0,
+  "score": 5,
+  "top_kw": "salinity:1;osmotic:1"
+ },
+ {
+  "file": "10.1016_j.crfs.2026.101396.txt",
+  "doi": "10.1016/j.crfs.2026.101396",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "betaine:1"
+ },
+ {
+  "file": "10.1016_j.ijfoodmicro.2021.109351.txt",
+  "doi": "10.1016/j.ijfoodmicro.2021.109351",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "halophilic:1"
+ },
+ {
+  "file": "10.1016_j.jmb.2017.10.022.txt",
+  "doi": "10.1016/j.jmb.2017.10.022",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "osmolyte:1"
+ },
+ {
+  "file": "10.1016_j.watres.2017.09.013.txt",
+  "doi": "10.1016/j.watres.2017.09.013",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrite:2"
+ },
+ {
+  "file": "10.1016_j.watres.2019.01.003.txt",
+  "doi": "10.1016/j.watres.2019.01.003",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrite:2"
+ },
+ {
+  "file": "10.1016_j.watres.2021.118009.txt",
+  "doi": "10.1016/j.watres.2021.118009",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrogen removal:2;nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.5b03381.txt",
+  "doi": "10.1021/acs.est.5b03381",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrite:2"
+ },
+ {
+  "file": "10.1021_acs.est.7b00463.txt",
+  "doi": "10.1021/acs.est.7b00463",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrite:2"
+ },
+ {
+  "file": "10.1021_acsestwater.6c00428.txt",
+  "doi": "10.1021/acsestwater.6c00428",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrite:2"
+ },
+ {
+  "file": "10.1038_s41598-018-22683-1.txt",
+  "doi": "10.1038/s41598-018-22683-1",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrogen removal:2;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-020-67896-5.txt",
+  "doi": "10.1038/s41598-020-67896-5",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrite:2"
+ },
+ {
+  "file": "10.1038_s41598-023-50173-6.txt",
+  "doi": "10.1038/s41598-023-50173-6",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrite:2"
+ },
+ {
+  "file": "10.1038_s41598-024-72067-x.txt",
+  "doi": "10.1038/s41598-024-72067-x",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrogen removal:2;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-026-43338-6.txt",
+  "doi": "10.1038/s41598-026-43338-6",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "saline:1;nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-026-45194-w.txt",
+  "doi": "10.1038/s41598-026-45194-w",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "nitrite:2"
+ },
+ {
+  "file": "10.1038_srep23221.txt",
+  "doi": "10.1038/srep23221",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "saline:1;nitrogen removal:1"
+ },
+ {
+  "file": "10.1074_jbc.RA117.001222.txt",
+  "doi": "10.1074/jbc.RA117.001222",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "glutamate:4"
+ },
+ {
+  "file": "10.1128_mbio.00958-23.txt",
+  "doi": "10.1128/mbio.00958-23",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "osmotic:2"
+ },
+ {
+  "file": "10.1128_msystems.00867-20.txt",
+  "doi": "10.1128/msystems.00867-20",
+  "anammox": 0,
+  "score": 4,
+  "top_kw": "osmotic:2"
+ },
+ {
+  "file": "10.1016_j.ijfoodmicro.2019.01.007.txt",
+  "doi": "10.1016/j.ijfoodmicro.2019.01.007",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "saline:1"
+ },
+ {
+  "file": "10.1016_j.watres.2019.05.003.txt",
+  "doi": "10.1016/j.watres.2019.05.003",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "saline:1"
+ },
+ {
+  "file": "10.1016_j.watres.2024.121616.txt",
+  "doi": "10.1016/j.watres.2024.121616",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "salinity:1"
+ },
+ {
+  "file": "10.1016_j.watres.2025.123993.txt",
+  "doi": "10.1016/j.watres.2025.123993",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "saline:1"
+ },
+ {
+  "file": "10.1021_acs.est.0c08307.txt",
+  "doi": "10.1021/acs.est.0c08307",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "saline:1"
+ },
+ {
+  "file": "10.1021_acs.est.4c14471.txt",
+  "doi": "10.1021/acs.est.4c14471",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "salinity:1"
+ },
+ {
+  "file": "10.1021_acs.est.5b02858.txt",
+  "doi": "10.1021/acs.est.5b02858",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "nitrogen removal:3"
+ },
+ {
+  "file": "10.1021_acs.jafc.3c05430.txt",
+  "doi": "10.1021/acs.jafc.3c05430",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "salinity:1"
+ },
+ {
+  "file": "10.1021_acsestengg.4c00897.txt",
+  "doi": "10.1021/acsestengg.4c00897",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "saline:1"
+ },
+ {
+  "file": "10.1021_acsestwater.5c00316.txt",
+  "doi": "10.1021/acsestwater.5c00316",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "saline:1"
+ },
+ {
+  "file": "10.1021_acsestwater.5c01359.txt",
+  "doi": "10.1021/acsestwater.5c01359",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "saline:1"
+ },
+ {
+  "file": "10.1021_acssynbio.6c00165.txt",
+  "doi": "10.1021/acssynbio.6c00165",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "glutamate:3"
+ },
+ {
+  "file": "10.1038_s41467-025-63601-0.txt",
+  "doi": "10.1038/s41467-025-63601-0",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "nitrogen removal:1;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41467-026-73481-7.txt",
+  "doi": "10.1038/s41467-026-73481-7",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "nitrogen removal:3"
+ },
+ {
+  "file": "10.1038_s41467-026-75420-y.txt",
+  "doi": "10.1038/s41467-026-75420-y",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "salinity:1"
+ },
+ {
+  "file": "10.1038_s41598-017-11448-x.txt",
+  "doi": "10.1038/s41598-017-11448-x",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "saline:1"
+ },
+ {
+  "file": "10.1038_s41598-022-11069-z.txt",
+  "doi": "10.1038/s41598-022-11069-z",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "saline:1"
+ },
+ {
+  "file": "10.1038_s41598-022-26743-5.txt",
+  "doi": "10.1038/s41598-022-26743-5",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "salinity:1"
+ },
+ {
+  "file": "10.1038_s41598-023-40045-4.txt",
+  "doi": "10.1038/s41598-023-40045-4",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "salinity:1"
+ },
+ {
+  "file": "10.1038_s41598-025-11109-4.txt",
+  "doi": "10.1038/s41598-025-11109-4",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "nitrogen removal:1;nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-026-41983-5.txt",
+  "doi": "10.1038/s41598-026-41983-5",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "salinity:1"
+ },
+ {
+  "file": "10.1038_s43247-024-01499-0.txt",
+  "doi": "10.1038/s43247-024-01499-0",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "glutamate:1;nitrite:1"
+ },
+ {
+  "file": "10.1038_srep24180.txt",
+  "doi": "10.1038/srep24180",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "salinity:1"
+ },
+ {
+  "file": "10.1093_femsec_fiae167.txt",
+  "doi": "10.1093/femsec/fiae167",
+  "anammox": 0,
+  "score": 3,
+  "top_kw": "salinity:1"
+ },
+ {
+  "file": "10.1016_j.bidere.2026.100106.txt",
+  "doi": "10.1016/j.bidere.2026.100106",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "osmotic:1"
+ },
+ {
+  "file": "10.1016_j.crmicr.2025.100453.txt",
+  "doi": "10.1016/j.crmicr.2025.100453",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "osmotic:1"
+ },
+ {
+  "file": "10.1016_j.watres.2023.119805.txt",
+  "doi": "10.1016/j.watres.2023.119805",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1016_j.watres.2023.119881.txt",
+  "doi": "10.1016/j.watres.2023.119881",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1016_j.watres.2026.125811.txt",
+  "doi": "10.1016/j.watres.2026.125811",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.1c05553.txt",
+  "doi": "10.1021/acs.est.1c05553",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "osmotic:1"
+ },
+ {
+  "file": "10.1021_acs.est.2c03299.txt",
+  "doi": "10.1021/acs.est.2c03299",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.4c04007.txt",
+  "doi": "10.1021/acs.est.4c04007",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.5b03385.txt",
+  "doi": "10.1021/acs.est.5b03385",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.6b05521.txt",
+  "doi": "10.1021/acs.est.6b05521",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.8b01605.txt",
+  "doi": "10.1021/acs.est.8b01605",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1021_acs.est.9b00077.txt",
+  "doi": "10.1021/acs.est.9b00077",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41467-022-29438-7.txt",
+  "doi": "10.1038/s41467-022-29438-7",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrogen removal:2"
+ },
+ {
+  "file": "10.1038_s41545-022-00205-x.txt",
+  "doi": "10.1038/s41545-022-00205-x",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41545-024-00363-0.txt",
+  "doi": "10.1038/s41545-024-00363-0",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-017-01885-z.txt",
+  "doi": "10.1038/s41598-017-01885-z",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-017-17743-x.txt",
+  "doi": "10.1038/s41598-017-17743-x",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-017-17783-3.txt",
+  "doi": "10.1038/s41598-017-17783-3",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-019-45511-6.txt",
+  "doi": "10.1038/s41598-019-45511-6",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-019-51315-5.txt",
+  "doi": "10.1038/s41598-019-51315-5",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrogen removal:2"
+ },
+ {
+  "file": "10.1038_s41598-020-69348-6.txt",
+  "doi": "10.1038/s41598-020-69348-6",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-021-04499-8.txt",
+  "doi": "10.1038/s41598-021-04499-8",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-021-88335-z.txt",
+  "doi": "10.1038/s41598-021-88335-z",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-022-13779-w.txt",
+  "doi": "10.1038/s41598-022-13779-w",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-023-37744-3.txt",
+  "doi": "10.1038/s41598-023-37744-3",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-023-46829-y.txt",
+  "doi": "10.1038/s41598-023-46829-y",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrogen removal:2"
+ },
+ {
+  "file": "10.1038_s41598-024-52872-0.txt",
+  "doi": "10.1038/s41598-024-52872-0",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "osmotic:1"
+ },
+ {
+  "file": "10.1038_s41598-025-24985-7.txt",
+  "doi": "10.1038/s41598-025-24985-7",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "osmotic:1"
+ },
+ {
+  "file": "10.1038_s41598-025-30771-2.txt",
+  "doi": "10.1038/s41598-025-30771-2",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-025-33303-0.txt",
+  "doi": "10.1038/s41598-025-33303-0",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1038_s41598-025-34775-w.txt",
+  "doi": "10.1038/s41598-025-34775-w",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "nitrite:1"
+ },
+ {
+  "file": "10.1128_msystems.00162-20.txt",
+  "doi": "10.1128/msystems.00162-20",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "osmotic:1"
+ },
+ {
+  "file": "10.1128_msystems.00254-18.txt",
+  "doi": "10.1128/msystems.00254-18",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "glutamate:2"
+ },
+ {
+  "file": "10.1128_msystems.00581-25.txt",
+  "doi": "10.1128/msystems.00581-25",
+  "anammox": 0,
+  "score": 2,
+  "top_kw": "glutamate:2"
+ },
+ {
+  "file": "10.1016_j.bioflm.2021.100045.txt",
+  "doi": "10.1016/j.bioflm.2021.100045",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "glutamate:1"
+ },
+ {
+  "file": "10.1016_j.crmicr.2025.100533.txt",
+  "doi": "10.1016/j.crmicr.2025.100533",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "glutamate:1"
+ },
+ {
+  "file": "10.1016_j.watres.2017.05.029.txt",
+  "doi": "10.1016/j.watres.2017.05.029",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1016_j.watres.2017.11.061.txt",
+  "doi": "10.1016/j.watres.2017.11.061",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1016_j.watres.2018.03.015.txt",
+  "doi": "10.1016/j.watres.2018.03.015",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.0c04229.txt",
+  "doi": "10.1021/acs.est.0c04229",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.2c02376.txt",
+  "doi": "10.1021/acs.est.2c02376",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.4c05389.txt",
+  "doi": "10.1021/acs.est.4c05389",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.est.9b05549.txt",
+  "doi": "10.1021/acs.est.9b05549",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1021_acs.jproteome.9b00259.txt",
+  "doi": "10.1021/acs.jproteome.9b00259",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "glutamate:1"
+ },
+ {
+  "file": "10.1021_acssuschemeng.8b01868.txt",
+  "doi": "10.1021/acssuschemeng.8b01868",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41467-025-60908-w.txt",
+  "doi": "10.1038/s41467-025-60908-w",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-018-20633-5.txt",
+  "doi": "10.1038/s41598-018-20633-5",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-018-21564-x.txt",
+  "doi": "10.1038/s41598-018-21564-x",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-018-26141-w.txt",
+  "doi": "10.1038/s41598-018-26141-w",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-018-37841-8.txt",
+  "doi": "10.1038/s41598-018-37841-8",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-021-03556-6.txt",
+  "doi": "10.1038/s41598-021-03556-6",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-023-30707-8.txt",
+  "doi": "10.1038/s41598-023-30707-8",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-023-42876-7.txt",
+  "doi": "10.1038/s41598-023-42876-7",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-025-07929-z.txt",
+  "doi": "10.1038/s41598-025-07929-z",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1038_s41598-025-25407-4.txt",
+  "doi": "10.1038/s41598-025-25407-4",
+  "anammox": 0,
+  "score": 1,
+  "top_kw": "nitrogen removal:1"
+ },
+ {
+  "file": "10.1016_j.apsb.2025.03.005.txt",
+  "doi": "10.1016/j.apsb.2025.03.005",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.bpc.2017.03.005.txt",
+  "doi": "10.1016/j.bpc.2017.03.005",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.btre.2021.e00606.txt",
+  "doi": "10.1016/j.btre.2021.e00606",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.cej.2021.132772.txt",
+  "doi": "10.1016/j.cej.2021.132772",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.cell.2022.10.008.txt",
+  "doi": "10.1016/j.cell.2022.10.008",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.crmicr.2021.100084.txt",
+  "doi": "10.1016/j.crmicr.2021.100084",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.csbj.2023.10.043.txt",
+  "doi": "10.1016/j.csbj.2023.10.043",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.engmic.2025.100251.txt",
+  "doi": "10.1016/j.engmic.2025.100251",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.fm.2024.104518.txt",
+  "doi": "10.1016/j.fm.2024.104518",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.foodres.2020.110003.txt",
+  "doi": "10.1016/j.foodres.2020.110003",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.foodres.2022.111302.txt",
+  "doi": "10.1016/j.foodres.2022.111302",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.margen.2020.100782.txt",
+  "doi": "10.1016/j.margen.2020.100782",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.mcpro.2023.100656.txt",
+  "doi": "10.1016/j.mcpro.2023.100656",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.mec.2026.e00278.txt",
+  "doi": "10.1016/j.mec.2026.e00278",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.procbio.2024.07.034.txt",
+  "doi": "10.1016/j.procbio.2024.07.034",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.saa.2022.122148.txt",
+  "doi": "10.1016/j.saa.2022.122148",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.scitotenv.2025.178872.txt",
+  "doi": "10.1016/j.scitotenv.2025.178872",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.str.2025.02.014.txt",
+  "doi": "10.1016/j.str.2025.02.014",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.syapm.2018.12.003.txt",
+  "doi": "10.1016/j.syapm.2018.12.003",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.synbio.2021.06.001.txt",
+  "doi": "10.1016/j.synbio.2021.06.001",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.tim.2023.08.012.txt",
+  "doi": "10.1016/j.tim.2023.08.012",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.ultsonch.2024.106939.txt",
+  "doi": "10.1016/j.ultsonch.2024.106939",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2016.10.069.txt",
+  "doi": "10.1016/j.watres.2016.10.069",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2016.12.038.txt",
+  "doi": "10.1016/j.watres.2016.12.038",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2017.05.042.txt",
+  "doi": "10.1016/j.watres.2017.05.042",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2017.06.027.txt",
+  "doi": "10.1016/j.watres.2017.06.027",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2017.07.058.txt",
+  "doi": "10.1016/j.watres.2017.07.058",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2017.09.033.txt",
+  "doi": "10.1016/j.watres.2017.09.033",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2017.10.059.txt",
+  "doi": "10.1016/j.watres.2017.10.059",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2017.12.074.txt",
+  "doi": "10.1016/j.watres.2017.12.074",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2018.03.059.txt",
+  "doi": "10.1016/j.watres.2018.03.059",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2018.03.072.txt",
+  "doi": "10.1016/j.watres.2018.03.072",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2018.07.005.txt",
+  "doi": "10.1016/j.watres.2018.07.005",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2018.10.021.txt",
+  "doi": "10.1016/j.watres.2018.10.021",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2019.01.001.txt",
+  "doi": "10.1016/j.watres.2019.01.001",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2019.02.038.txt",
+  "doi": "10.1016/j.watres.2019.02.038",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2019.06.065.txt",
+  "doi": "10.1016/j.watres.2019.06.065",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2019.114859.txt",
+  "doi": "10.1016/j.watres.2019.114859",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2019.115312.txt",
+  "doi": "10.1016/j.watres.2019.115312",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2020.115509.txt",
+  "doi": "10.1016/j.watres.2020.115509",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2020.116015.txt",
+  "doi": "10.1016/j.watres.2020.116015",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2022.118102.txt",
+  "doi": "10.1016/j.watres.2022.118102",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2022.119352.txt",
+  "doi": "10.1016/j.watres.2022.119352",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2022.119494.txt",
+  "doi": "10.1016/j.watres.2022.119494",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2022.119501.txt",
+  "doi": "10.1016/j.watres.2022.119501",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2023.119587.txt",
+  "doi": "10.1016/j.watres.2023.119587",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2023.119819.txt",
+  "doi": "10.1016/j.watres.2023.119819",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2023.120275.txt",
+  "doi": "10.1016/j.watres.2023.120275",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2023.120534.txt",
+  "doi": "10.1016/j.watres.2023.120534",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2023.120837.txt",
+  "doi": "10.1016/j.watres.2023.120837",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2024.121141.txt",
+  "doi": "10.1016/j.watres.2024.121141",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2024.121245.txt",
+  "doi": "10.1016/j.watres.2024.121245",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2025.123216.txt",
+  "doi": "10.1016/j.watres.2025.123216",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1016_j.watres.2025.123546.txt",
+  "doi": "10.1016/j.watres.2025.123546",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.bioconjchem.3c00116.txt",
+  "doi": "10.1021/acs.bioconjchem.3c00116",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.cgd.5c00046.txt",
+  "doi": "10.1021/acs.cgd.5c00046",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.energyfuels.6c02836.txt",
+  "doi": "10.1021/acs.energyfuels.6c02836",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.0c01241.txt",
+  "doi": "10.1021/acs.est.0c01241",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.0c01428.txt",
+  "doi": "10.1021/acs.est.0c01428",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.0c01776.txt",
+  "doi": "10.1021/acs.est.0c01776",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.0c02664.txt",
+  "doi": "10.1021/acs.est.0c02664",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.0c02833.txt",
+  "doi": "10.1021/acs.est.0c02833",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.0c04067.txt",
+  "doi": "10.1021/acs.est.0c04067",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.0c07320.txt",
+  "doi": "10.1021/acs.est.0c07320",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.1c02486.txt",
+  "doi": "10.1021/acs.est.1c02486",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.1c02586.txt",
+  "doi": "10.1021/acs.est.1c02586",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.1c03899.txt",
+  "doi": "10.1021/acs.est.1c03899",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.1c06772.txt",
+  "doi": "10.1021/acs.est.1c06772",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.1c06831.txt",
+  "doi": "10.1021/acs.est.1c06831",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.2c03641.txt",
+  "doi": "10.1021/acs.est.2c03641",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.2c04607.txt",
+  "doi": "10.1021/acs.est.2c04607",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.2c06345.txt",
+  "doi": "10.1021/acs.est.2c06345",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.2c07145.txt",
+  "doi": "10.1021/acs.est.2c07145",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.2c07578.txt",
+  "doi": "10.1021/acs.est.2c07578",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.2c07588.txt",
+  "doi": "10.1021/acs.est.2c07588",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.2c07697.txt",
+  "doi": "10.1021/acs.est.2c07697",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.2c08443.txt",
+  "doi": "10.1021/acs.est.2c08443",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.2c08818.txt",
+  "doi": "10.1021/acs.est.2c08818",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c01282.txt",
+  "doi": "10.1021/acs.est.3c01282",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c02892.txt",
+  "doi": "10.1021/acs.est.3c02892",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c04771.txt",
+  "doi": "10.1021/acs.est.3c04771",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c04798.txt",
+  "doi": "10.1021/acs.est.3c04798",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c04958.txt",
+  "doi": "10.1021/acs.est.3c04958",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c05291.txt",
+  "doi": "10.1021/acs.est.3c05291",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c06049.txt",
+  "doi": "10.1021/acs.est.3c06049",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c06478.txt",
+  "doi": "10.1021/acs.est.3c06478",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c06554.txt",
+  "doi": "10.1021/acs.est.3c06554",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c07020.txt",
+  "doi": "10.1021/acs.est.3c07020",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c07737.txt",
+  "doi": "10.1021/acs.est.3c07737",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c09797.txt",
+  "doi": "10.1021/acs.est.3c09797",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.3c10264.txt",
+  "doi": "10.1021/acs.est.3c10264",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.4c06742.txt",
+  "doi": "10.1021/acs.est.4c06742",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.4c10638.txt",
+  "doi": "10.1021/acs.est.4c10638",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.4c12517.txt",
+  "doi": "10.1021/acs.est.4c12517",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.5b01952.txt",
+  "doi": "10.1021/acs.est.5b01952",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.5b04696.txt",
+  "doi": "10.1021/acs.est.5b04696",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.5b05641.txt",
+  "doi": "10.1021/acs.est.5b05641",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.5c04805.txt",
+  "doi": "10.1021/acs.est.5c04805",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.5c04958.txt",
+  "doi": "10.1021/acs.est.5c04958",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.5c14655.txt",
+  "doi": "10.1021/acs.est.5c14655",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.5c15969.txt",
+  "doi": "10.1021/acs.est.5c15969",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.5c16493.txt",
+  "doi": "10.1021/acs.est.5c16493",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.6b01910.txt",
+  "doi": "10.1021/acs.est.6b01910",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.6b02007.txt",
+  "doi": "10.1021/acs.est.6b02007",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.6b03822.txt",
+  "doi": "10.1021/acs.est.6b03822",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.6b06521.txt",
+  "doi": "10.1021/acs.est.6b06521",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.6b06576.txt",
+  "doi": "10.1021/acs.est.6b06576",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.6c04557.txt",
+  "doi": "10.1021/acs.est.6c04557",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.6c07413.txt",
+  "doi": "10.1021/acs.est.6c07413",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.6c09157.txt",
+  "doi": "10.1021/acs.est.6c09157",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.7b01413.txt",
+  "doi": "10.1021/acs.est.7b01413",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.8b02035.txt",
+  "doi": "10.1021/acs.est.8b02035",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.8b04311.txt",
+  "doi": "10.1021/acs.est.8b04311",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.8b04573.txt",
+  "doi": "10.1021/acs.est.8b04573",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.8b07303.txt",
+  "doi": "10.1021/acs.est.8b07303",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.9b02908.txt",
+  "doi": "10.1021/acs.est.9b02908",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.9b03395.txt",
+  "doi": "10.1021/acs.est.9b03395",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.9b03667.txt",
+  "doi": "10.1021/acs.est.9b03667",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.est.9b05290.txt",
+  "doi": "10.1021/acs.est.9b05290",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.iecr.3c00400.txt",
+  "doi": "10.1021/acs.iecr.3c00400",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.0c00259.txt",
+  "doi": "10.1021/acs.jafc.0c00259",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.0c00883.txt",
+  "doi": "10.1021/acs.jafc.0c00883",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.0c01607.txt",
+  "doi": "10.1021/acs.jafc.0c01607",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.1c05187.txt",
+  "doi": "10.1021/acs.jafc.1c05187",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.1c06126.txt",
+  "doi": "10.1021/acs.jafc.1c06126",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.2c01042.txt",
+  "doi": "10.1021/acs.jafc.2c01042",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.3c01900.txt",
+  "doi": "10.1021/acs.jafc.3c01900",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.4c00154.txt",
+  "doi": "10.1021/acs.jafc.4c00154",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.4c02641.txt",
+  "doi": "10.1021/acs.jafc.4c02641",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.5c00194.txt",
+  "doi": "10.1021/acs.jafc.5c00194",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.5c09587.txt",
+  "doi": "10.1021/acs.jafc.5c09587",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.5c11518.txt",
+  "doi": "10.1021/acs.jafc.5c11518",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.5c15972.txt",
+  "doi": "10.1021/acs.jafc.5c15972",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.5c17016.txt",
+  "doi": "10.1021/acs.jafc.5c17016",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.6c01411.txt",
+  "doi": "10.1021/acs.jafc.6c01411",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.6c02336.txt",
+  "doi": "10.1021/acs.jafc.6c02336",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.6c05911.txt",
+  "doi": "10.1021/acs.jafc.6c05911",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.6c07910.txt",
+  "doi": "10.1021/acs.jafc.6c07910",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.8b01026.txt",
+  "doi": "10.1021/acs.jafc.8b01026",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.8b01311.txt",
+  "doi": "10.1021/acs.jafc.8b01311",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.8b02649.txt",
+  "doi": "10.1021/acs.jafc.8b02649",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.8b03797.txt",
+  "doi": "10.1021/acs.jafc.8b03797",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jafc.9b08052.txt",
+  "doi": "10.1021/acs.jafc.9b08052",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jcim.8b00395.txt",
+  "doi": "10.1021/acs.jcim.8b00395",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jnatprod.5c01435.txt",
+  "doi": "10.1021/acs.jnatprod.5c01435",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jpcb.2c00752.txt",
+  "doi": "10.1021/acs.jpcb.2c00752",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jpcb.3c03669.txt",
+  "doi": "10.1021/acs.jpcb.3c03669",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jpcb.4c01246.txt",
+  "doi": "10.1021/acs.jpcb.4c01246",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jpcb.9b02598.txt",
+  "doi": "10.1021/acs.jpcb.9b02598",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jpcc.5c02403.txt",
+  "doi": "10.1021/acs.jpcc.5c02403",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jproteome.2c00429.txt",
+  "doi": "10.1021/acs.jproteome.2c00429",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jproteome.4c00022.txt",
+  "doi": "10.1021/acs.jproteome.4c00022",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jproteome.4c00444.txt",
+  "doi": "10.1021/acs.jproteome.4c00444",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jproteome.6b00663.txt",
+  "doi": "10.1021/acs.jproteome.6b00663",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jproteome.6b00920.txt",
+  "doi": "10.1021/acs.jproteome.6b00920",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.jproteome.7b00163.txt",
+  "doi": "10.1021/acs.jproteome.7b00163",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.langmuir.0c02980.txt",
+  "doi": "10.1021/acs.langmuir.0c02980",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.langmuir.6c00084.txt",
+  "doi": "10.1021/acs.langmuir.6c00084",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.molpharmaceut.2c00416.txt",
+  "doi": "10.1021/acs.molpharmaceut.2c00416",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acs.orglett.4c01906.txt",
+  "doi": "10.1021/acs.orglett.4c01906",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acsestengg.4c00848.txt",
+  "doi": "10.1021/acsestengg.4c00848",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acsestengg.5c00096.txt",
+  "doi": "10.1021/acsestengg.5c00096",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acsestengg.5c00956.txt",
+  "doi": "10.1021/acsestengg.5c00956",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acsestwater.3c00055.txt",
+  "doi": "10.1021/acsestwater.3c00055",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acsestwater.6c00277.txt",
+  "doi": "10.1021/acsestwater.6c00277",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acsestwater.6c00423.txt",
+  "doi": "10.1021/acsestwater.6c00423",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acsfoodscitech.5c00829.txt",
+  "doi": "10.1021/acsfoodscitech.5c00829",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssuschemeng.1c07210.txt",
+  "doi": "10.1021/acssuschemeng.1c07210",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssuschemeng.4c04497.txt",
+  "doi": "10.1021/acssuschemeng.4c04497",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssuschemeng.4c05458.txt",
+  "doi": "10.1021/acssuschemeng.4c05458",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssuschemeng.4c06516.txt",
+  "doi": "10.1021/acssuschemeng.4c06516",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssuschemeng.5c02757.txt",
+  "doi": "10.1021/acssuschemeng.5c02757",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssynbio.1c00208.txt",
+  "doi": "10.1021/acssynbio.1c00208",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssynbio.1c00226.txt",
+  "doi": "10.1021/acssynbio.1c00226",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssynbio.2c00117.txt",
+  "doi": "10.1021/acssynbio.2c00117",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssynbio.2c00363.txt",
+  "doi": "10.1021/acssynbio.2c00363",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssynbio.3c00019.txt",
+  "doi": "10.1021/acssynbio.3c00019",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssynbio.3c00338.txt",
+  "doi": "10.1021/acssynbio.3c00338",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssynbio.4c00464.txt",
+  "doi": "10.1021/acssynbio.4c00464",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssynbio.4c00808.txt",
+  "doi": "10.1021/acssynbio.4c00808",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_acssynbio.6b00105.txt",
+  "doi": "10.1021/acssynbio.6b00105",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_cbmi.5c00220.txt",
+  "doi": "10.1021/cbmi.5c00220",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1021_jacs.5c11066.txt",
+  "doi": "10.1021/jacs.5c11066",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41467-024-53341-y.txt",
+  "doi": "10.1038/s41467-024-53341-y",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41467-025-67543-5.txt",
+  "doi": "10.1038/s41467-025-67543-5",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41467-026-70159-y.txt",
+  "doi": "10.1038/s41467-026-70159-y",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41467-026-70682-y.txt",
+  "doi": "10.1038/s41467-026-70682-y",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41467-026-75747-6.txt",
+  "doi": "10.1038/s41467-026-75747-6",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41467-026-76009-1.txt",
+  "doi": "10.1038/s41467-026-76009-1",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41522-022-00291-2.txt",
+  "doi": "10.1038/s41522-022-00291-2",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-021-00110-9.txt",
+  "doi": "10.1038/s41545-021-00110-9",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-022-00184-z.txt",
+  "doi": "10.1038/s41545-022-00184-z",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-023-00225-1.txt",
+  "doi": "10.1038/s41545-023-00225-1",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-023-00256-8.txt",
+  "doi": "10.1038/s41545-023-00256-8",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-023-00269-3.txt",
+  "doi": "10.1038/s41545-023-00269-3",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-024-00336-3.txt",
+  "doi": "10.1038/s41545-024-00336-3",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-024-00350-5.txt",
+  "doi": "10.1038/s41545-024-00350-5",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-024-00361-2.txt",
+  "doi": "10.1038/s41545-024-00361-2",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-024-00421-7.txt",
+  "doi": "10.1038/s41545-024-00421-7",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-025-00475-1.txt",
+  "doi": "10.1038/s41545-025-00475-1",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-025-00545-4.txt",
+  "doi": "10.1038/s41545-025-00545-4",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41545-026-00557-8.txt",
+  "doi": "10.1038/s41545-026-00557-8",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41564-019-0426-5.txt",
+  "doi": "10.1038/s41564-019-0426-5",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-017-05841-9.txt",
+  "doi": "10.1038/s41598-017-05841-9",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-017-11207-y.txt",
+  "doi": "10.1038/s41598-017-11207-y",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-018-35309-3.txt",
+  "doi": "10.1038/s41598-018-35309-3",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-019-42755-0.txt",
+  "doi": "10.1038/s41598-019-42755-0",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-019-46586-x.txt",
+  "doi": "10.1038/s41598-019-46586-x",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-019-47304-3.txt",
+  "doi": "10.1038/s41598-019-47304-3",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-019-50952-0.txt",
+  "doi": "10.1038/s41598-019-50952-0",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-019-55748-w.txt",
+  "doi": "10.1038/s41598-019-55748-w",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-019-57120-4.txt",
+  "doi": "10.1038/s41598-019-57120-4",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-020-60622-1.txt",
+  "doi": "10.1038/s41598-020-60622-1",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-020-64557-5.txt",
+  "doi": "10.1038/s41598-020-64557-5",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-020-65845-w.txt",
+  "doi": "10.1038/s41598-020-65845-w",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-020-76668-0.txt",
+  "doi": "10.1038/s41598-020-76668-0",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-021-00517-x.txt",
+  "doi": "10.1038/s41598-021-00517-x",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-021-86737-7.txt",
+  "doi": "10.1038/s41598-021-86737-7",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-022-22825-6.txt",
+  "doi": "10.1038/s41598-022-22825-6",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-023-36333-8.txt",
+  "doi": "10.1038/s41598-023-36333-8",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-023-42453-y.txt",
+  "doi": "10.1038/s41598-023-42453-y",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-023-45085-4.txt",
+  "doi": "10.1038/s41598-023-45085-4",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-023-45257-2.txt",
+  "doi": "10.1038/s41598-023-45257-2",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-023-45464-x.txt",
+  "doi": "10.1038/s41598-023-45464-x",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-023-48129-x.txt",
+  "doi": "10.1038/s41598-023-48129-x",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-024-57329-y.txt",
+  "doi": "10.1038/s41598-024-57329-y",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-024-67156-w.txt",
+  "doi": "10.1038/s41598-024-67156-w",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-024-73494-6.txt",
+  "doi": "10.1038/s41598-024-73494-6",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-024-74911-6.txt",
+  "doi": "10.1038/s41598-024-74911-6",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-024-84159-9.txt",
+  "doi": "10.1038/s41598-024-84159-9",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-05956-4.txt",
+  "doi": "10.1038/s41598-025-05956-4",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-06352-8.txt",
+  "doi": "10.1038/s41598-025-06352-8",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-08584-0.txt",
+  "doi": "10.1038/s41598-025-08584-0",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-19997-2.txt",
+  "doi": "10.1038/s41598-025-19997-2",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-27102-w.txt",
+  "doi": "10.1038/s41598-025-27102-w",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-30944-z.txt",
+  "doi": "10.1038/s41598-025-30944-z",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-31982-3.txt",
+  "doi": "10.1038/s41598-025-31982-3",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-33212-2.txt",
+  "doi": "10.1038/s41598-025-33212-2",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-88785-9.txt",
+  "doi": "10.1038/s41598-025-88785-9",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-92717-y.txt",
+  "doi": "10.1038/s41598-025-92717-y",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-94372-9.txt",
+  "doi": "10.1038/s41598-025-94372-9",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-025-94808-2.txt",
+  "doi": "10.1038/s41598-025-94808-2",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-35157-6.txt",
+  "doi": "10.1038/s41598-026-35157-6",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-40621-4.txt",
+  "doi": "10.1038/s41598-026-40621-4",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-42781-9.txt",
+  "doi": "10.1038/s41598-026-42781-9",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-45636-5.txt",
+  "doi": "10.1038/s41598-026-45636-5",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-45669-w.txt",
+  "doi": "10.1038/s41598-026-45669-w",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-45753-1.txt",
+  "doi": "10.1038/s41598-026-45753-1",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-47933-5.txt",
+  "doi": "10.1038/s41598-026-47933-5",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-47944-2.txt",
+  "doi": "10.1038/s41598-026-47944-2",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-49749-9.txt",
+  "doi": "10.1038/s41598-026-49749-9",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-50415-3.txt",
+  "doi": "10.1038/s41598-026-50415-3",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-53386-7.txt",
+  "doi": "10.1038/s41598-026-53386-7",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-53699-7.txt",
+  "doi": "10.1038/s41598-026-53699-7",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-55117-4.txt",
+  "doi": "10.1038/s41598-026-55117-4",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s41598-026-55348-5.txt",
+  "doi": "10.1038/s41598-026-55348-5",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s43247-024-01978-4.txt",
+  "doi": "10.1038/s43247-024-01978-4",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s43247-025-02489-6.txt",
+  "doi": "10.1038/s43247-025-02489-6",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s44172-025-00568-2.txt",
+  "doi": "10.1038/s44172-025-00568-2",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_s44454-026-00030-8.txt",
+  "doi": "10.1038/s44454-026-00030-8",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_srep23694.txt",
+  "doi": "10.1038/srep23694",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_srep27023.txt",
+  "doi": "10.1038/srep27023",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_srep27243.txt",
+  "doi": "10.1038/srep27243",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_srep34640.txt",
+  "doi": "10.1038/srep34640",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_srep38690.txt",
+  "doi": "10.1038/srep38690",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_srep39176.txt",
+  "doi": "10.1038/srep39176",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1038_srep44626.txt",
+  "doi": "10.1038/srep44626",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1039_d6gc00055j.txt",
+  "doi": "10.1039/d6gc00055j",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1042_BSR20220313.txt",
+  "doi": "10.1042/BSR20220313",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1074_jbc.RA119.007938.txt",
+  "doi": "10.1074/jbc.RA119.007938",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_MRA.00414-23.txt",
+  "doi": "10.1128/MRA.00414-23",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_mbio.00348-26.txt",
+  "doi": "10.1128/mbio.00348-26",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_microbiolspec.funk-0038-2016.txt",
+  "doi": "10.1128/microbiolspec.funk-0038-2016",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msphere.00085-21.txt",
+  "doi": "10.1128/msphere.00085-21",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msphere.00412-21.txt",
+  "doi": "10.1128/msphere.00412-21",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msystems.00005-26.txt",
+  "doi": "10.1128/msystems.00005-26",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msystems.00239-22.txt",
+  "doi": "10.1128/msystems.00239-22",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msystems.00592-22.txt",
+  "doi": "10.1128/msystems.00592-22",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msystems.00770-24.txt",
+  "doi": "10.1128/msystems.00770-24",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msystems.01030-22.txt",
+  "doi": "10.1128/msystems.01030-22",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msystems.01261-22.txt",
+  "doi": "10.1128/msystems.01261-22",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msystems.01334-20.txt",
+  "doi": "10.1128/msystems.01334-20",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1128_msystems.01419-21.txt",
+  "doi": "10.1128/msystems.01419-21",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1186_s43141-019-0006-3.txt",
+  "doi": "10.1186/s43141-019-0006-3",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.1186_s43141-020-00053-7.txt",
+  "doi": "10.1186/s43141-020-00053-7",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ },
+ {
+  "file": "10.34133_bdr.0052.txt",
+  "doi": "10.34133/bdr.0052",
+  "anammox": 0,
+  "score": 0,
+  "top_kw": ""
+ }
+]

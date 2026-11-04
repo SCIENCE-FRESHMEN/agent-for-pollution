@@ -1,0 +1,92 @@
+{
+  "selected": [
+    {
+      "genome_id": "zbyck2_2022_s_bin243",
+      "source": "env",
+      "study_prefix": "zbyck2_2022_s",
+      "氮循环_命中行数": 54
+    },
+    {
+      "genome_id": "xcd_2021_s_bin711",
+      "source": "env",
+      "study_prefix": "xcd_2021_s",
+      "氮循环_命中行数": 50
+    },
+    {
+      "genome_id": "blk_2018_s_h_bin1549",
+      "source": "env",
+      "study_prefix": "blk_2018_s_h",
+      "氮循环_命中行数": 46
+    },
+    {
+      "genome_id": "slgl_2021_s_bin112501",
+      "source": "env",
+      "study_prefix": "slgl_2021_s",
+      "氮循环_命中行数": 46
+    },
+    {
+      "genome_id": "blk_2018_lit_bin1059",
+      "source": "env",
+      "study_prefix": "blk_2018_lit",
+      "氮循环_命中行数": 45
+    },
+    {
+      "genome_id": "dbc_2018_w_bin143",
+      "source": "env",
+      "study_prefix": "dbc_2018_w",
+      "氮循环_命中行数": 45
+    },
+    {
+      "genome_id": "BLK_2023_AMX_bin177",
+      "source": "ench",
+      "study_prefix": "BLK_2023_AMX",
+      "氮循环_命中行数": 43
+    },
+    {
+      "genome_id": "LH2_D5_64",
+      "source": "ench",
+      "study_prefix": "LH2_D5_64",
+      "氮循环_命中行数": 41
+    },
+    {
+      "genome_id": "KLK3-2_2024_D4_428",
+      "source": "ench",
+      "study_prefix": "KLK3-2_2024_D4_428",
+      "氮循环_命中行数": 41
+    },
+    {
+      "genome_id": "KLK3-2_2024_D4_864",
+      "source": "ench",
+      "study_prefix": "KLK3-2_2024_D4_864",
+      "氮循环_命中行数": 40
+    },
+    {
+      "genome_id": "LH1_D0_163",
+      "source": "ench",
+      "study_prefix": "LH1_D0_163",
+      "氮循环_命中行数": 39
+    },
+    {
+      "genome_id": "LH2_D0_22",
+      "source": "ench",
+      "study_prefix": "LH2_D0_22",
+      "氮循环_命中行数": 39
+    }
+  ],
+  "rows_written": 1056,
+  "rows_per_genome": {
+    "slgl_2021_s_bin112501": 84,
+    "xcd_2021_s_bin711": 138,
+    "zbyck2_2022_s_bin243": 81,
+    "blk_2018_lit_bin1059": 92,
+    "blk_2018_s_h_bin1549": 84,
+    "dbc_2018_w_bin143": 73,
+    "BLK_2023_AMX_bin177": 52,
+    "KLK3-2_2024_D4_428": 106,
+    "KLK3-2_2024_D4_864": 106,
+    "LH1_D0_163": 79,
+    "LH2_D0_22": 74,
+    "LH2_D5_64": 87
+  },
+  "contract": "8col: qseqid,-,pident,-,qcovhsp(缺),evalue,-,ko；源=上一交付氮循环+转运命中行"
+}

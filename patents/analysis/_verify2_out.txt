@@ -1,0 +1,11 @@
+formulation total: 1934
+extraction_method: [('rule_based_v1', 1934)]
+info_class: [('【实施例】实测/工艺参数', 1584), ('【权利要求】保护的技术方案', 350)]
+section: [('实施例', 1504), ('权利要求', 350), ('具体实施方式', 80)]
+distinct patents: 193
+
+chunks total: 8103
+info_class: [('【实施例】实测/工艺参数', 4189), ('其他(未分区原文)', 2311), ('【权利要求】保护的技术方案', 867), ('【背景技术】前人局限', 347), ('【著录信息】', 227), ('?', 162)]
+
+edge relations: [('CONTAINS_SOLUTE', 628), ('HAS_APPLICANT', 227), ('HAS_IPC', 132), ('SAME_FAMILY', 20), ('CITES', 1), ('CITED_BY', 1)]
+node types: [('Patent', 227), ('Applicant', 159), ('Solute', 20), ('IPC', 18)]

@@ -1,0 +1,1118 @@
+
+====================================================================================================
+### 10.1016/j.jare.2023.06.015
+HEAD: Review
+Microbial diver ity and function  in  aline  oil : A review from a
+biogeochemical per pective
+Guangliang Zhang a,b, Junhong Bai a,⇑, Yujia Zhai a, Jia Jia c, Qingqing Zhao d, Wei Wang a, Xingyun Hu e
+a State Key Laboratory of Water Environment Simulation, School of Environment, Beijing Normal Univer ity, Beijing 100875, PR China
+b Advanced In titute of Natural Science , Beijing Normal Univer ity, Zhuhai 519087, PR China
+c Henan Key Laboratory of Ecological Environment Protection and Re toration of Yellow River Ba in, Yellow River In titute of Hydraulic Re earch, Zhengzhou 45003, PR China
+d Shandong Provincial Key Laboratory of Applied Microbiology, Ecology In titute, Qilu Univer ity of Technology (Shandong Academy of Science ), Ji’nan 250103, PR China
+e Fujian Provincial Key Laborat
+- Although the contribution of Anammox to N2 production was low compared to denitriﬁcation in tidal marshes, the highest relative importance of Anammox was observed in low salinity marshes, increasing salinity lowered the importance of Anammox to nitrogen removal [100]. It has been also demonstrated that soil N2 production in coastal tidal ﬂats and inland paddy was dominantly contributed by denitriﬁcation over Anammox, and soil salinity driven the Anammox bacterial community in coastal ﬂats (dominated by Candidatus Scalindua and Candidatus Kuenenia) and paddy soils (dominated by Candida- tus Brocadia) [101].
+- It has been also demonstrated that soil N2 production in coastal tidal ﬂats and inland paddy was dominantly contributed by denitriﬁcation over Anammox, and soil salinity driven the Anammox bacterial community in coastal ﬂats (dominated by Candidatus Scalindua and Candidatus Kuenenia) and paddy soils (dominated by Candida- tus Brocadia) [101]. Incubation experiments proposed that the low- salinity treatment stimulated the soil Anammox but it was inhib- ited by high-salinity addition [102].
+- Review Microbial diversity and functions in saline soils: A review from a biogeochemical perspective Guangliang Zhang a,b, Junhong Bai a,⇑, Yujia Zhai a, Jia Jia c, Qingqing Zhao d, Wei Wang a, Xingyun Hu e a State Key Laboratory of Water Environment Simulation, School of Environment, Beijing Normal University, Beijing 100875, PR China b Advanced Institute of Natural Sciences, Beijing Normal University, Zhuhai 519087, PR China c Henan Key Laboratory of Ecological Environment Protection and Restoration of Yellow River Basin, Yellow River Institute of Hydraulic Research, Zhengzhou 45003, PR China d Shandong Provincial Key Laboratory of Applied Microbiology, Ecology Institute, Qilu University o
+- We particularly focus on the diversity of soil bac- teria and fungi under salt stress and the changes in their emerging functions (such as their mediated biogeochemical processes). This study also discusses how to use the soil microbiome in saline soils to deal with soil salinization for supporting sustainable ecosystems, and puts forward the knowledge gaps and the research directions that need to be strengthened in the future.
+- This study also discusses how to use the soil microbiome in saline soils to deal with soil salinization for supporting sustainable ecosystems, and puts forward the knowledge gaps and the research directions that need to be strengthened in the future.
+- Clarifying the responding pattern of microbial-mediated nutrient cycling under salt stress and developing and utilizing microorganisms to weaken the adverse effects of salt stress on plants and soil, which are of guiding sig- niﬁcance for agricultural production and ecosystem management in saline lands.  2024 The Authors.
+- 130 Mechanism of microbial response to soil salt stress. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130 Soil microbial diversity and community in saline soils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 130 Soil microbial diversity and community in saline soils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131 Soil microbial functions under salt stress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 131 Soil microbial functions under salt stress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132 Microbial biomass and growth with increasing soil salinity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 132 Microbial biomass and growth with increasing soil salinity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Insufﬁ- cient rainfall to replenish higher evapotranspiration or rising groundwater level can also lead to increased soil salinity [13].
+- Saline irrigation combined with poor drainage conditions can easily result in salt accumulation on the soil surface.
+- Drought-induced salinity intrusion can also lead to the salinization of freshwater marsh wet- lands, which in turn affects wetland ecological processes and func- tions (e.g., carbon dynamics) [15].
+- Therefore, we need to clarify the potential effects of salinization on soil micro- bial composition in diverse ecosystems and decipher the changing pattern in microbial-mediated ecosystem functions caused by increasing salinity. Increased soil salinity is considered to be unfavorable to crop yield in most agricultural ecosystems, it has also been reported to cause ecosystem degradation in grassland and forest ecosystems [20–21].
+- Increased soil salinity is considered to be unfavorable to crop yield in most agricultural ecosystems, it has also been reported to cause ecosystem degradation in grassland and forest ecosystems [20–21]. However, some studies have found that, for coastal wet- lands, increasing salinity associated with SLR within a certain range is conducive to plant primary production, thereby promoting carbon storage [22–24].
+- However, some studies have found that, for coastal wet- lands, increasing salinity associated with SLR within a certain range is conducive to plant primary production, thereby promoting carbon storage [22–24]. Therefore, in the context of predictable future soil salinity changes, speciﬁc management practices should be adopted for different ecosystems to maintain soil health, which is conducive to the performance of ecological services.
+- Therefore, in the context of predictable future soil salinity changes, speciﬁc management practices should be adopted for different ecosystems to maintain soil health, which is conducive to the performance of ecological services. The impor- tant roles of microorganisms in saline soils are inevitably needed to be fully understood and revealed for the ecosystems.
+- The impor- tant roles of microorganisms in saline soils are inevitably needed to be fully understood and revealed for the ecosystems. In this review, we summarize the existing information on soil microbial diversity, community composition, and microbial- mediated biogeochemical processes under soil salt stress.
+
+====================================================================================================
+### 10.1016/j.cej.2022.136712
+HEAD: On anammox activity at low temperature: effect of ladderane 
+compo ition and proce  condition 
+V Kouba1,†, K Hurkova2, K Navratilova2, D Vejmelkova1, A Benakova1, M Laureni3, 
+P Vodickova1,5, T Podzimek5, P Lipovova5, L van Niftrik4, J Haj lova#2, MCM van 
+Loo drecht#3, DG Wei brodt#3, J Bartacek#1
+1Univer ity of Chemi try and Technology Prague, Department of Water Technology and 
+Environmental Engineering, Technická 5, 166 28 Prague, Czechia
+2Univer ity of Chemi try and Technology Prague, Department of Food Analy i  and Nutrition, 
+Technická 5, 166 28 Prague, Czechia
+3Delft Univer ity of Technology, Department of Biotechnology, Building 58, Van der Maa weg 9, 
+2629 HZ, Delft
+4Radboud Univer ity, Department of Microbiology, In titute for Water and Wetland Re earch, 
+1Heyendaal eweg 135, 
+- Scalindua” also in biomasses treating supposedly less saline pre-treated sewage and reject water, but in relatively lower abundance compared to other genera, and those biomasses were not as active as the marine one.
+- Scalindua” were reported to be adapted to low temperatures by “salt-in” strategy, and early evidence points also to one species synthesizing compatible solutes (i.e., glutamate, glutamine, proline) [54]. The freezing point of aqueous solution decreases at elevated content of salts or these solutes, thus appearing as another mechanism making “Ca.
+- Scalindua” seems to have extremely beneficial predispositions towards low temperatures which is particularly relevant to municipalities using sea water for toilet flushing [63] or WWTPs accepting saline industrial wastewater; this can be realized in various set-ups [61].
+- Scalindua“, highlighting its potential for nitrogen removal from cold and more saline streams, which is crucial when choosing the most appropriate inoculum and reactor set-up.
+- Further, the adaptation to a saline environment may induce the pre-disposition of “Ca.
+- The freezing point of aqueous solution decreases at elevated content of salts or these solutes, thus appearing as another mechanism making “Ca.
+- Adaptation of Microorganisms to Cold Temperatures, Weak Acid Preservatives, Low pH and Osmotic Stress: A Review.
+
+====================================================================================================
+### 10.1016/j.ese.2024.100406
+HEAD: Original Re earch
+Glycine betaine modulate  extracellular polymeric  ub tance  to
+enhance microbial  alinity tolerance
+Yan Xia a, Xinbai Jiang a, *, Shuai huai Guo a, Yuxuan Wang a, Yang Mu b, Jinyou Shen a, **
+a Key Laboratory of Environmental Remediation and Ecological Health, Mini try of Indu try and Information Technology, School of Environmental and
+Biological Engineering, Nanjing Univer ity of Science and Technology, Nanjing, 210094, China
+b CAS Key Laboratory of Urban Pollutant Conver ion, Department of Environmental Science and Engineering, Univer ity of Science & Technology of China,
+Hefei, 230026, China
+a r t i c l e
+i n f o
+Article hi tory:
+Received 31 Augu t 2023
+Received in revi ed form
+26 February 2024
+Accepted 27 February 2024
+Keyword :
+High  alinity
+Extracellular polymeric 
+- 1. aef, The viability of microbes under different salinity levels in the presence/ absence of glycine betaine (GB) using the Confocal Laser Scanning Microscopy (CLSM) imaging: live (green)/dead (red) bacteria without GB addition (a, c, e) and with GB addition (b, d, f) at saline contents of 0% (a, b), 1% (c, d), and 3.5% (e, f), respectively. The þ symbol represents the group with GB addition. g, The ratio of live and dead cells to total cells based on three random ﬂuorescence intensities under various salinities.
+- Second derivative resolution enhanced and curve-ﬁtted amide I region (17001600 cm1) spectra of total extracellular polymeric substances (T-EPS) under various salinities: a, 0% without GB; b, 0% with GB; c, 1% without GB; d, 1% with GB; e, 3.5% without GB; f, 3.5% with GB. Table 1 Secondary protein structures in total extracellular polymeric substances (T-EPS) under various salinities with glycine betaine (GB) addition obtained from derivative spectra and curve ﬁtting.
+- Table 1 Secondary protein structures in total extracellular polymeric substances (T-EPS) under various salinities with glycine betaine (GB) addition obtained from derivative spectra and curve ﬁtting. Groups a-helix (%) b-sheet (%) b-turn (%) Random coil (%) 0% salinity 20.18 30.86 26.22 22.75 0% salinity with GB 21.57 28.87 27.14 22.42 1% salinity 20.48 31.41 25.50 22.61 1% salinity with GB 20.63 30.59 26.90 21.88 3.5% salinity 17.89 38.01 22.20 21.90 3.5% salinity with GB 19.86 30.06 29.29 20.78 Y.
+- Here we show microbial strategies for salinity endurance by investi- gating the impact of GB on the dynamic alterations of EPS properties. Our ﬁndings reveal that GB sup- plementation at 3.5% salinity elevates the total EPS (T-EPS) content from 12.50 ± 0.05 to 24.58 ± 0.96 mg per g dry cell weight.
+- Our ﬁndings reveal that GB sup- plementation at 3.5% salinity elevates the total EPS (T-EPS) content from 12.50 ± 0.05 to 24.58 ± 0.96 mg per g dry cell weight. The observed shift in zeta potential from 28.95 to 6.25 mV at 0% and 3.5% salinity, respectively, with GB treatment, indicates a reduction in electrostatic repulsion and compaction.
+- The observed shift in zeta potential from 28.95 to 6.25 mV at 0% and 3.5% salinity, respectively, with GB treatment, indicates a reduction in electrostatic repulsion and compaction. Notably, the EPS protein secondary structure transition from b-sheet to a-helix, with GB addition, sig- niﬁes a more compact protein conﬁguration, less susceptible to salinity ﬂuctuations.
+- Introduction In recent years, the development of some industrial production processes (e.g., pesticide, textile, and pharmaceutical production) has led to the discharge of large amounts of saline wastewater (>1% w/v NaCl) [1].
+- In addition, our previous study reported that the electron transfer system (ETS) increased by 41.5% following GB addition to high-salt nitrobenzene wastewater [15], suggesting GB's potential role in accelerating extracellular electron transfer in saline environments. However, there is still a lack of exploration of the complex and inﬂuential mechanisms related to GB addition on microbial salt-tolerance properties via EPS secretion under high- salt environments.
+- The salt concentration in minimal salt medium (MSM) was settled as 0%, 1%, and 3.5% for fresh, saline, and hypersaline environments.
+- The intensity of the red ﬂuorescence was obviously strengthened, with a remarkable decrease in the ratio of live cells from 54.88 ± 6.00% to 31.69 ± 5.92% after the salinity increased from 0% to 3.5%. This was consistent with the previous study of Sierra et al. [21], indicating a visible increase of the compromised cells on exposure to salinity.
+- 1h), which was 0.76 ± 0.007 at 0% salinity and 0.63 ± 0.003 at 3.5% salinity at 24 h. It has been re- ported that salinity could cause an imbalance of intracellular and extracellular osmosis, causing severe dehydration and rupture of cells [22].
+- It has been re- ported that salinity could cause an imbalance of intracellular and extracellular osmosis, causing severe dehydration and rupture of cells [22]. In contrast, it was observed that the ratio of live cells increased signiﬁcantly with GB addition under a saline environ- ment by 22.45 ± 0.98% and 15.10 ± 1.16% when salinity increased from 1% to 3.5%.
+- In contrast, it was observed that the ratio of live cells increased signiﬁcantly with GB addition under a saline environ- ment by 22.45 ± 0.98% and 15.10 ± 1.16% when salinity increased from 1% to 3.5%. The OD600 values were simultaneously increased by 0.05 ± 0.005 and 0.10 ± 0.02 when salinity increased from 1% to 3.5%, respectively.
+- The OD600 values were simultaneously increased by 0.05 ± 0.005 and 0.10 ± 0.02 when salinity increased from 1% to 3.5%, respectively. Previous studies have found that GB could be synthesized or absorbed by microbes, which played a signiﬁcant role in maintaining cellular osmotic pressure and alleviating salt stress [23].
+- It is worth noting that a general increase of T-EPS was observed from 8.31 ± 0.21 to 12.50 ± 0.05 mg per g dry cell when the salinity increased from 0% to 3.5%. The measures taken by microbes in response to osmotic pressure could include the increase of endogenous respiration accompanied by EPS secretion [25].
+- Therefore, it is reasonable to speculate that increasing EPS content with increasing salinity might be a stress response of microorganisms to adverse environments. The content of T-EPS for the GB-addition group increased from 14.03 ± 1.08 mg per g dry cell (0% salinity) to 24.58 ± 0.96 mg per g dry cell (3.5% salinity), which was a remarkable increase compared to that of the group without GB addition.
+- The content of T-EPS for the GB-addition group increased from 14.03 ± 1.08 mg per g dry cell (0% salinity) to 24.58 ± 0.96 mg per g dry cell (3.5% salinity), which was a remarkable increase compared to that of the group without GB addition.
+- The PN and HA contents slightly increased, with salinity increasing from 0% to 3.5%. Notably, PS content in LB-EPS did not increase signiﬁcantly with salinity increasing in our study, contrary to what was observed by Zhang et al. [27].
+
+====================================================================================================
+### 10.1038/s41598-019-45620-2
+HEAD: 1
+Scientific Report  |          (2019) 9:9201  | http ://doi.org/10.1038/ 41598-019-45620-2
+www.nature.com/ cientificreport 
+Accompli hing a N-E-W (nutrient-
+energy-water)  ynergy in a 
+bioelectrochemical nitritation-
+anammox proce 
+Ume h Ghimire & Veera Gnane war Gude
+Thi   tudy report  an inve tigation of the concept, application and performance of a novel 
+bioelectrochemical nitritation-anammox microbial de alination cell (MDC) for re ource-efficient 
+wa tewater treatment and de alination. Two configuration  of anammox MDC  (anaerobic-anammox 
+cathode MDC (AnAmoxMDC) and nitration-anammox cathode MDC (NiAmoxMDC)) were compared with 
+an air cathode MDC (CMDC), operated in fed-batch mode. Re ult  from thi   tudy  howed that the 
+maximum power den ity produced by NiAmoxMDC (1,007 mW/m3) w
+- Figure 4A shows the average salinity removal rates for the three MDCs. Initially, 10 g/L of NaCl was fed in desalination compartment of each MDC.
+- Initially, 10 g/L of NaCl was fed in desalination compartment of each MDC. The electrical conductivity of 10 g/L of NaCl at 25 °C was 17.92 mS/Cm.
+- The electrical conductivity of 10 g/L of NaCl at 25 °C was 17.92 mS/Cm. The average salinity removal rates (TDS removal) in CMDC, AnAmoxMDC and NiAmoxMDC were 43.0, 54.4, and 53.9%, respectively (Fig.
+- The average salinity removal rates (TDS removal) in CMDC, AnAmoxMDC and NiAmoxMDC were 43.0, 54.4, and 53.9%, respectively (Fig.
+- At a higher volumetric ratio of 100 (v/v) with 35 mg/L of NaCl solution and potassium ferricyanide as catholyte, 93% salt removal was reported43. Similarly, 100% salinity removal was achieved at a volumetric ratio of 11 (v/v) with an air cathode and 30 mg/L of NaCl concentration44.
+- Similarly, 100% salinity removal was achieved at a volumetric ratio of 11 (v/v) with an air cathode and 30 mg/L of NaCl concentration44. Chen et al.45 reported 80% salinity removal at a volumetric ratio of 36 (v/v) in an air cathode MDC.
+- Chen et al.45 reported 80% salinity removal at a volumetric ratio of 36 (v/v) in an air cathode MDC. Wen et al.41 used an MDC with a volumetric ratio of 11.3 (v/v) and obtained 92% of desalination rate with 35 mg/L of NaCl and a biocathode.
+- Wen et al.41 used an MDC with a volumetric ratio of 11.3 (v/v) and obtained 92% of desalination rate with 35 mg/L of NaCl and a biocathode. However, at a volumetric ratio of less than 1, the salinity removal percentages reported were less than 50%.
+- However, at a volumetric ratio of less than 1, the salinity removal percentages reported were less than 50%.
+- 6 Scientific Reports | (2019) 9:9201 | https://doi.org/10.1038/s41598-019-45620-2 www.nature.com/scientificreports www.nature.com/scientificreports/ desalination rate of 37% with a volumetric ratio of 1 (equal volumes of anode, desalination and cathode cham- ber) and 44% of salinity removal was observed in an air cathode MDC at a volumetric ratio of 2 (with 35 mg/L of NaCl)46. Similarly, Zhang and He reported a salinity removal of about 57.8% in an osmotic MDC with a volu- metric ratio of 0.8 (v/v)47.
+- Similarly, Zhang and He reported a salinity removal of about 57.8% in an osmotic MDC with a volu- metric ratio of 0.8 (v/v)47.
+- In addition, a larger surface area of IEM would also improve ion transport and salt removal. In a study, Cao et al.43 reported 93% salinity removal with surface area of IEM and salt solution volume ratio of 3:1 (9 cm2:3 cm3), while this ratio in our MDC system was around 0.8:1 (31.8 cm2:40 cm3).
+- In a study, Cao et al.43 reported 93% salinity removal with surface area of IEM and salt solution volume ratio of 3:1 (9 cm2:3 cm3), while this ratio in our MDC system was around 0.8:1 (31.8 cm2:40 cm3). Therefore, this study demonstrated the importance of MDC design factors such as volumetric ratio and IEM surface area on salinity removal, which should be taken into consideration in further evaluation of anammox MDCs.
+- In our MDC, movement of water from one compartment to another compartment through the membranes was observed, which is caused by osmotic pressure differences caused by salinity differences in those compartments. When treating a 10 g/L of NaCl, the volume of desalinated water increased by 10% at the end of each cycle, which is due to the water movement from the anode chamber to the desalination chamber due to the osmotic pressure difference between the compartments.
+- When treating a 10 g/L of NaCl, the volume of desalinated water increased by 10% at the end of each cycle, which is due to the water movement from the anode chamber to the desalination chamber due to the osmotic pressure difference between the compartments. This movement of water to desalination chamber also contributed to the dilution of the salt solution, thus increasing charge transfer efficiency.
+- In a similar study performed by Cao et al.43 ohmic resistance was found to increase by a factor of 40 (25 Ω at start to 970 Ω at the end) with salt concentration of 5 g/L in the desalination chamber43.
+- 10 g/L of NaCl solution was added in all MDC desalination compartments.
+- The desal- ination ratio (η) of the saline water was based on the change in the conductivity of saline water (the concentration of NaCl in this study showed a linear fit with its conductivity) over a batch cycle and was calculated using Eq. 5 η = σ −σ σ × 100% (5) i f i where σi and σf are the initial and final conductivities of the saline water in the desalination compartment over a fed-batch cycle respectively.
+
+====================================================================================================
+### 10.1038/s41396-020-00850-5
+HEAD: The ISME Journal (2021) 15:1287–1301
+http ://doi.org/10.1038/ 41396-020-00850-5
+ARTICLE
+Glycogen metaboli m of the anammox bacterium “Candidatu 
+Brocadia  inica”
+Sato hi Okabe
+1
+●Amrini Amalia Shafdar1
+●Kanae Kobaya hi1
+●Lei Zhang1
+●Mamoru O hiki
+1
+Received: 3 July 2020 / Revi ed: 3 November 2020 / Accepted: 18 November 2020 / Publi hed online: 7 December 2020
+© The Author( ), under exclu ive licence to International Society for Microbial Ecology 2020
+Ab tract
+Pre ence of glycogen granule  in anaerobic ammonium-oxidizing (anammox) bacteria ha  been reported  o far. However,
+very little i  known about their glycogen metaboli m and the exact role . Here, we  tudied the glycogen metaboli m in “Ca.
+Brocadia  inica” growing in continuou  retento tat culture  with bicarbonate a  a carbon  ource.
+- The cell suspension was brought to pH 5.2 by addition of 0.15 mL of 1 M acetic acid and 0.6 mL of 0.2 M Na-acetate (pH 5.2) and then divided into two subsamples for determination of intracellular glycogen and trehalose.
+- However, since the amount of produced trehalose was only about 10% of the consumed glycogen, other metabolites of glycogen degradation could be present or used for energy generation. Trehalose is known to be accumulated in bacterial cells as a response to a variety of stresses such as heat, dry, starvation, and osmotic stress [4, 53].
+- In the GlgE pathway, the linear Glycogen (α-1,4-glucans with α-1,6-branches) ADP- glucose α-glucose-1-phosphate (G1P) α-glucose-6-phosphate (G6P) GlgP Pgm GlgC malQ GlgB AMP PPi GlgA Gpi UDP- glucose Trehalose OtsB OtsA TreS - TreY - TreZ TreT - α-fructose-6-phosphate (F6P) Glycogen Metabolism GlgE CDP-glucose Amino sugar and nucleotide sugar metabolism rfbF Cellulose bcsA Malto-oligosyl trehalose Trehalose-6P galU n.d n.d UTP PPi Linear α-1,4 glucans (maltodextrin) TreP - Glucose Glucose Glucose-6-P Rv3031 Pep2 GlgX AspP ATP AGL Maltose Maltose-1P TreS - Pi Glucose? Pi ATP ADP Phosphorylase-limit dextrin (α-1,6-branced) ISA Rv3032 n.d Protein expression >15 7.5 0 (PCI, ʹ103 M%) n.d n.d n.d 
+- In the TreS pathway, TreS converts maltose directly into trehalose by converting α-1,4 glycosidic bond to α-1,1 glycosidic bond [71, 72].
+- B. sinica” (glycogen constituted ~2–3% of biomass dry weight whereas trehalose constituted only <0.1%, Fig.
+- When cells were starved, a part of stored glycogen was converted to trehalose, a potential stress protectant. This suggests that glycogen serves at least as a primary carbon source of trehalose synthesis for survival.
+- This suggests that glycogen serves at least as a primary carbon source of trehalose synthesis for survival.
+- On the other hand, glycogen is degraded to glucose-1-phosphate by debranching enzyme (GlgX) and glycogen phosphorylase (GlgP) or to trehalose via the (TreX)–TreY–TreZ pathway [2]. Furthermore, the glycogen metabolism is known to be closely interlinked with biosynthesis of the disaccharide trehalose [2–4].
+- Furthermore, the glycogen metabolism is known to be closely interlinked with biosynthesis of the disaccharide trehalose [2–4].
+- Furthermore, it was reported that glycogen was constantly recycled during early exponential-growth phase (meaning synthesis and degra- dation occurred simultaneously) in Corynebacterium glu- tamicum and utilized as a carbon source for trehalose synthesis under hyperosmotic conditions [3].
+- B. sinica” during growing and near-zero growth phase and that it was utilized at least as an energy and carbon source for trehalose biosynthesis under starvation conditions.
+- The obtained dry biomass was also subjected to the following measurements of intracel- lular glycogen and trehalose contents.
+- Glycogen and trehalose assays The intracellular glycogen content was determined by a two-step enzymatic assay as previously described [38].
+- For trehalose measurement, the second half of cell sus- pension was centrifuged at 5000×g for 3 min, and trehalose concentration in the supernatant was directly quantiﬁed by using a commercially available trehalose assay kit accord- ing to the manufacturer’s protocol (Megazyme, Wicklow, Ireland) [39].
+- Intracellular glycogen content sharply decreased from 20.5 mg-glucose (g-biomass dry wt)−1 to <3 mg-glucose (g-biomass dry wt)−1 and concomitantly trehalose accu- mulated up to 1.0 mg-trehalose (g-biomass dry wt)−1 immediately after the substrate feed was stopped at day 58, suggesting that a part of glycogen was converted to treha- lose (Fig.
+- Trehalose is known to be accumulated in bacterial cells as a response to a variety of stresses such as heat, dry, starvation, and osmotic stress [4, 53]. The produced trehalose decreased rapidly to the original level (<0.2 mg-trehalose (g-biomass dry wt)−1) within a week.
+- The produced trehalose decreased rapidly to the original level (<0.2 mg-trehalose (g-biomass dry wt)−1) within a week. Probably, trehalose is broken down to glu- cose, which is eventually used as an energy and/or carbon source.
+- Probably, trehalose is broken down to glu- cose, which is eventually used as an energy and/or carbon source. Trehalose accumulation in anammox bacteria under substrate-limited conditions was reported for the ﬁrst time.
+
+====================================================================================================
+### 10.1038/s41396-021-01031-8
+HEAD: ARTICLE
+Maintenance power requirement  of anammox bacteria
+“Candidatu  Brocadia  inica” and “Candidatu  Scalindua  p.”
+Sato hi Okabe
+1✉, At u hi Kamigaito1 and Kanae Kobaya hi1
+© The Author( ), under exclu ive licence to International Society for Microbial Ecology 2021
+Little i  known about the cell phy iology of anammox bacteria growing at extremely low growth rate . Here, “Candidatu  Brocadia
+ inica” and “Candidatu  Scalindua  p.” were grown in continuou  anaerobic membrane bioreactor  (MBR ) with complete bioma 
+retention to determine maintenance energy (i.e., power) requirement  at near-zero growth rate . After prolonged retento tat
+cultivation , the  peciﬁc growth rate  (μ) of “Ca. B.  inica” and “Ca. Scalindua  p.” decrea ed to 0.000023 h−1 (doubling time of
+1255 day ) and 0.000157 
+- Scalindua sp.” contained (mg L−1): (NH4)2SO4, (variable), NaNO2 (variable), CaCl2 ∙2H2O (114), MgSO4 ∙7H2O (99), KHCO3 (500), KH2PO4 (24.4), 0.5 mL L−1 trace element solution I & II [36] and 25 g L−1 of SEALIFE (Marine Tech, Tokyo, Japan) as an artiﬁcial sea salt [37].
+- Scalindua sp.” (0.030 mol-biomass-C (mol of NH4 +)−1 at 28 °C and 2.8% salinity) [34, 50].
+- Scalindua sp.” were highly dependent on salinity and in the range 0.010–0.019 mol-biomass-C (mol of NH4 +)−1 under low salinity conditions (≤1%) [50].
+- B. sinica” was cultured at 37 °C and ≈0% salinity, whereas “Ca. Scalindua sp.” was cultured at 28 °C and 2.5% salinity.
+- Scalindua sp.” was cultured at 28 °C and 2.5% salinity.
+- Biomass yield efﬁciency of the marine anammox bacterium, “Candidatus Scalindua sp.,” is affected by salinity.
+- B. sinica” contained (mg L−1): (NH4)2SO4, (variable), NaNO2 (variable), FeSO4 ∙7H2O (9), EDTA ∙2Na (5.0), NaCl (1.0), KCl (1.4), CaCl2 ∙2H2O (1.4), MgSO4 ∙7H2O (1.0), NaHCO3 (84), KH2PO4 (54) and 0.5 mL L−1 trace elements solution II [36].
+- B. sinica” could be attributed to the higher culture temperature even though the higher salinity medium was used for “Ca.
+
+====================================================================================================
+### 10.1021/acs.est.2c01104
+HEAD: S1
+Supplementary Information for 
+Glutamate Enhance  O moadaptation of Anammox Bacteria under High 
+Salinity: Genomic Analy i  and Experimental Evidence
+Muhammad Naufal, Jer-Horng Wu*, Yung-H ien Shao
+Department of Environmental Engineering, National Cheng Kung Univer ity,
+No.1, Univer ity Road, Ea t Di trict, Tainan City 70101, Taiwan.
+*Corre ponding author
+E-mail: enewujh@mail.ncku.edu.tw
+Number of page : 12
+Number of table : 6
+Number of figure : 4
+Downloaded from pub .​ac .​org/​e thag/​article- upplement/​381938/​pdf/​e 2c01104_ i_001/​ by gue t on 27 September 2026
+
+S2
+Table S1. Genome  of anammox bacteria analyzed in thi   tudy.
+No
+Specie 
+Acce ion #
+Contig 
+Size
+Completene 
+Contamination
+Quality
+1
+Ca. Brocadia carolinien i 
+AYTS00000000
+209
+3.70
+93.34
+2.74
+High
+2
+Ca. Brocadia fulg
+- Pathway Function Gene KO Osmoprotectant transporter Osmoprotectant transport system ATP-binding protein opuA* K05847 Osmoprotectant transport system permease protein opuB* K05846 Osmoprotectant transport system substrate-binding protein opuC* K05845 Glutamate synthesis Glutamate synthase (NADPH) small chain gltD* K00266 Glutamate synthase (NADPH) large chain gltB* K00265 Glutamate degradation Glutamate-5-semialdehyde dehydrogenase proA* K00147 Glutamate 5-kinase proB* K00931 Pyrroline-5-carboxylate reductase proC* K00286 Glutamate dehydrogenase (NAD(P)+) gdhA* K00261 Glutamate transport Proton/glutamate-aspartate symporter gltP* K11102 Glycine betaine synthesis HTH-type transcriptional regul
+- Fold changes of glutamate dehydrogenase gene (gdhA) expression of Ca. Kuenenia at different concentrations of sodium chloride (0, 0.5%, and 3.5%, w/v) without and with glutamate (2mM) in the presence of ammonium (140 mg N/L) and nitrite (140 mg N/L) as anammox substrates.
+- Kuenenia at different concentrations of sodium chloride (0, 0.5%, and 3.5%, w/v) without and with glutamate (2mM) in the presence of ammonium (140 mg N/L) and nitrite (140 mg N/L) as anammox substrates.
+- Operation and performance of the anammox reactors in this study. (1) In our previous study,1 the PI reactor was operated with a periodical increase of salinity (at 0.5%–1% increments) from 0.5% to 4%, and then maintained at 4% for a long time until this study. (2) In our previous study,1 the SI reactor was operated with a sharp increase of salinity from 0.5% to 3% (at a 2.5% increment), and then 4%. The SI reactor had been maintained at 4%of salinity for a long time until this study.
+- The SI reactor had been maintained at 4%of salinity for a long time until this study. Parameter PI reactor (1) SI reactor (2) AMX reactor Osmoadaptation strategy Stepwise increase Brine salinity Acute increase Brine salinity Constant salinity Operation day 365- 397 398- 423 424- 433 434- 444 445- 455 456- 660 661- 1200 365- 422 423- 455 456- 660 661- 1200 600- 857 858- 1202 Input NH4+ -N (mg/L) 200 200 200 200 200 200 200 200 200 200 200 120 140 Input NO2--N (mg/L) 200 200 200 200 200 200 200 200 200 200 200 200 140 HRT (hour) 20 20 20 20 20 20 20 20 20 20 20 48 48 NaCl (%, w/v) 0 0.5 1 2 3 4 4 0.5 3 4 4 0.5 0.5 Total N-removal Average (%) 83.9 86.2 85.5 90.9 91.1 88.8 56.5 85.9 65.6 54.1 51
+- Feeding media used in the salinity-adapted anammox reactors. Anammox reactor Components (1) PI (2) SI (2) AMX (2) NH4Cl (mg-N/L) 200 200 110 NaNO2 (mg-N/L) 200 200 220 NaCl (w/v) 4% 4% 0.5% Other nutrients (mg/L) KHCO3 500 500 500 MgSO4 (7H2O) 300 300 300 KH2PO4 27.2 27.2 27.2 CaCl2 (2H2O) 180 180 180 Ethylenediaminetetraacetic acid 5.0 5.0 5.0 FeSO4 (7H2O) 5.0 5.0 5.0 ZnSO4 (7H2O) 0.43 0.43 0.43 MnCl2 (4H2O) 0.99 0.99 0.99 CuSO4 (5H2O) 0.25 0.25 0.25 NaMoO4 (2H2O) 0.22 0.22 0.22 NiCl2 (6H2O) 0.19 0.19 0.19 Na2SeO4 0.21 0.21 0.21 NaWO4 (2H2O) 0.05 0.05 0.05 H3BO3 00.014 00.014 00.014 (1)The medium composition is modified from 2 (2) See Table S2 for details of the reactor operation.
+- Anammox reactor Components (1) PI (2) SI (2) AMX (2) NH4Cl (mg-N/L) 200 200 110 NaNO2 (mg-N/L) 200 200 220 NaCl (w/v) 4% 4% 0.5% Other nutrients (mg/L) KHCO3 500 500 500 MgSO4 (7H2O) 300 300 300 KH2PO4 27.2 27.2 27.2 CaCl2 (2H2O) 180 180 180 Ethylenediaminetetraacetic acid 5.0 5.0 5.0 FeSO4 (7H2O) 5.0 5.0 5.0 ZnSO4 (7H2O) 0.43 0.43 0.43 MnCl2 (4H2O) 0.99 0.99 0.99 CuSO4 (5H2O) 0.25 0.25 0.25 NaMoO4 (2H2O) 0.22 0.22 0.22 NiCl2 (6H2O) 0.19 0.19 0.19 Na2SeO4 0.21 0.21 0.21 NaWO4 (2H2O) 0.05 0.05 0.05 H3BO3 00.014 00.014 00.014 (1)The medium composition is modified from 2 (2) See Table S2 for details of the reactor operation.
+- Experimental design of batch test experiments with potential osmoprotectants under different salt concentrations. The sludge inoculum was taken from the AMX reactor that has been operating at the 0.5% salt concentration for a long time.
+- The sludge inoculum was taken from the AMX reactor that has been operating at the 0.5% salt concentration for a long time. NaCl levels (%) in batch test I batch test II batch test III Experimental details 0.25 0.5 0.75 1.25 2.25 3.25 3.75 0.75 2.25 3.75 0 0.5 3.5 Glycine (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA NA NA NA Glycerol (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA NA NA NA Glutamate (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA Glutamate (2 mM) NA NA NA NA NA NA NA ✓ ✓ ✓ ✓ ✓ ✓ Potassium (1 mM) NA NA NA NA NA NA NA ✓ ✓ ✓ NA NA NA Glycine (1 mM) + Potassium (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA NA NA NA Glycerol (1 mM) + Potassium (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA NA NA NA Glutamate (1 mM) + Potassium (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA 
+- NaCl levels (%) in batch test I batch test II batch test III Experimental details 0.25 0.5 0.75 1.25 2.25 3.25 3.75 0.75 2.25 3.75 0 0.5 3.5 Glycine (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA NA NA NA Glycerol (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA NA NA NA Glutamate (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA Glutamate (2 mM) NA NA NA NA NA NA NA ✓ ✓ ✓ ✓ ✓ ✓ Potassium (1 mM) NA NA NA NA NA NA NA ✓ ✓ ✓ NA NA NA Glycine (1 mM) + Potassium (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA NA NA NA Glycerol (1 mM) + Potassium (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA NA NA NA Glutamate (1 mM) + Potassium (1 mM) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ NA NA NA Glutamate (2 mM) + Potassium (1 mM) NA NA NA NA NA NA NA ✓ ✓ ✓ NA NA NA Control (no osmolyte and potassium) ✓ ✓ ✓ ✓ ✓
+- Genes related to anammox and osmoadaptation analyzed in this study. Pathway Function Gene KO Osmoprotectant transporter Osmoprotectant transport system ATP-binding protein opuA* K05847 Osmoprotectant transport system permease protein opuB* K05846 Osmoprotectant transport system substrate-binding protein opuC* K05845 Glutamate synthesis Glutamate synthase (NADPH) small chain gltD* K00266 Glutamate synthase (NADPH) large chain gltB* K00265 Glutamate degradation Glutamate-5-semialdehyde dehydrogenase proA* K00147 Glutamate 5-kinase proB* K00931 Pyrroline-5-carboxylate reductase proC* K00286 Glutamate dehydrogenase (NAD(P)+) gdhA* K00261 Glutamate transport Proton/glutamate-aspartate symporter g
+- Effects of osmoprotectants on the gas production of anammox sludge with ammonium (50 mg N/L) and nitrite (50 mg N/L) as substrates at various salt concentrations (0.25%–3.75%, w/v). (A) Glutamate (1 mM); (B) Glycine (1 mM); (C) Glycerol (1 mM).
+- S1 Supplementary Information for Glutamate Enhances Osmoadaptation of Anammox Bacteria under High Salinity: Genomic Analysis and Experimental Evidence Muhammad Naufal, Jer-Horng Wu*, Yung-Hsien Shao Department of Environmental Engineering, National Cheng Kung University, No.1, University Road, East District, Tainan City 70101, Taiwan. *Corresponding author E-mail: enewujh@mail.ncku.edu.tw Number of pages: 12 Number of tables: 6 Number of figures: 4 Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​381938/​pdf/​es2c01104_si_001/​ by guest on 27 September 2026 S2 Table S1.
+- Parameter PI reactor (1) SI reactor (2) AMX reactor Osmoadaptation strategy Stepwise increase Brine salinity Acute increase Brine salinity Constant salinity Operation day 365- 397 398- 423 424- 433 434- 444 445- 455 456- 660 661- 1200 365- 422 423- 455 456- 660 661- 1200 600- 857 858- 1202 Input NH4+ -N (mg/L) 200 200 200 200 200 200 200 200 200 200 200 120 140 Input NO2--N (mg/L) 200 200 200 200 200 200 200 200 200 200 200 200 140 HRT (hour) 20 20 20 20 20 20 20 20 20 20 20 48 48 NaCl (%, w/v) 0 0.5 1 2 3 4 4 0.5 3 4 4 0.5 0.5 Total N-removal Average (%) 83.9 86.2 85.5 90.9 91.1 88.8 56.5 85.9 65.6 54.1 51.0 88.3 91.2 Deviation (%) 2.1 2.1 3.8 0.8 1.3 6.7 1.1 3.0 5.2 2.6 2.6 3.2 4.7 Downloa
+- Heatmap analysis of predicted osmoadaptation-related genes across the recovered anammox bacterial genomes annotated with KEGG BlastKOALA (A) and eggNOG-mapper (B).
+- The experiments were performed simultaneously, and thus shared the control group (no osmolyte and potassium).
+- Significant differences (p< 0.01) at a salt level for each osmolyte treatment against the control group are indicated with arrows, while those (p<0.01) among different osmolyte treatments at a salt level are indicated with different colored letters.
+- H., Stability of microbial functionality in anammox sludge adaptation to various salt concentrations and different salt-adding steps.
+
+====================================================================================================
+### 10.1021/acs.est.4c01417
+HEAD:  
+ 
+Supporting Information 
+The potential role of the anammoxo ome in the adaptation of anammox bacteria 
+to  alinity  tre  
+Yu-Tong Xionga,b, Xi-Wen Liaoa,b, Jin-Song Guoa,b, Fang Fanga,b, You-Peng 
+Chena,b, Peng Yana,b* 
+a Key Laboratory of the Three Gorge  Re ervoir Region’  Eco-Environment, Mini try 
+of Education, Chongqing Univer ity, Chongqing, 400045, China 
+b College of Environment and Ecology, Chongqing Univer ity, Chongqing 400045, 
+China 
+ 
+*Corre ponding Author 
+Prof. Peng Yan 
+Fax: +86-23-65127370, Tel: +86-23-65127370 
+Email: pyan@cqu.edu.cn 
+ 
+Thi   upporting information contain  14 page , including 5 figure , detailed 
+de cription  about  ynthetic wa tewater, ladderane core lipid analy i , HPLC-APCI-
+MS/MS analy i , the index of ladderane lipid  with 5 cyclobutane ring  (N
+- 15 g L-1 NaCl, MgSO4•7H2O, 25 mg L-1 CaCl2, 1.2 g L-1 KH2PO4, 2.26 g L-1 NaHCO3, and trace element solutions at a concentration of 1 mL L-1.
+- Contains genes for transporting glycine /proline betaine (gltp).
+- Draft Genome of Scalindua rubra, Obtained from the Interface Above the Discovery Deep Brine in the Red Sea, Sheds Light on Potential Salt Adaptation Strategies in Anammox Bacteria.
+- Enhancement of pollutants removal from saline wastewater through simultaneous anammox and denitrification (SAD) process with glycine betaine addition.
+-  Supporting Information The potential role of the anammoxosome in the adaptation of anammox bacteria to salinity stress Yu-Tong Xionga,b, Xi-Wen Liaoa,b, Jin-Song Guoa,b, Fang Fanga,b, You-Peng Chena,b, Peng Yana,b* a Key Laboratory of the Three Gorges Reservoir Region’s Eco-Environment, Ministry of Education, Chongqing University, Chongqing, 400045, China b College of Environment and Ecology, Chongqing University, Chongqing 400045, China *Corresponding Author Prof.
+- The NaCl solution was added directly to the synthetic wastewater and fed in a continuous feed mode.
+- Two representative samples were used to graphically demonstrate the morphological changes of anammoxosome and anammox bacteria under salinity stress.
+- Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​154309/​pdf/​es4c01417_si_001/​ by guest on 27 September 2026 s2 Figure.S2 Contents of individual ladderane core lipid during salinity stress. 0.0 0.2 1.0 1.2 C20-[3] C20-[5] C18-[5] Content (µg/g VSS) Salinity time (day) 0 3 9 18 35 Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​154309/​pdf/​es4c01417_si_001/​ by guest on 27 September 2026 s3 Figure.S3 (a)Fractal dimension results and (b) TEM area analysis of anammox bacteria during salinity stress. (c) The average A/C volume ratio and S/V value of anammoxosome under salinity stress. (d-f) flow cytometry results of anammox bacteria, and the relative cell volumes during
+- 0.0 0.2 1.0 1.2 C20-[3] C20-[5] C18-[5] Content (µg/g VSS) Salinity time (day) 0 3 9 18 35 Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​154309/​pdf/​es4c01417_si_001/​ by guest on 27 September 2026 s3 Figure.S3 (a)Fractal dimension results and (b) TEM area analysis of anammox bacteria during salinity stress. (c) The average A/C volume ratio and S/V value of anammoxosome under salinity stress. (d-f) flow cytometry results of anammox bacteria, and the relative cell volumes during salinity stress are marked at the bottom of the figure (relative cell volume=(FSC2+SSC3/2)/2). S/V A/C (d) (c) (b) Area of anammox (μm2) S/V (μm-1) A/C (%) 5E-3 4E-3 3E-3 2E-3 1E-3 80 60 40 20 0 9 35 1.
+- S/V A/C (d) (c) (b) Area of anammox (μm2) S/V (μm-1) A/C (%) 5E-3 4E-3 3E-3 2E-3 1E-3 80 60 40 20 0 9 35 1.6 1.7 1.8 Fractal Dimension Area of anammox (μm2) 0 d 1200703 709324 9 d 35 d 0.0 1.0 3.0 2.0 FITC-A (a) (e) Salinity time (day) 0 9 35 Salinity time (day) 105 105 104 104 103 103 102 102 1158064 SSC-A 102 104 106 102 104 106 105 104 103 102 SSC-A FITC-A 102 104 106 (f) Salinity time (day) 0 9 35 Salinity time (day) 0 9 35 0 9 35 1.8 1.7 1.6 Fractal Dimension 3.0 2.0 1.0 0.0 SSC-A FITC-A Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​154309/​pdf/​es4c01417_si_001/​ by guest on 27 September 2026 s4 Figure.S4 Three-dimensional reconstruction image of anammox bacteria taken fr
+- The comparison of the adaptation mechanisms under salinity stress between the Candidatus Jettenia and the Candidatus Scalindia Physiological and metabolic characteristics Osmoadaptation-related genes Adaptation mechanisms Reference Candidatus Jettenia 1.Regulates the anammoxosome membrane properties to affect the ATP content to adapt to salinity stress. 2.Reduces anammoxosome volume and increases irregular morphology of anammoxosome to strengthen the membrane-bound metabolic activity after acclimating to salinity stress.
+- 2.Reduces anammoxosome volume and increases irregular morphology of anammoxosome to strengthen the membrane-bound metabolic activity after acclimating to salinity stress.
+- Regulates the activation and secretion of compatible substances to adapt to salinity stress.
+- Contains genes for the biosynthesis of glutamine (glnA) and glutamate (gdhA). Modulating the membrane properties and morphology of anammoxosome in response to salinity stress, compatible solutes This study Candidatus Scalindia Uptakes the osmolytes produced through the coevolution of organisms to adapt to high salinity.
+- Modulating the membrane properties and morphology of anammoxosome in response to salinity stress, compatible solutes This study Candidatus Scalindia Uptakes the osmolytes produced through the coevolution of organisms to adapt to high salinity.
+- Contains genes for the biosynthesis of glutamine (glnA) and glutamate (gdhA). Salt ingestion strategies (majority), compatible solutes (4,5) Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​154309/​pdf/​es4c01417_si_001/​ by guest on 27 September 2026 s10 Reference (1) van de Graaf, A.A.; de Bruijn, P.;
+- Salt ingestion strategies (majority), compatible solutes (4,5) Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​154309/​pdf/​es4c01417_si_001/​ by guest on 27 September 2026 s10 Reference (1) van de Graaf, A.A.; de Bruijn, P.;
+
+====================================================================================================
+### 10.1038/s41522-022-00308-w
+HEAD: ARTICLE
+OPEN
+Di turbance-ba ed management of eco y tem  ervice  and
+di ervice  in partial nitritation-anammox bioﬁlm 
+Carolina Suarez
+1,2, Chri topher J. Sedlacek3,4, David J. I. Gu tav on5,6, Alexander Eiler7, O kar Modin
+8, Malte Herman on1 and
+Frank Per on
+8✉
+The re i tance and re ilience provided by functional redundancy, a common feature of microbial communitie , i  not alway 
+advantageou . An example i  nitrite oxidation in partial nitritation-anammox (PNA) reactor  de igned for nitrogen removal in
+wa tewater treatment, where  uppre ion of nitrite oxidizer  like Nitro pira i   ought. In the e eco y tem , bioﬁlm  provide
+microhabitat  with oxygen gradient , allowing the coexi tence of aerobic and anaerobic bacteria. We de igned a di turbance
+experiment where PNA bioﬁlm , treating
+- The different exposure regimens were associated with metagenomic assembled genomes of Nitrosomonas, Nitrospira, and Brocadia, encoding genes related to N-cycling, substrate usage, and osmotic stress response, possibly explaining the three different patterns by niche differentiation.
+- Genome reconstruction suggests that the AOB differed in their tolerance to osmotic stress, ability to use urea or hydrogen, tolerance to oxygen limiting conditions, and ability to ﬁx carbon during low and ﬂuctuating CO2 concentrations (See supporting information for details).
+- To date, the only Nitrospira genomes observed to encode this kind of antiporter complex have been found in highly saline/ alkaline environments64.
+- Nonetheless, the conduc- tivity, which is a measure of the total concentration of ions in the water, was more than ﬁve-fold higher in the sidestream, indicating a higher osmotic stress in the sidestream. In this environment, adaptations to osmotic stress might offer a competitive advantage to halotolerant populations.
+- In this environment, adaptations to osmotic stress might offer a competitive advantage to halotolerant populations. Hence, it is possible that unchar- acterized adaptations to osmotic stress in Nitrospira SJ521 could explain the persistence of this population.
+- Hence, it is possible that unchar- acterized adaptations to osmotic stress in Nitrospira SJ521 could explain the persistence of this population.
+- Our metagenomic analyses show that the pangenomes of nitriﬁers and anammox bacteria included genes for osmotic stress response, organic matter and inorganic nitrogen usage.
+- Salinity measurements Three water samples from sidestream and mainstream at the Sjölunda WWTP were collected in January 2021.
+- O.M. performed the salinity measurements.
+
+====================================================================================================
+### 10.1021/acssuschemeng.0c08036
+HEAD: Hydroxyapatite Formation in a Single-Stage Anammox-Ba ed Batch
+Treatment Sy tem: Reactor Performance, Pho phoru  Recovery, and
+Microbial Community
+Albert Magrí,* Emma Company, Frederic Gich, and Je ú  Colprim
+Cite Thi : ACS Su tainable Chem. Eng. 2021, 9, 2745−2761
+Read Online
+ACCESS
+Metric  & More
+Article Recommendation 
+*
+ ı
+Supporting Information
+ABSTRACT: Simultaneou  ammonium−nitrogen (NH4
++−N)
+removal and orthopho phate−pho phoru  (PO4−P) biominerali-
+zation wa   tudied in two granular  ludge  equencing batch
+reactor  treating urban  ide tream centrate through the one- tage
+partial nitritation−anaerobic ammonium oxidation (anammox)
+proce . By adding an external  ource of calcium, concomitant
+conver ion rate  of up to 0.32 g NH4
++−N/(L·day ) and 12 mg
+PO4−P/(L·day ) were mea ured wh
+- The mineral cores formed inside the granules were mostly composed of hydroxyapatite (HAP), which is a recoverable phosphate salt.
+- KEYWORDS: calcium phosphate, precipitated phosphate salt, deammoniﬁcation, digester supernatant, high-throughput sequencing, Ca.
+- Diﬀerent methods can be applied in wastewater treatment plants (WWTPs) to achieve P recovery (e.g., crystallization from sewage and internal aqueous streams, extraction from sludge using wet-chemical techniques, transformation from ashes or biochar produced from sludge thermal processing, etc.).5 Among them, the crystallization and precipitation of low-soluble salts are commonly used, based on the combination of the dissolved orthophosphate (PO4) with a metal ion, e.g., calcium (Ca), magnesium (Mg), or iron (Fe).
+- K. stuttgartiensis is known to have a high aﬃnity for nitrite and to tolerate well moderate salinity conditions,56 factors that could justify the selection of this species within the bioreactors.
+- In contrast to the polyP formed in EBPR systems, where purge of excess sludge needs to be managed appropriately to avoid issues with secondary P release, the precipitated phosphate salts such as HAP are much more stable.
+- Mineral cores formed inside the granules were mostly composed of HAP (material recoverable as precipitated phosphate salt).
+
+====================================================================================================
+### 10.1021/acs.est.5c09128
+HEAD: S1
+Supporting Information
+Su tainable electro-Fenton antifouling  trategy  imultaneou ly 
+improve  nitrogen-removal efficiency of anammox in membrane 
+bioreactor 
+Lingfeng Nia, b, Peifang Wanga, *, and Yayi Wangb, *
+*Corre ponding author.
+E-mail: pfwang2005@hhu.edu.cn; yayi.wang@tongji.edu.cn
+a Key Laboratory of Integrated Regulation and Re ource  Development on Shallow 
+Lake , Mini try of Education, College of Environment, Hohai Univer ity, 1 Xikang 
+Road, Nanjing 210098, P. R. China
+b State Key Laboratory of Pollution Control and Re ource  Reu e, Shanghai In titute 
+of Pollution Control and Ecological Security, College of Environmental Science and 
+Engineering, Tongji Univer ity, Siping Road, Shanghai 200092, P. R. China
+Downloaded from pub .​ac .​org/​e thag/​article- upplement/​3667526
+- Polyvinyl pyrrolidone (PVP, Mw = 55 kDa, 99.0%), N, N- dimethylacetamide (DMAC, 99.0%), ethanol (99.7%), methanol (99.5%), benzoic acid (99.0%), p-hydroxybenzoic acid (99.5%), potassium titanyl oxalate (90.0%), Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​3667526/​pdf/​es5c09128_si_001/​ by guest on 27 September 2026 S5 isopropanol (99.5%), p-benzoquinone (99.0%), L-histidine (99.0%), sodium chloride (NaCl, 99.5%), sulfamic acid (99.5%), phosphoric acid (H3PO4, 85.0%), p- aminobenzene sulfonamide (99.8%), N-(1-Naphthyl) ethylenediamine dihydrochloride (99.0%), potassium sodium tartrate tetrahydrate (99.0%), Nessler’s reagent, p- (dimethylamino) benzaldehyde (99.0%), hydrazine 
+- Bacterial strains of Escherichia coli (E. coli, ATCC25922) and Staphylococcus aureus (S. aureus, ATCC25923), catalase (CAT), Luria−Bertani (LB) nutrient broth, LB nutrient agar, phosphate buffered saline (PBS) were obtained from Solarbio Science & Technology Co., Ltd. (Beijing, China).
+- The cultured bacteria were then centrifuged at 13,500 rpm for 1 minute, and the resulting pellet was washed three times with sterile saline solution (0.9 wt% NaCl) to remove residual macromolecules from the growth medium. The microbial cells were resuspended in sterile saline solution to achieve a concentration of 1 × 107 colony- forming units (CFU)/mL.
+- The microbial cells were resuspended in sterile saline solution to achieve a concentration of 1 × 107 colony- forming units (CFU)/mL.
+- Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​3667526/​pdf/​es5c09128_si_001/​ by guest on 27 September 2026 S11 After filtration, the membrane was rinsed with saline solution to remove unattached bacteria. The deposited bacteria were detached by sonication into fresh saline solution, and serial dilutions of the solution were plated on LB agar plates.
+- The deposited bacteria were detached by sonication into fresh saline solution, and serial dilutions of the solution were plated on LB agar plates.
+- The probe-loaded microbial cells were resuspended in both sterile saline solution and ACS at a concentration of 1×107 CFU/mL and introduced into the membrane-filtration reactor. After conducting bacterial inactivation efficiency tests at 10 mA and 40 mA, the membrane was rinsed with saline solution to remove unattached bacteria, and the attached bacteria were sonicated into fresh saline solution.
+- After conducting bacterial inactivation efficiency tests at 10 mA and 40 mA, the membrane was rinsed with saline solution to remove unattached bacteria, and the attached bacteria were sonicated into fresh saline solution. Subsequently, 1 mL of the saline solution containing detached bacteria was Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​3667526/​pdf/​es5c09128_si_001/​ by guest on 27 September 2026 S12 withdrawn to measure ROS production within a few minutes.
+- Subsequently, 1 mL of the saline solution containing detached bacteria was Downloaded from pubs.​acs.​org/​esthag/​article-supplement/​3667526/​pdf/​es5c09128_si_001/​ by guest on 27 September 2026 S12 withdrawn to measure ROS production within a few minutes.
+
+====================================================================================================
+### 10.1016/j.ese.2025.100542
+HEAD: Review
+Hyper aline organic wa tewater treatment: Biotechnological advance 
+and engineering challenge 
+Yan-Qing Zhang a, Jing-Long Han a, Hao-Yi Cheng a, Hong-Cheng Wang a, Tie-Jun Liu b,
+Bin Liang a, *, Ai-Jie Wang a, c
+a State Key Laboratory of Urban Water Re ource and Environment, School of Eco-Environment, Harbin In titute of Technology, Shenzhen, 518055, China
+b Guangdong Provincial Key Laboratory of Intelligent and Re ilient Structure  for Civil Engineering, Harbin In titute of Technology, Shenzhen, 518055, China
+c State Key Laboratory of Urban Water Re ource and Environment, School of Environment, Harbin In titute of Technology, Harbin, 150090, China
+a r t i c l e
+i n f o
+Article hi tory:
+Received 20 September 2024
+Received in revi ed form
+12 February 2025
+Accepted 15 February 2025
+K
+- For instance, adding glycine betaine to food waste containing 1.16 % NaCl in- creases methane production approximately sixfold compared to the control group, signiﬁcantly improving the anaerobic digestion of saline food waste [48]. However, the impact of exogenous betaine addition varies among different microorganisms.
+- The addition of glycine betaine also regulates the secretion of extracellular polymeric substances (EPSs). For example, supplementing with glycine betaine at a salinity of 3.5 % increases total EPS content from 12.50 ± 0.05 mg g1 of cell dry weight to 24.58 ± 0.96 mg g1.
+- For example, supplementing with glycine betaine at a salinity of 3.5 % increases total EPS content from 12.50 ± 0.05 mg g1 of cell dry weight to 24.58 ± 0.96 mg g1. Compared to conditions with 0 % salinity, this supplementation reduces electrostatic repulsion and cell compaction, resulting in a more compact protein structure.
+- Compared to conditions with 0 % salinity, this supplementation reduces electrostatic repulsion and cell compaction, resulting in a more compact protein structure. Moreover, glycine betaine en- hances the release of exogenous electron shuttles (e.g., ﬂavins, c- type cytochromes) and increases the relative abundance of salt- tolerant coding genes (e.g., kdpB, betA, opuD, epsP), effectively mitigating osmotic stress in microorganisms [50,51].
+- Mechanisms of microbial compatible solute sharing. a, Escherichia coli synthesizes and excretes glycine betaine using choline as a precursor. b, Bacillus subtilis MGA3 excretes approximately 70 % of newly synthesized L-glutamic acid under hypersaline conditions. c, Salmonella enterica excretes betaine for utilization by other strains. d, Adding glycine betaine or discarded culture media of strains (Vibrio ﬂuvialis, Vibrio vulniﬁcus, Vibrio parahaemolyticus) that secrete glycine betaine promotes the growth of Vibrio cholerae in hypersaline environments.
+- This engineered bacterial con- sortium provides an effective solution for treating hypersaline industrial wastewater. Moreover, while Pseudomonas putida KT2440 displays strong environmental stress tolerance, the introduction of betB-encoded betaine-aldehyde dehydrogenase and Naþ/Hþ antiporter EcnhaA from E. coli signiﬁcantly enhances the growth of strain KT2440 at 4 % salinity.
+- Moreover, while Pseudomonas putida KT2440 displays strong environmental stress tolerance, the introduction of betB-encoded betaine-aldehyde dehydrogenase and Naþ/Hþ antiporter EcnhaA from E. coli signiﬁcantly enhances the growth of strain KT2440 at 4 % salinity. The co-expression of EcnhaA and betB increases the maximum halotolerance of strain KT2440-EcnhaA-betB to 5 % salinity [64].
+- 68 %) [98] Magnetic intervention 0e2 50 mT SMF Enhanced halotolerance of aerobic granular sludge with COD and TN removal rates of 100 % and 72.9 %, respectively. [102] 15 Iron oxide magnetic nanoparticles (IOMNPs) Halophilic bacterial growth increased more than twofold by removing bile acids with IOMNPs (4 g L1) [106] Radiation 15e20 Gamma irradiation A mutant of Halomonas sp. YJPS3-3 with increased halotolerance [108] Ultraviolet rays 15 15 W UV lamp irradiated at a distance of 25 cm Intracellular betaine content of the mutant strain Halomonas sp.
+- ZMT2 exhibited signiﬁcantly higher sugar-to-ethanol conversion rates under 2 % NaCl stress compared to the wild-type strain ZM4. c, Introducing the HopGadBmut gene into the genome of Halomonas elongata GOP strain enhanced the conversion of L-glutamate into high concentration g-aminobutyric acid as an osmoprotectant. The UectA is located upstream of ectA and may bind to the osmotically induced factor s38 and vegetative factor s70. ectA encodes L-2,4-diaminobutyric acid acetyltransferase, ectC encodes ectoine synthase, and mCherry encodes a red ﬂuorescent reporter protein. d, Gene transfer between non-halophilic and moderately halophilic bacteria can be achieved through conjugation, thereby po
+- A metabolic cross- feeding study shows that the Halorubrum and Marinococcus strains can co-exist at salinities of up to 25 % [40], indicating that speciﬁc substance exchanges between microorganisms can Fig.
+- These bacteria cannot resist high osmotic stress by absorbing compatible solutes or hy- drolyzing proline-containing peptides; they can only synthesize L- glutamic acid. Interestingly, about 70 % of newly synthesized L- glutamic acid is excreted in hypersaline environments [55] (Fig.
+- Interestingly, about 70 % of newly synthesized L- glutamic acid is excreted in hypersaline environments [55] (Fig.
+- Under the control of the tac-lac promoter, the constructed Pseudomonas sp. exhibits enhanced halotolerance and effective hydrocarbons degradation, whereas the wild-type Pseudomonas cannot grow at a concentra- tion of 5.84 % NaCl (Table 1) [63]. This engineered bacterial con- sortium provides an effective solution for treating hypersaline industrial wastewater.
+- The co-expression of EcnhaA and betB increases the maximum halotolerance of strain KT2440-EcnhaA-betB to 5 % salinity [64]. Additionally, the engi- neered strain KT2440-EcnhaA-betB can degrade 56.70 % of benzoic acid and 95.64 % of protocatechuic acid at 4 % salinity within 48 h, whereas the wild-type strain KT2440 exhibits no biodegradation under the same conditions (Table 1).
+- Additionally, the engi- neered strain KT2440-EcnhaA-betB can degrade 56.70 % of benzoic acid and 95.64 % of protocatechuic acid at 4 % salinity within 48 h, whereas the wild-type strain KT2440 exhibits no biodegradation under the same conditions (Table 1). These examples highlight the potential of genetic engineering to maintain strain functionality under hypersaline stress.
+- This mutant strain, which has the halotolerance gene himA inserted into its transposon, exhibits a signiﬁcantly higher rate of sugar-to-ethanol conversion compared to that of the wild-type strain Z. mobilis ZM4 under a maximum of 2 % NaCl stress [65].
+- 53 %) under 50 g L1 NaCl than the non-stimulated group [94] 7 Electric ﬁelds Improved performance of phenolic wastewater treatment (86 % vs. 68 %) [98] Magnetic intervention 0e2 50 mT SMF Enhanced halotolerance of aerobic granular sludge with COD and TN removal rates of 100 % and 72.9 %, respectively. [102] 15 Iron oxide magnetic nanoparticles (IOMNPs) Halophilic bacterial growth increased more than twofold by removing bile acids with IOMNPs (4 g L1) [106] Radiation 15e20 Gamma irradiation A mutant of Halomonas sp.
+- The exogenous expression of pfs signiﬁcantly enhances bioﬁlm formation, increasing the tolerance of Z. mobilis to organics and hypersaline stress. Additionally, in the salt-tolerant strain Saccharomyces cerevisiae BY4741 (Y00) obtained through nitro- soguanidine mutagenesis, the modular assembly of the genes cds1 and cho1, related to salt-stress tolerance, reduces the ratio of anionic to zwitterionic phospholipids in strain Y03, thereby improving the strain's salt tolerance (7 % NaCl) [68].
+
+====================================================================================================
+### 10.1074/jbc.M113.470567
+HEAD: Role of Central Metaboli m in the O moadaptation of the
+Halophilic Bacterium Chromohalobacter  alexigen *□
+S
+Received for publication,March 18, 2013, and in revi ed form, April 8, 2013 Publi hed, JBC Paper  in Pre ,April 24, 2013, DOI 10.1074/jbc.M113.470567
+Jo é M. Pa tor‡1,2, Vicente Bernal‡1,3, Manuel Salvador§2, Mont errat Argandoña§4, Carmen Varga §,
+La zlo C onka¶5, Ángel Sevilla‡6, Jo é L. Iborra‡, Joaquín J. Nieto§, and Manuel Cánova ‡7
+From the ‡Departamento de Bioquímica y Biología Molecular B e Inmunología. Facultad de Química, Campu  Regional de
+Excelencia Internacional “Campu  Mare No trum,” Univer idad de Murcia, 30100 Murcia, Spain, the §Departamento de
+Microbiología y Para itología, Univer idad de Sevilla, 41012 Seville, Spain, and the ¶Department of Biological Science , P
+- Bacterial osmoadaptation involves the cytoplasmic accumu- lation of compatible solutes to counteract extracellular osmo- larity. The halophilic and highly halotolerant bacterium Chro- mohalobacter salexigens is able to grow up to 3 M NaCl in a minimal medium due to the de novo synthesis of ectoines.
+- The halophilic and highly halotolerant bacterium Chro- mohalobacter salexigens is able to grow up to 3 M NaCl in a minimal medium due to the de novo synthesis of ectoines.
+- For ectoine production and for characterization of met- abolic pathways, the strain was grown in minimal medium M63 (pH 7.2) containing 16.3 g/liter KH2PO4, 4.2 g/liter KOH, 2 g/liter (NH4)2SO4, 39.5 mg/liter MgSO47H2O, 0.5 mg/liter FeSO47H2O. M63 was supplemented with 35.0, 43.8, 146.0, or 175.2 g/liter NaCl (corresponding to 0.6, 0.75, 2.5, or 3 M).
+- The patterns of incorporation of the isotopic label from glucose into pyruvate and acetyl-CoA via glycolysis or the Entner-Dou- doroff pathway and then into ectoines were predicted. RESULTS High Salinity Favors Biomass and Ectoine Production by C. salexigens To study the effect of salinity on the metabolism of C. salexi- gens, the production of biomass and ectoines was determined in cultures grown with glucose as the sole carbon source at 0.6, 0.75, 2.5, and 3 M NaCl.
+- RESULTS High Salinity Favors Biomass and Ectoine Production by C. salexigens To study the effect of salinity on the metabolism of C. salexi- gens, the production of biomass and ectoines was determined in cultures grown with glucose as the sole carbon source at 0.6, 0.75, 2.5, and 3 M NaCl. Maximum biomass production increased with salinity up to 2.5 M NaCl (Table 1), whereas TABLE 1 Growth and production of ectoines of C. salexigens at different NaCl concentrations Cultures were grown at 37 °C in M63 minimal medium with 20 mM glucose and 30 mM ammonium as the sole carbon and nitrogen sources (see “Materials and Methods” for details).
+- Maximum biomass production increased with salinity up to 2.5 M NaCl (Table 1), whereas TABLE 1 Growth and production of ectoines of C. salexigens at different NaCl concentrations Cultures were grown at 37 °C in M63 minimal medium with 20 mM glucose and 30 mM ammonium as the sole carbon and nitrogen sources (see “Materials and Methods” for details). NaCl concentration in medium Maximum biomass YEct/X a Ectoines production rate Hydroxyectoine/ectoine ratio gDCWliter1 mmolgDCW 1 mmol(gDCWh)1 0.6 M 1.40  0.07 0.18  0.01 0.049  0.003 0.048  0.097 0.75 M 1.76  0.03 0.45  0.01 0.127  0.004 0.106  0.030 2.5 M 2.48  0.02 1.10  0.05 0.174  0.008 0.507  0.037 3 M 2.03  0.26 1.68  0
+- NaCl concentration in medium Maximum biomass YEct/X a Ectoines production rate Hydroxyectoine/ectoine ratio gDCWliter1 mmolgDCW 1 mmol(gDCWh)1 0.6 M 1.40  0.07 0.18  0.01 0.049  0.003 0.048  0.097 0.75 M 1.76  0.03 0.45  0.01 0.127  0.004 0.106  0.030 2.5 M 2.48  0.02 1.10  0.05 0.174  0.008 0.507  0.037 3 M 2.03  0.26 1.68  0.09 0.159  0.009 0.423  0.036 a Stoichiometric coefficient of ectoines production. YEct/X and ectoines production rates were determined in the exponential phase of cultures.
+- Maximum biomass and hy- droxyectoine to ectoine ratio were obtained in the early stationary phase. Central Metabolism and Osmoadaptation in C. salexigens JUNE 14, 2013•VOLUME 288•NUMBER 24 JOURNAL OF BIOLOGICAL CHEMISTRY 17771 growth rate was optimal in minimal medium M63 with 0.75 M NaCl (Fig.
+- However, ectoines production rate was maximal at 2.5 M NaCl (Table 1). The hydroxyectoine to ectoine ratio increased with salinity up to 2.5 M NaCl (Table 1 and Fig.
+- The hydroxyectoine to ectoine ratio increased with salinity up to 2.5 M NaCl (Table 1 and Fig. 2A), and an inverse correlation was observed between the relative content of ectoines and proteins with increasing salt concen- tration (Fig.
+- This parameter increased with salinity up to 2.5 M NaCl (Fig. 2C), and a positive correlation between the specific ectoines production rate, and the ammonium to glu- cose consumption ratios was observed (Fig.
+- Formation of biomass (black circles) and extracellular concen- trations of glucose (black squares), gluconate (white circles), pyruvate (white squares), and acetate (white triangles) of batch cultures grown in 20 mM glucose minimal medium with 0.6 M NaCl (A), 0.75 M NaCl (B), and 2.5 M NaCl (C). Central Metabolism and Osmoadaptation in C. salexigens 17772 JOURNAL OF BIOLOGICAL CHEMISTRY VOLUME 288•NUMBER 24•JUNE 14, 2013 could arise from a limited catabolism of glucose, leading to a higher excretion of by-products due to the reduced demand for ectoines.
+- We can account for this excess labeling of C6 of ectoines by postulating that 13CO2 generated by decarboxylation of [1-13C]pyruvate is reincorporated efficiently by the carboxyla- tion of either Pc or Ppc. The enrichment of label at the COOH of ectoines allowed us to estimate that over 95% of glucose used for ectoines synthesis was metabolized through the ED pathway and Pc.
+- The enrichment of label at the COOH of ectoines allowed us to estimate that over 95% of glucose used for ectoines synthesis was metabolized through the ED pathway and Pc.
+- Ectoine Labeling in [2-13C]Glucose-grown Cultures—For [2-13C]glucose as carbon source, metabolism via the EM path- way would be predicted to yield PEP and pyruvate that are both 50% labeled in their C2.
+- M63 minimal medium with 0.75 M NaCl (upper spectrum) and 2.5 M NaCl (lower spectrum) was used. The signals corresponding to labeled carboxylic carbon (177 ppm for ectoine and 174–175 for hydroxyectoine) and C6 (38–39 ppm for ectoine and 44 for hydroxyectoine) are shown.
+- M63 minimal medium with 0.75 M NaCl (upper spectrum) and 2.5 M NaCl (lower spectrum) was used. The signals corresponding to labeled carboxyl carbon, methyl carbon, C2, C4, and C6 of ectoine (E) and hydroxyectoine (H) are shown.
+- The Pc/Pdh flux ratio estimated from the ectoines labeling pattern ranged between 0.55 and 0.67 (Table 4), whereas in glucose cultures of mesophilic bacteria like E. coli, Bacillus subtilis, or Corynebacterium glutamicum this ratio does not exceed 0.4 (47, 55, 56). Although this may not seem to be a large difference, we have to bear in mind that more than half of the acetyl-CoA produced by Pdh is consumed by EctA, TABLE 4 Metabolic flux ratios estimated from the ectoine and hydroxyectoine labeling patterns observed in 13C NMR spectra from cultures in [2-13C]glucose M63 minimal medium with 0.75 and 2.5 M NaCl The abbreviations used are as follows: Pdh, pyruvate dehydrogenase;
+
+====================================================================================================
+### 10.1074/jbc.RA120.012722
+HEAD: Degradation of the microbial  tre  protectant  and
+chemical chaperone  ectoine and hydroxyectoine by a
+bacterial hydrola e–deacetyla e complex
+Received for publication, January 19, 2020, and in revi ed form, May 6, 2020 Publi hed, Paper  in Pre , May 13, 2020, DOI 10.1074/jbc.RA120.012722
+Chri topher-Nil  Mai 1,‡, Luca  Hermann2,‡
+, Florian Altegoer1
+, Andrea  Seubert3, Alexandra A. Richter2,
+I a Werner bach1, Laura Czech2
+, Erhard Bremer2,*
+, and Gert Bange1,*
+From the 1Philipp -Univer ity Marburg, Center for Synthetic Microbiology (SYNMIKRO) & Faculty of Chemi try, Marburg,
+Germany, the 2Philipp -Univer ity Marburg, Center for Synthetic Microbiology (SYNMIKRO) & Faculty of Biology, Marburg, and
+the 3Philipp -Univer ity Marburg, Faculty of Chemi try, Marburg, Germany
+Edited by Ruma Bane
+- We found 676 predicted ectoine producers in these data set (7.5%) (665 originate from Bacteria and 11 from Archaea). 429 Ectoine consumers were found (4.8%); none was a member of the Archaea (Fig.
+- 429 Ectoine consumers were found (4.8%); none was a member of the Archaea (Fig.
+- 96 Microbial species possessed both ectoine synthesis and degradation genes (less than 1%) (Fig. 1B); with respect to the total number of ectoine producers, this group of microorganisms rises to 14.2%.
+- 1B); with respect to the total number of ectoine producers, this group of microorganisms rises to 14.2%. Ectoine producers and consumers are found in most ecologi- cal niches ranging from freshwater, saltwater, and terrestrial, to extreme environments.
+- To show that ectoine degradation proceeds via a-ADABA also in vivo, we produced RpEutD, RpEutE, and both proteins together in E. coli strain MC4100 grown on minimal medium supplemented with 1 mM ectoine and 0.3 M NaCl to trigger ectoine import by the ProP and ProU transporters (42).
+- EutE deacetylates a-ADABA in a zinc-dependent manner To complete the catalytic picture of ectoine degradation, we grew crystals of RpEutE in the presence of a-ADABA and determined the structure to a resolution of 2.5 Å by molecu- lar replacement employing the structure of aspartoacylase (AAC) from Rhodobacter sphaeroides (PDB ID 3CDX; se- quence identity 39.2%) (Table 1).
+- To challenge this idea, we prepared both hydroxy–ADABA isomers with purities .95% by alkaline hydrolysis of 5-hydroxyectoine and subse- quent separation by anion exchange chromatography (Fig.
+- To investigate the deg- radation of 5-hydroxyectoine in vivo, we produced RpEutD, RpEutE, and RpEutD/EutE in E. coli strain MC4100 grown on minimal medium supplemented with 1 mM 5-hydroxyectoine and 0.3 M NaCl (see above).
+- Chem. (2020) 295(27) 9087–9104 9097 fully sequenced microbial genomes, ectoine biosynthetic genes can be found in about 7.5% of all species and strains currently represented in the IMG/M database. The widespread produc- tion of ectoine as an osmostress protectant likely provided an evolutionarily incentive to develop pathways for its catabolism.
+- The amino acid sequence identity of ectoine hy- drolases ranged between 41.88% (for Rhodobacter sphaeroides ATCC 17025) and 95.95% (for Leisingera sp.
+- For the crystals containing substrates, 1 mM (final concentration) ectoine or a-ADABA, respectively, were added and incubated at room tempera- ture for 10 min. Crystallization conditions were: HeEutD with ectoine (0.2 M trisodium citrate, 20% (w/v) PEG 3350);
+- Crystallization conditions were: HeEutD with ectoine (0.2 M trisodium citrate, 20% (w/v) PEG 3350);
+- Chem. (2020) 295(27) 9087–9104 Isolation of pure a-ADABA A mixture of approximately 25% a-ADABA and 75% g-ADABA made from chemically hydrolyzed ectoine was sepa- rated into the pure ADABA species by preparative anion exchange chromatography.
+- The samples were centrifuged (13,300 rpm for 10 min at 4 °C) to remove the denatured enzymes before assessing the content of ectoines and ADABA-isomers in the samples, employing the HPLC-based detection methods described above. Cultivation of recombinant E. coli strains for the hydrolysis of ectoine and hydroxyectoine To determine the hydrolytic activity of EutD, EutE, and EutD/EutE on ectoine and hydroxyectoine, E. coli strain MC4100 (74) harboring plasmids pLH48, pLH49, pLH50, or the empty expression vector pTrc99a were grown in MMA (75) with 0.5% (w/v) glucose as a carbon source and ampicillin (100 mg ml21) as an antibiotic.
+- Cultivation of recombinant E. coli strains for the hydrolysis of ectoine and hydroxyectoine To determine the hydrolytic activity of EutD, EutE, and EutD/EutE on ectoine and hydroxyectoine, E. coli strain MC4100 (74) harboring plasmids pLH48, pLH49, pLH50, or the empty expression vector pTrc99a were grown in MMA (75) with 0.5% (w/v) glucose as a carbon source and ampicillin (100 mg ml21) as an antibiotic.
+- MMA pre- cultures were used to inoculate MMA supplemented with 0.3 M NaCl and 1 mM ectoine or hydroxyectoine to an OD578 of 0.1, and after growth to an OD578 of 0.5, 1 mM isopropyl 1-thio- b-D-galactopyranoside was added to the media to induce expression.
+- In vivo detection of ectoine and hydroxyectoine degradation To extract ectoine degradation products from E. coli, 1 ml of 20% (v/v) ethanol was added to the cell pellets and the probes were rigorously shaken for 1 h and subsequently centrifuged (30 min, 13,000 rpm, 4 °C).
+- Degradation of the microbial stress protectants and chemical chaperones ectoine and hydroxyectoine by a bacterial hydrolase–deacetylase complex Received for publication, January 19, 2020, and in revised form, May 6, 2020 Published, Papers in Press, May 13, 2020, DOI 10.1074/jbc.RA120.012722 Christopher-Nils Mais1,‡, Lucas Hermann2,‡ , Florian Altegoer1 , Andreas Seubert3, Alexandra A. Richter2, Isa Wernersbach1, Laura Czech2 , Erhard Bremer2,* , and Gert Bange1,* From the 1Philipps-University Marburg, Center for Synthetic Microbiology (SYNMIKRO) & Faculty of Chemistry, Marburg, Germany, the 2Philipps-University Marburg, Center for Synthetic Microbiology (SYNMIKRO) & Faculty of Biology, Marbu
+
+====================================================================================================
+### 10.1016/j.csbj.2021.01.030
+HEAD: Stre ed out: Bacterial re pon e to high  alinity u ing compatible  olute
+bio ynthe i  and uptake  y tem , le on  from Vibrionaceae
+Gwendolyn J. Gregory, E. Fidelma Boyd ⇑
+Department of Biological Science , Univer ity of Delaware, Newark, DE 19716, United State 
+a r t i c l e
+i n f o
+Article hi tory:
+Received 3 November 2020
+Received in revi ed form 18 January 2021
+Accepted 20 January 2021
+Available online 1 February 2021
+Keyword :
+Compatible  olute 
+Metaboli m
+Tran porter 
+Ectoine
+Glycine betaine
+DMSP
+a b   t r a c t
+Bacteria have evolved mechani m  that allow them to adapt to change  in o molarity and  ome  pecie 
+have adapted to live optimally in high  alinity environment   uch a  in the marine eco y tem. Mo t bac-
+teria that live in high  alinity do  o by the bio ynthe i  and/or uptak
+- A bioinformatics study showed that ectoine biosynthesis is present predominantly in Bacteria and only a few Archaea. Among 6,428 microbial genomes examined, 440 species (7%) had ectoine biosynthesis genes and of these, 272 were pre- dicted to synthesize 5-hydroxyectoine as well [42,44].
+- Among 6,428 microbial genomes examined, 440 species (7%) had ectoine biosynthesis genes and of these, 272 were pre- dicted to synthesize 5-hydroxyectoine as well [42,44]. Some bacteria can use ectoine and 5-hydroxyectoine as carbon and energy sources and also as a nitrogen source.
+- In nutrient limited media (M9 minimal medium supplemented with glucose) where exogenous osmolytes are absent, V. parahaemolyticus cannot grow above 1 M NaCl (~6% NaCl) [35]. A V. parahaemolyticus ectB deletion mutant (DectB), which cannot produce ectoine, cannot grow in M9Glucose 6% NaCl [36].
+- A V. parahaemolyticus ectB deletion mutant (DectB), which cannot produce ectoine, cannot grow in M9Glucose 6% NaCl [36]. A substrate is considered a com- patible solute for V. parahaemolyticus if it can rescue growth of the ectB mutant in M9Glucose 6% NaCl.
+- A substrate is considered a com- patible solute for V. parahaemolyticus if it can rescue growth of the ectB mutant in M9Glucose 6% NaCl. Studies have shown that V. parahaemolyticus can uptake and utilize at least 14 different osmo- lytes, which include GB, DMG, DMSP, c-amino-N-butyric acid (GABA), TMAO, ectoine, L-proline, L-glutamate, N-acetyl L- glutamine, glutathione, MOPS, creatine, trehalose, and octopine [20,32,35,36,77].
+- Within the Harveyi clade (members include V. alginolyticus, V. antiquaries, V. azureus, V. campbellii, V. diabolicus, V. harveyi, V. jasicida, V. natriegens, V. owensii, V. parahaemolyticus, and V. rotiferianus), most species are halophiles, as exempliﬁed by V. parahaemolyticus [31]. Vibrio parahaemolyticus is an excellent model organism to study adaptations to changing salinity condi- tions since it can grow optimally in 0.5 M NaCl (~3% NaCl) and in salinities up to 1.5 M (~9%) on nutrient rich media [35].
+- Vibrio parahaemolyticus is an excellent model organism to study adaptations to changing salinity condi- tions since it can grow optimally in 0.5 M NaCl (~3% NaCl) and in salinities up to 1.5 M (~9%) on nutrient rich media [35]. In nutrient limited media (M9 minimal medium supplemented with glucose) where exogenous osmolytes are absent, V. parahaemolyticus cannot grow above 1 M NaCl (~6% NaCl) [35].
+- It was demonstrated that V. parahaemolyticus grown in 0.5 M NaCl allowed better survival in sublethal and lethal acid shock conditions, as well as persistence in high- and low- temperature conditions [150,151]. Thus, growth in high salinity protects against other abiotic stresses.
+- Growth analysis of a V. parahaemolyticus DproU1DproU2 double mutant showed an extended lag phase in high salinity (M9G 6%NaCl) (Fig.
+- Fidelma Boyd Computational and Structural Biotechnology Journal 19 (2021) 1014–1027 1022 MarR-type repressor named CosR that shared 51% sequence iden- tity to EctR1, was also shown to repress the ectABC-asp genes in low salinity conditions [166].
+- Fidelma Boyd ⇑ Department of Biological Sciences, University of Delaware, Newark, DE 19716, United States a r t i c l e i n f o Article history: Received 3 November 2020 Received in revised form 18 January 2021 Accepted 20 January 2021 Available online 1 February 2021 Keywords: Compatible solutes Metabolism Transporters Ectoine Glycine betaine DMSP a b s t r a c t Bacteria have evolved mechanisms that allow them to adapt to changes in osmolarity and some species have adapted to live optimally in high salinity environments such as in the marine ecosystem. Most bac- teria that live in high salinity do so by the biosynthesis and/or uptake of compatible solutes, small organic molecules that main
+- Ectoine and 5-hydroxyectoine metabolism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Glycine betaine (GB) and dimethylglycine (DMG) metabolism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Trehalose metabolism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Transcriptional regulators of ectoine biosynthesis in Vibrio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Glycine betaine biosynthesis regulation in Vibrio. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Range of compatible solutes Compatible solutes are a restricted group of low molecular weight compounds that can be classiﬁed into structural categories examples of which include trehalose (a sugar), glycerol and manni- tol (polyols), L-proline, L-glutamate and L-glutamine (free amino acids), ectoine and 5-hydroxyectoine (amino acid derivative), gly- cine betaine, L-carnitine (quaternary amines), dimethylglycine (tertiary amine), choline-O-sulfate (sulfate ester), dimethylsulfo- niopropionate (tertiary sulfonium), and N-acetylated diamino acids among others (Fig.
+- There are only a few examples of de novo compatible solute biosyn- thesis pathways with most pathways requiring an exogenous pre- cursor. Uptake of osmolytes can be easily accomplished using a variety of transporters, which include primary transporters from the ATP-binding cassette (ABC) family that require ATP, and sec- ondary transporters of the Betaine Carnitine Choline Transporter (BCCT) family, the Major facilitator superfamily (MFS) and the tri- partite ATP-independent periplasmic (TRAP) family of transporters [15–25].
+
+====================================================================================================
+### 10.1128/AEM.01728-18
+HEAD: OpuF, a New Bacillu  Compatible Solute ABC Tran porter with
+a Sub trate-Binding Protein Fu ed to the Tran membrane
+Domain
+Laura Teichmann,a Henriette Kümmel,a Bianca Warmbold,a
+Erhard Bremera,b
+aLaboratory for Microbiology, Department of Biology, Philipp  Univer ity Marburg, Marburg, Germany
+bLOEWE Center for Synthetic Microbiology, Philipp  Univer ity Marburg, Marburg, Germany
+ABSTRACT
+The accumulation of compatible  olute  i  a common defen e of bacte-
+ria again t the detrimental effect  of high o molarity. Uptake  y tem  for the e com-
+pound  are corner tone  in cellular o mo tre  re pon e  becau e they allow the
+energy-pre erving
+ cavenging
+of
+o mo tre 
+protectant 
+from
+environmental
+ ource . Bacillu   ubtili  i  well  tudied with re pect to the import of compatible  ol-
+ute  and it 
+- 4), we focused our analysis in somewhat greater detail on the OpuF- dependent import of glycine betaine, which is probably the most widely used com- patible solute on Earth (101). We monitored the osmostress protective effects of glycine betaine under hyperosmotic growth conditions in a minimal medium containing 1.2 M NaCl and that was supplemented with various concentrations of this compatible solute (0.025 mM, 0.05 mM, 0.1 mM, and 1 mM).
+- We monitored the osmostress protective effects of glycine betaine under hyperosmotic growth conditions in a minimal medium containing 1.2 M NaCl and that was supplemented with various concentrations of this compatible solute (0.025 mM, 0.05 mM, 0.1 mM, and 1 mM). Like the authentic OpuC transporter from B. subtilis, the heterologous OpuF systems from B. infantis and B. panaciterrae already provided a growth advantage to the cells when the medium contained as little as 25 M glycine betaine (Fig.
+- Collectively, these growth data suggest that the B. subtilis strains carrying the B. infantis and B. panaciterrae opuFA-opuFB genes should import glycine betaine with high afﬁnity. We tested this directly by determining the kinetic parameters (Km and Vmax) of the two OpuF transporters under conditions of moderate salt stress (0.4 M NaCl was present in the growth medium and the assay solution).
+- 208  5 5  1 aThe strains were grown in SMM with 0.4 M NaCl to an OD578 of about 0.3. Two-milliliter samples were withdrawn and used to measure at different time intervals the import of radiolabeled [1-14C]glycine betaine at different substrate concentrations.
+- Table 1) were grown in SMM containing 0.4 M NaCl to an OD578 of about 0.3 at 37°C. The uptake of [1-14C]glycine betaine at various substrate concentrations was followed over time, and the amount of the imported [1-14C]glycine betaine was determined by scintillation counting.
+- We tested this directly by determining the kinetic parameters (Km and Vmax) of the two OpuF transporters under conditions of moderate salt stress (0.4 M NaCl was present in the growth medium and the assay solution).
+- The various B. subtilis strains were grown in SMM with 1.2 M NaCl in the absence or presence of a 1 mM concentration of the indicated osmostress protectant for 17 h at 37°C in a shaking water bath (20-ml cultures in 100-ml Erlenmeyer ﬂasks).
+- The osmolarity of SMM was increased by the addition of NaCl from a 5 M stock solution, and compatible solutes were typically added to the growth medium to a ﬁnal concentration of 1 mM, unless speciﬁed otherwise.
+- Using this preculture, a main culture (5 ml) was inoculated to an OD578 of about 0.1 in basal medium containing 0.9 M NaCl but lacking Casamino Acids. Compatible solutes were added to this medium to a ﬁnal concentration of 1 mM.
+- OpuF mediates the import of glycine betaine, proline betaine, homobetaine, and the marine osmolyte dimethylsulfoniopropionate (DMSP).
+- KEYWORDS ABC transporter, Bacillus, osmoregulation, compatible solute, glycine betaine, substrate-binding protein Received 14 July 2018 Accepted 8 August 2018 Accepted manuscript posted online 10 August 2018 Citation Teichmann L, Kümmel H, Warmbold B, Bremer E.
+- A considerable number of compatible solute transporters have been identiﬁed in bacteria that belong to different transporter families, as follows: binding-protein-dependent ATP-binding cassette (ABC) systems (21) (e.g., the ProU, OpuA, OpuB, OpuC, BusA, OsmU, OusA, and Prb transporters [22–30]), members of the major facilitator superfamily (MFS) (31) (e.g., the ProP and OusA transporters [32–34]), members of the betaine-choline-carnitine transport (BCCT) systems (35) (e.g., the OpuD, BetP, BetS, EctT, EctP, EctM, and BetM transporters [33, 36–39]), members of the sodium-solute-symporter (SSS) family (40) (e.g., OpuE [41]), and members of the tripartite ATP-independent periplasmic transporter
+- B. subtilis can also synthesize the compatible solute glycine betaine (69, 70), but this process requires the prior import of the precursor choline for its subsequent two-step oxidation to glycine betaine (46, 53, 69, 70). Five osmotically inducible osmostress protectant uptake systems (Opu) operate in B. subtilis (46, 53).
+- Prominent examples are the osmotically regulated glycine betaine uptake system OpuA (BusAB) systems from Lactococcus lactis (25, 29) and S. agalactiae (89), and the L-asparagine, L-glutamine, and L-glutamate GlnPQ importer from L. lactis (90).
+- The second hit on this list was the glycine betaine/ proline betaine-binding protein ProX (TM score: 0.93) from the hyperthermophilic archaeon Archaeoglobus fulgidus (95, 96).
+- Although it was initially suggested that BilE was involved in the uptake of osmostress protectants (glycine betaine, carnitine, and choline), subsequent studies showed that it does not serve this physiological function and instead is somehow involved in the exclusion of bile from the L. monocytogenes cell (97, 98).
+- The architecture of this putative substrate-binding site closely resembles those present in the crystal structures of the glycine betaine- and proline betaine-binding protein ProX from A. fulgidus (95, 96), the choline-binding protein OpuBC from B. subtilis (75), and the promiscuous compatible solute OpuCC-binding protein from B. subtilis (76) (Fig.
+- It was automatically generated by the SWISS-MODEL server (94) based upon the crystal structure of the SBP domain of the BilEB protein from L. monocytogenes (PDB ID 4Z7E) (97). (B) Crystal structure of the SBP domain of the BilEB protein from L. monocytogenes (97). (C) Crystal structure of the ProX SBP from the archaeon A. fulgidus in complex with glycine betaine (PDB ID 1SW2) (95). (D) Crystal structure of the OpuCC SBP from B. subtilis in complex with glycine betaine (PDB ID 3PPP) (76).
+
+====================================================================================================
+### 10.1128/mbio.00092-22
+HEAD: A Central Role for Magne ium Homeo ta i  during Adaptation
+to O motic Stre 
+Brian M. Wendel,a Hualiang Pi,a* Lari a Krüger,b Chri tina Herzberg,b
+Jörg Stülke,b
+John D. Helmanna
+aDepartment of Microbiology, Cornell Univer ity, Ithaca, New York, USA
+bDepartment of General Microbiology, GZMB, Georg Augu t Univer ity, Göttingen, Germany
+ABSTRACT
+O motic  tre  i  a  igniﬁcant phy ical challenge for free-living cell .
+Cell  from all three domain  of life maintain viability during o motic  tre  by tightly
+regulating the major cellular o molyte pota ium (K1) and by import or  ynthe i  of
+compatible  olute . It ha  been widely e tabli hed that in re pon e to high  alt
+ tre , many bacteria tran iently accumulate high level  of K1, leading to bacterio ta-
+ i , with growth re uming only when com
+- To test whether Mg21 deﬁciency during osmoadaptation affects translation, we evaluated the response of the rpmH mutant to salt stress. The rpmH mutant was severely impaired for growth in the presence of 1.2 M NaCl yet was only partially rescued by the addition of the compatible solute glycine betaine (Fig.
+- The rpmH mutant was severely impaired for growth in the presence of 1.2 M NaCl yet was only partially rescued by the addition of the compatible solute glycine betaine (Fig.
+- Notably, ktrAB kimA double mutants exhibit slower growth in minimal media without osmotic stress and were unable to adapt and grow in the presence of 1.2 M NaCl, with or without MpfA (Fig.
+- In both WT and mpfA strains, intracellular Mg21 dropped transiently, but in medium with 1.2 M NaCl this decline was much more persistent.
+- Indeed, free Mg21 levels fall upon osmotic upshift, and this decrease was enhanced when 1.2 M KCl replaced 1.2 M NaCl (Fig.
+- FIG 1 Loss of MpfA impairs osmoadaptation. mpfA mutants exhibit a lag in osmoadaptation relative to wild-type cells when exposed to hyperosmotic stress. In minimal medium at 37°C, mpfA mutants (blue) grow like WT (black) cells, but they lag in osmoadaptation in medium with 1.2 M NaCl (A) or 1.2 M KCl (B).
+- In minimal medium at 37°C, mpfA mutants (blue) grow like WT (black) cells, but they lag in osmoadaptation in medium with 1.2 M NaCl (A) or 1.2 M KCl (B).
+- Further, addition of 60 mM KCl (120 mosM) to cells already stressed with 1.2 M NaCl slowed osmoadaptation, whereas addition of 40 mM MgCl2 (also 120 mosM) had the opposite effect and actually increased the rate of osmoadaptation (Fig.
+- Thus, a strain known to have ribosomes sensitive to the depletion of cellular Mg21 pools (32) is strongly affected in osmoadaptation. To directly evaluate the effect of osmotic upshift on translation, we labeled cells with the methionine analog L-azidohomoalanine after 1 h of subculture into medium with and without 1.2 M NaCl.
+- To directly evaluate the effect of osmotic upshift on translation, we labeled cells with the methionine analog L-azidohomoalanine after 1 h of subculture into medium with and without 1.2 M NaCl. In the presence of high salt, nascent translation was FIG 2 Effects of kimA and mpfA on osmoadaptation are not additive. (A) Mutants defective in one of the osmotically inducible K1 importers, KimA, exhibit a lag in osmoadaptation relative to the WT.
+- 1. (B) The translation rate in the WT was reduced at 1 h after subculture in the presence of 1.2 M NaCl, as measured by L-azidohomoalanine labeling.
+- We noted that prior to FIG 6 Cyclic-di-AMP levels ﬂuctuate coordinately with Mg21 levels during osmoadaptation. (A) The levels of c-di-AMP levels drop upon subculture with 1.2 M NaCl but not in the absence of hyperosmotic stress. (B) Mg21 levels also drop upon subculture with 1.2 M NaCl. (C) This drop in cell- associated Mg is associated with a reduction in growth rate.
+- Wendel et al. ® January/February 2022 Volume 13 Issue 1 e00092-22 mbio.asm.org 8 osmotic upshift, mpfA cells have ;36% increased intracellular Mg21 levels (see Table S3 in the supplemental material), consistent with the ;50% increase noted pre- viously (5).
+- Brieﬂy, the minimal media consisted of 15 mM (NH4)2SO4, 1.6 mM MgSO4, 4.5 mM potassium glutamate, 40 mM morpholinepropanesulfonic acid (MOPS), pH 7.4, 5 mM KPO4, pH 7, 49 mM tryptophan, 2% glucose.
+- Cells were again subcultured (1:4) in Magnesium Is Important for Osmoadaptation ® January/February 2022 Volume 13 Issue 1 e00092-22 mbio.asm.org 11 MM with and without 1.2 M NaCl.
+- This is consistent with the reported role of MpfA in Mg21 efﬂux (5) and the hypothesis that osmotically induced K1 import perturbs Mg21 pools. As reported previously, the compatible solute glycine betaine (GB) modestly increases the rate of osmoadaptation.
+- As reported previously, the compatible solute glycine betaine (GB) modestly increases the rate of osmoadaptation.
+- In the presence of high salt, nascent translation was FIG 2 Effects of kimA and mpfA on osmoadaptation are not additive. (A) Mutants defective in one of the osmotically inducible K1 importers, KimA, exhibit a lag in osmoadaptation relative to the WT. This phenotype is not additive with mpfA. (B) Addition of 5 mM glycine betaine (GB) reduces the lag in both mpfA and kimA mutants.
+
+====================================================================================================
+### 10.1093/femsre/fuaf020
+HEAD: FEMS Microbiology Review  , 2025, 49 , fuaf020 
+DOI: 10.1093/fem re/fuaf020 
+Ad v ance acce  publication date: 16 May 2025 
+Re vie w Article 
+Bacterial o moprotectant —a way to  urvive in  aline 
+condition  and potential crop allie  
+Alek andra Go zcz 1 , Karolina Furtak 2 , Robert Sta iuk 1 , Joanna Wójtowicz 3 , Marcin Mu iałow ki 1 , Michela Schiavon 4 , 
+Klaudia D ębiec-Andrzejew ka 
+1 ,* 
+1 Faculty of Biology, Department of Geomicrobiology, In titute of Micr obiology, Univ er ity of War aw, Ilji Mieczniko w a 1, 02096 War a w, P oland 
+2 Department of Microbiology, In titute of Soil Science and Plant Cultivation, State Re earch In titute, Czartory kich 8, 24100 Puła wy, P oland 
+3 Faculty of Biology, Department of Plant Anatomy and Cytology, In titute of Experimental Plant Biology an
+- PCC 6803 BG11 medium 64.29 μM/g—dry weight (1.89 μM/mg protein) Ferr eir a et al. ( 2021 ) β-alanine betaine B. subtilis PanDE56S Glucose 236.15 mg/l culture P er chat et al. ( 2022 ) Tertiary sulphonium DMSP (dimethylsulfonio- propionate) Gynuella sunshinyii YC6258 MBM medium, MTHB 177.42 ± 3.2 pmol/ μg protein/h Wang et al. ( 2024 ) Sugar Sucrose Synechococcus elongatus UTEX 2973 BG11 medium 1.9 g/l day Str eeter ( 2003 ), Ha gemann ( 2011 ) Trehalose Brevibacterium sp.
+- It is de- fined as the accumulation of salts in soil to levels that inhibit plant growth and alter soil microbiological diversity (Haswell and Ver- slues 2015 , Zhao et al 2020 ). According to the Food and Agricul- tur e Or ganization of the United Nations (FAO), ∼6.5% of the world ar able soils ar e saline or sodic, tr anslating to an estimated an- nual loss of US$27.3 billion in crop productivity (Qadir et al.
+- According to the Food and Agricul- tur e Or ganization of the United Nations (FAO), ∼6.5% of the world ar able soils ar e saline or sodic, tr anslating to an estimated an- nual loss of US$27.3 billion in crop productivity (Qadir et al.
+- Godard et al. ( 2020 ) observed that Bacillus megaterium exhibited enhanced ex- pression and concentration of proteins involved in o xidati ve stress r esponse and ir on metabolism when exposed to 0.6 M NaCl con- centr ation.
+- Similarly, Bacillus haloden- itrificans , a halophilic strain isolated from a solar saltern, grows anaer obicall y via nitrate and nitrite respiration even at NaCl con- centrations up to 4.25 M ( ≈25% salt) (Denariaz et al.
+- Osmoprotectant Micr oorganism pr oducing Substr a te Concentr a tion References Amine , amino acids , and their deri vati ves Proline Bacillus licheniformis NJ04 LB nutrient broth 32.31 mg/g James and Umesh ( ) B. subtilis OpuE ∼60 mg/l Hoffmann et al. ( 2012 ) Halobacillus halophilus Salt medium (G10) containing 1% glucose 6.18 μM/mg of protein Saum and Müller ( 2007 ) Pseudoalteromonas phenolica KCTC 3208 Marine broth ∼2500 μM Song et al. ( 2020 ) Alanine B. subtilis JH642 and DRB30 Spizizen’s minimal medium 239 and 207 mM Za pr asis et al. ( 2015 ) Desulfovibrio vulgaris Hildenboroug Lactate sulfate medium 17.53 μM/mg dry weight He et al. ( 2010b ) Rhizobium strains RlF16 and Rch60 Mannit
+- Mi- crobes take up osmoprotectants from the extracellular environ- ment thr ough membr ane tr ansport pr oteins, whose expr ession is triggered by osmotic pressure (Sleator and Hill 2002 ). One of the best-studied examples is a BCCT (betaine–choline–carnitine- tr ansporter) famil y of carriers, ubiquitous in man y micr oor gan- isms (Ziegler et al.
+- One of the best-studied examples is a BCCT (betaine–choline–carnitine- tr ansporter) famil y of carriers, ubiquitous in man y micr oor gan- isms (Ziegler et al.
+- EPS ar e synthesized fr om a div erse arr ay of pr ecursors, including glu- cose , trehalose , rhamnose , and fructose , among others , which ar e pol ymerized thr ough enzymatic pathwa ys in volving glycosyl- tr ansfer ases (Balducci et al.
+- Among bacteria, the best known for osmoprotectant pr oduction ar e halophilic and halotoler ant species, whic h synthe- size ectoine and glycine–betaine (GB), among others (Tanimura et al.
+- Pr oline–betaine’s r ole in osmoreg- ulation is well-documented, particularly in maintaining internal osmotic pr essur e and safeguarding cellular integrity under hyper- tonic stress (Bashir et al.
+- Hydroxy proline–betaine, which features an added hydroxyl group (-OH) to proline–betaine, fur- ther increases its hydrophilicity and hydrogen bonding with water (Bashir et al.
+- Bacteria can either synthesize or uptake sucrose in response to osmotic stress, and its accumulation does not disrupt cellular biochem- istry, as demonstrated by its protective effects against desiccation and osmotic stress in E. coli (Ash 2017 ). Trehalose, consisting of two glucose units linked by an α,α-(1 → 1) bond, is recognized for its stability and high water solubility, which are essential for its effectiveness in stabilizing proteins and membranes under stress conditions (Kosar et al.
+- Trehalose, consisting of two glucose units linked by an α,α-(1 → 1) bond, is recognized for its stability and high water solubility, which are essential for its effectiveness in stabilizing proteins and membranes under stress conditions (Kosar et al.
+- In Mycobac- terium tuberculosis , trehalose not only serves as an osmoprotectant, but also plays a role in cell wall construction and as a defense mec hanism a gainst host imm une r esponses (Chen et al.
+- Production of osmoprotectants by bacteria The synthesis of osmoprotectants in micr oor ganisms is often reg- ulated by environmental stress signals, ensuring upregulation under osmotic stress conditions (Kempf and Bremer 1998a ). As pr e viousl y mentioned, the most commonl y pr oduced osmopr o- tectants by bacteria are glycine betaine , proline , trehalose , ec- toine , and carnitine .
+- As pr e viousl y mentioned, the most commonl y pr oduced osmopr o- tectants by bacteria are glycine betaine , proline , trehalose , ec- toine , and carnitine .
+- Similarly, glucose serves as a primary carbon source for the synthesis of trehalose and other sugars, such as mannose and sucrose (Elbein et al.
+
+====================================================================================================
+### 10.1128/msystems.01050-23
+HEAD:  | Open Peer Review | Environmental Microbiology | Re earch Article
+Metagenomic a embled genome  indicated the potential 
+application of hyper aline microbiome for plant growth 
+promotion and  tre  alleviation in  alinized  oil 
+Kiran Dindhoria,1,2 Raghawendra Kumar,1 Bhavya Bhargava,1 Rak hak Kumar1,2
+AUTHOR AFFILIATIONS See affiliation li t on p. 12.
+ABSTRACT 
+Climate change i  cau ing unpredictable  ea onal variation  globally. Due 
+to the continuou ly increa ing earth’   urface temperature, the rate of water evapo­
+ration i  enhanced, conceiving a problem of  oil  alinization, e pecially in arid and 
+ emi-arid region . The accumulation of  alt degrade   oil quality, impair  plant growth, 
+and reduce  agricultural yield . Salt-tolerant, plant-growth-promoting microorgani m  
+may offer
+- The compatible solutes such as glycine, betaine, ectoine, trehalose, etc., not only regulate the osmotic pressure of the cells but also inhibit the denatura­ tion of macromolecules like proteins, DNA, and RNA at higher salt concentrations (7). Upon investigation, 83.33% of the MAGs recovered by Megahit, 91.3% by MetaSpades, and 95.23% by IDBA-UD assembly possessed genes responsible for salt homeostasis, ensuring their survivability under saline and hypersaline conditions (Fig.
+- The medium and high-quality MAGs from MetaSpades, upon functional annotation, revealed properties such as salt tolerance (91.3%), heavy metal tolerance (95.6%), exopolysac­ charide (95.6%), and antioxidant (60.86%) biosynthesis.
+- The functional profiling revealed the prevalence of salt-tolerant and heavy metal-tolerant strategies in their residential microflora. Approximately 83.33% of the MAGs recovered by Megahit, 91.3% by MetaSpades, and 95.23% by IDBA-UD showed genes related to salt stress.
+- Approximately 83.33% of the MAGs recovered by Megahit, 91.3% by MetaSpades, and 95.23% by IDBA-UD showed genes related to salt stress. The MAGs IDBA_002, IDBA_013, IDBA_026, Megahit_013, and Metaspades_012 exhibited the presence of all the selected salt-tolerant genes (Fig.
+- 3C through E) DISCUSSION Hypersaline environments, characterized by salt concentrations equal to or exceeding the point of salt saturation, harbor diverse microorganisms. Most of their inhabitants are halotolerant or moderate halophiles, with some being extreme halophiles capable of withstanding up to 2.5M NaCl.
+- Most of their inhabitants are halotolerant or moderate halophiles, with some being extreme halophiles capable of withstanding up to 2.5M NaCl. The microflora residing in hypersaline ecosystems have evolved various adaptive strategies to cope with challenges such as high salt concentrations, osmotic pressure, oligotrophy, and temperature variations, essential for their growth and survival.
+- Upon investigation, 83.33% of the MAGs recovered by Megahit, 91.3% by MetaSpades, and 95.23% by IDBA-UD assembly possessed genes responsible for salt homeostasis, ensuring their survivability under saline and hypersaline conditions (Fig.
+- In the present study, the ability of the microbes to tolerate salt stress is accompanied by their heavy metal bioremedia­ tion attributes. Approximately 83.33% of the MAGs obtained by Megahit, 86.95% by MetaSpades, and 90.47% by IDBA-UD contained both salt homeostasis and heavy metal tolerance capacity.
+- Approximately 83.33% of the MAGs obtained by Megahit, 86.95% by MetaSpades, and 90.47% by IDBA-UD contained both salt homeostasis and heavy metal tolerance capacity. Some of the earlier studies also reported the coexistence of these properties, improving the environmental fitness and the survivability chances of the microorganisms in highly saline habitats (48).
+- After that, 15 mL of the extraction buffer (100 mM Tris-HCl, 100 mM sodium phosphate, 1.5 M NaCl, 1% CTAB, and pH 8.0) was added, and the mixture was incubated at 37°C for 2 hours at 120 rpm.
+- Sugars, polyols, amino acids, and their derivatives are the most common osmolytes. Microorgan­ isms synthesize compatible solutes such as glycine, betaine, ectoine, glycerol, trehalose, sucrose, etc., when the environment contains high salt content (4, 5).
+- Microorgan­ isms synthesize compatible solutes such as glycine, betaine, ectoine, glycerol, trehalose, sucrose, etc., when the environment contains high salt content (4, 5). They are strong water structure formers that are probably excluded from proteins’ hydration shells, lowering water activity coefficients and stabilizing the hydration shell (6).
+- The synthesis of compatible solutes is another crucial strategy developed by halophilic microorganisms. The compatible solutes such as glycine, betaine, ectoine, trehalose, etc., not only regulate the osmotic pressure of the cells but also inhibit the denatura­ tion of macromolecules like proteins, DNA, and RNA at higher salt concentrations (7).
+- Microbial production of ectoine and hydroxyectoine as high-value chemicals.
+- Compatible solutes: thermody­ namic properties and biological impact of ectoines and prolines.
+-  | Open Peer Review | Environmental Microbiology | Research Article Metagenomic assembled genomes indicated the potential application of hypersaline microbiome for plant growth promotion and stress alleviation in salinized soils Kiran Dindhoria,1,2 Raghawendra Kumar,1 Bhavya Bhargava,1 Rakshak Kumar1,2 AUTHOR AFFILIATIONS See affiliation list on p.
+- The accumulation of salt degrades soil quality, impairs plant growth, and reduces agricultural yields. Salt-tolerant, plant-growth-promoting microorganisms may offer a solution, enhancing crop productivity and soil fertility in salinized areas.
+- Salt-tolerant, plant-growth-promoting microorganisms may offer a solution, enhancing crop productivity and soil fertility in salinized areas. In the current study, genome-resolved metagenomic analysis has been performed to investigate the salt-tolerating and plant growth-promoting potential of two hypersaline ecosystems, Sambhar Lake and Drang Mine.
+
+====================================================================================================
+### 10.1016/j.watres.2020.115855
+HEAD: Cation exchange membrane behaviour of extracellular polymeric
+ ub tance  (EPS) in  alt adapted granular  ludge
+D. Sudmali  a, *, 1, T.M. Mubita a, b, 1, M.C. Gagliano b, E. Dini  a, b, G. Zeeman a,
+H.H.M. Rijnaart  a, H. Temmink a
+a Department of Environmental Technology, Wageningen Univer ity and Re earch, Born e Weilanden 9, 6708, WG, Wageningen, the Netherland 
+b Wet u , European Centre of Excellence for Su tainable Water Technology, Oo tergoweg 9, Leeuwarden, MA, 8911, the Netherland 
+a r t i c l e i n f o
+Article hi tory:
+Received 9 February 2020
+Received in revi ed form
+3 April 2020
+Accepted 20 April 2020
+Available online 27 April 2020
+Keyword :
+Ion  electivity
+Ion tran port
+Anaerobic granular  ludge
+EPS
+Methanogenic activity
+a b   t r a c t
+Thi  paper aim  to elucidate the role of e
+- With a mixture of NaCl and KCl salts the EPS membrane was shown to act as a cation exchange membrane (CEM) with a current efﬁciency of ~80%, meaning that EPS do not behave as ideal CEM.
+- Results of speciﬁc methanogenic activity (SMA) tests con- ducted with 0.22 and 0.87 M Naþ adapted granular sludges and with various monovalent salts suggested that ions which are preferentially transported by EPS are also more toxic towards methanogenic cells. © 2020 The Authors.
+- Before each experiment, all membranes were equilibrated in a mixed cation solution (10 mM NaCl þ 10 mM KCl) for 8 h, which allows any weakly adsorbed ion to diffuse to the bulk solution and the ex- change of some Naþ for Kþ. Compartments A, B, and C were ﬁlled with a solution containing 10 mM NaCl and 10 mM KCl, whereas compartments D were ﬁlled with 0.1 M Na2SO4 solution.
+- Compartments A, B, and C were ﬁlled with a solution containing 10 mM NaCl and 10 mM KCl, whereas compartments D were ﬁlled with 0.1 M Na2SO4 solution.
+- 7eA shows that exposure of 0.22 M Naþ adapted granular sludge to equimolar concentration of KCl and KBr salts resulted in a decrease of methanogenic activity by 25.3 and 11.7%, respectively, when compared to the reference at 0.22 M of Naþ.
+- The negative effect of Naþ salts on the SMA of granular sludge at increased molarity of 0.43 M was considerably less pronounced compared to Kþ salts (Fig.
+- The SMA decreased by 19.9 and 11.1% with NaCl and NaBr salts, respectively. It seems that in general Br salts had a slightly smaller negative effect on SMA compared to Cl salts (Fig.
+- NaBr had no clear negative effect on the SMA, whereas 0.87 M of Kþ salts resulted in complete loss of methano- genic activity. Overall, the results of the SMA tests clearly show that at equimolar concentrations of monovalent salts, the methanogenic activity of salt (NaCl) adapted granular sludge was more inﬂuenced by changing the cations (Naþ to Kþ) than by changing the anions (Cl to Br).
+- SMA of granular sludge exposed to various Cl- and Br- salts. A e 0.22 M Naþ adapted granular sludge exposed to equimolar concentration and double concentration of NaCl, NaBr, KCl and KBr;
+- A e 0.22 M Naþ adapted granular sludge exposed to equimolar concentration and double concentration of NaCl, NaBr, KCl and KBr;
+- Halotolerance in methanosarcina spp.: role of N (sup (epsilon))-Acetyl-(beta)-Lysine,(alpha)-Glutamate, Glycine betaine, and K (supþ) as compatible solutes for osmotic adaptation.
+- Cation exchange membrane behaviour of extracellular polymeric substances (EPS) in salt adapted granular sludge D.
+- Temmink a a Department of Environmental Technology, Wageningen University and Research, Bornse Weilanden 9, 6708, WG, Wageningen, the Netherlands b Wetsus, European Centre of Excellence for Sustainable Water Technology, Oostergoweg 9, Leeuwarden, MA, 8911, the Netherlands a r t i c l e i n f o Article history: Received 9 February 2020 Received in revised form 3 April 2020 Accepted 20 April 2020 Available online 27 April 2020 Keywords: Ion selectivity Ion transport Anaerobic granular sludge EPS Methanogenic activity a b s t r a c t This paper aims to elucidate the role of extracellular polymeric substances (EPS) in regulating anion and cation concentrations and toxicity towards microorganisms
+- Introduction In anaerobic wastewater treatment systems, high monovalent salt concentrations are considered to negatively affect microbial activity, especially of the methanogenic population (Rinzema et al., 1988;
+- This high methanogenic activity could in part be explained by production of osmolytes by the dominant methanogens allowing to balance the osmotic pressure between the microbial cells and the bulk liquid (Sudmalis et al., 2018b). The toxic effect of highly saline environments on anaerobic microbial consortia has mainly been attributed to cations rather than anions (McCarty and McKinney, 1961;
+- The toxic effect of highly saline environments on anaerobic microbial consortia has mainly been attributed to cations rather than anions (McCarty and McKinney, 1961;
+- A recent microscopy study of our group has shown that mannose-rich EPS surrounding methanogenic cells in high salinity adapted granular sludge adsorb high concentrations of sodium (Gagliano et al., 2018). These results suggest that even at high salinity EPS may have a protective role against mono- valent cations such as Naþ by hindering their diffusion into mi- crobial cells (Gagliano et al., 2018).
+- These results suggest that even at high salinity EPS may have a protective role against mono- valent cations such as Naþ by hindering their diffusion into mi- crobial cells (Gagliano et al., 2018).
+
+====================================================================================================
+### 10.1038/srep24825
+HEAD: 1
+Scientific Report  | 6:24825 | DOI: 10.1038/ rep24825
+www.nature.com/ cientificreport 
+The effect  of  alinity on 
+nitrification u ing halophilic 
+nitrifier  in a Sequencing Batch 
+Reactor treating hyper aline 
+wa tewater
+You-Wei Cui1, Hong-Yu Zhang1, Jie-Ran Ding1,2 & Yong-Zhen Peng1
+With annual increa e  in the generation and u e of  aline wa tewater, the need to avoid environmental 
+problem   uch a  eutrophication i  critical. A previou   tudy identified way  to  tart up a halophilic 
+ ludge dome ticated from e tuarine  ediment  to remove nitrogen from wa tewater with a  alinity of 
+30 g/L. Thi  inve tigation expand  that work to explore the impact of  alinity on nitrogen removal. Thi  
+ tudy demon trated that the mixed halophilic con ortia removed nitrogen from wa tewater with a 
+ al
+- 1 Scientific Reports | 6:24825 | DOI: 10.1038/srep24825 www.nature.com/scientificreports The effects of salinity on nitrification using halophilic nitrifiers in a Sequencing Batch Reactor treating hypersaline wastewater You-Wei Cui1, Hong-Yu Zhang1, Jie-Ran Ding1,2 & Yong-Zhen Peng1 With annual increases in the generation and use of saline wastewater, the need to avoid environmental problems such as eutrophication is critical. A previous study identified ways to start up a halophilic sludge domesticated from estuarine sediments to remove nitrogen from wastewater with a salinity of 30 g/L.
+- A previous study identified ways to start up a halophilic sludge domesticated from estuarine sediments to remove nitrogen from wastewater with a salinity of 30 g/L. This investigation expands that work to explore the impact of salinity on nitrogen removal.
+- This investigation expands that work to explore the impact of salinity on nitrogen removal. This study demonstrated that the mixed halophilic consortia removed nitrogen from wastewater with a salinity of 30–85 g/L.
+- This study demonstrated that the mixed halophilic consortia removed nitrogen from wastewater with a salinity of 30–85 g/L. A kinetic analysis showed that halophilic nitrifiers selected based on hypersalinity were characterized by low Ks, μmax and specific ammonium oxidization rates.
+- The study contributes insights about shifts in halophilic nitrifying bacterial populations. Saline and hypersaline wastewater (greater than 3% salinity) are generated from life activities in coastal cities that use seawater.
+- Saline and hypersaline wastewater (greater than 3% salinity) are generated from life activities in coastal cities that use seawater.
+- Saline wastewater makes up approximately 5% of all worldwide effluents. This proportion is expected to increase annually as industrial use expands and new saline wastewater generating industries emerge.
+- Some researchers have investigated the treatment of saline wastewater by domesticating freshwater activated sludge in saline environments5–7. These work has found that chemical oxygen demand (COD) can be removed from saline wastewater when the salinity is below 2%, and nitrogen can be removed under the salinity below 1.5%.
+- These work has found that chemical oxygen demand (COD) can be removed from saline wastewater when the salinity is below 2%, and nitrogen can be removed under the salinity below 1.5%. This approach, however, has some limitations, such as unstable performance, limited salt tolerance, low pollutant removal rate, and poor settling problems8–10.
+- As an alternative, some studies have successfully used pure halophilic bacteria in place of their freshwater counterparts to purify organic contaminants under highly saline conditions. For example, Halobacter halobium ATCC 43214 achieved a high COD removal rate and efficiently treated synthetic wastewater with greater than 2% salinity11.
+- For example, Halobacter halobium ATCC 43214 achieved a high COD removal rate and efficiently treated synthetic wastewater with greater than 2% salinity11.
+- Correspondence and requests for materials should be addressed to Y.-W.C. (email: cyw@bjut.edu.cn) received: 16 January 2016 accepted: 05 April 2016 Published: 25 April 2016 OPEN www.nature.com/scientificreports/ 2 Scientific Reports | 6:24825 | DOI: 10.1038/srep24825 salinity5. Using halophilic bacteria overcomes the limits associated with saline wastewater, because these bacteria survive in natural niches containing 1–30% salinity12.
+- Using halophilic bacteria overcomes the limits associated with saline wastewater, because these bacteria survive in natural niches containing 1–30% salinity12. Unfortunately, biotechnology based on pure halophilic cultures doesn’t effectively treat real wastewater in pilot-scale applications because the metabolic pathways do not adjust well to complex wastewater compositions and the shock of organic loadings.
+- Most recently, a halophilic activated sludge system successfully started up and continuously operated for 140 days using inoculated estuarine sediments. This approach efficiently and stably removed total nitrogen from wastewater with 30 g/L salinity10.
+- This approach efficiently and stably removed total nitrogen from wastewater with 30 g/L salinity10. These studies highlight the potential applications associated with biologically treating hypersaline wastewater using an engineered halophilic mixed biomass.
+- This study focuses on the response of a mixed halophilic nitrifying system to salinity during a long-term experiment. Specific study objectives were to (1) investigate the effect of stepwise increased salinity ranging from 30–85 g/L on nitrification performance and kinetic, (2) establish the of mixed halophilic community succession patterns under different salinities and other operational factors, and (3) reveal the correlation between nitri- fication dynamics and halophilic community succession.
+- Specific study objectives were to (1) investigate the effect of stepwise increased salinity ranging from 30–85 g/L on nitrification performance and kinetic, (2) establish the of mixed halophilic community succession patterns under different salinities and other operational factors, and (3) reveal the correlation between nitri- fication dynamics and halophilic community succession. This understanding may support new engineering approaches to using mixed halophilic nitrifying communities in wastewater treatment.
+- Estuarine sediments were seeded in phase A to enrich the halophilic bacteria. In phases B to G, salinity increased in steps at a rate of 10 g/L or less.
+
+====================================================================================================
+### 10.1016/j.ese.2022.100211
+HEAD: Original Re earch
+Microbial electro ynthe i  of acetate from CO2 under hyper aline
+condition 
+Xiaoting Zhang a, b, Tyler Arbour b, Daijun Zhang c, Shiqiang Wei a, Korneel Rabaey b, d, *
+a College of Re ource  and Environment, Southwe t Univer ity, Chongqing, 400715, China
+b Center for Microbial Ecology and Technology (CMET), Ghent Univer ity, Coupure Link  653, 9000, Ghent, Belgium
+c State Key Laboratory of Coal Mine Di a ter Dynamic  and Control, Chongqing Univer ity, Chongqing, 400044, China
+d Center for Advanced Proce  Technology for Urban Re ource Recovery (CAPTURE), Frieda Saey traat 1, 9052, Ghent, Belgium
+a r t i c l e
+i n f o
+Article hi tory:
+Received 19 June 2022
+Received in revi ed form
+25 October 2022
+Accepted 25 October 2022
+Keyword :
+Carbon capture and utilization
+High  alin
+- Thus, the highest CE appeared at 40 g L1likely due to the decreased cell voltage and a presumably slight decrease in CO2 solubility at this salinity. The inhibited VFA production at higher salinity may also relate to the energy conser- vation because microbes may produce organic compatible solutes such as ectoine due to osmotic adaption [19,29].
+- The inhibited VFA production at higher salinity may also relate to the energy conser- vation because microbes may produce organic compatible solutes such as ectoine due to osmotic adaption [19,29]. In addition, when the salinity was no less than 45 g L1, a redox couple appeared during CV scan with an oxidative peak at approximately 0.71 V and reductive peak at 1.08 V.
+- Although high salinity can improve the energetic performance of bio- electrochemical systems, acetogenic processes under elevated salinity are poorly known. Here MES under 35e60 g L1 salinity was evaluated.
+- Here MES under 35e60 g L1 salinity was evaluated. Acetate production in two-chamber MES systems at 35 g L1 salinity (seawater composition) gradually decreased within 60 days, both under 1.2 V cathode potential (vs.
+- Acetate production in two-chamber MES systems at 35 g L1 salinity (seawater composition) gradually decreased within 60 days, both under 1.2 V cathode potential (vs.
+- Increasing the salinity step-wise from 35 to 60 g L1 gave the most efﬁcient acetate production at 40 g L1 salinity with average rates of acetate production and CO2 consumption at 4.56 ± 3.09 and 7.02 ± 4.75 g m2 d1, respectively.
+- Under high-salinity selection, 96.5% Acetobacterium dominated on the cathode along with 34.0% Sphaerochaeta in catholyte. This research provides a ﬁrst proof of concept that MES starting from CO2 reduction can be achieved at elevated salinity. © 2022 The Authors.
+- However, this system showed a limited capacity for VFA production at salinity levels of 25% and 10% along with a gradual decrease in reduction current [19]. Metal precipitates on the cathode were observed, but the impact of this precipitation on VFA production in the saline MES has not been revealed [19].
+- Metal precipitates on the cathode were observed, but the impact of this precipitation on VFA production in the saline MES has not been revealed [19]. Slightly higher titer was subsequently observed at a salinity level of 3.5% using the former cathode as the inoculum.
+- Slightly higher titer was subsequently observed at a salinity level of 3.5% using the former cathode as the inoculum. Genus Marinobacter and phylum Firmicutes were found to be dominant at all salinity levels examined, but no obvious acetogen was observed.
+- Another study further examined MES performance at the salinity of 3.5% using salt marshes and mangrove sediments as inocula together with synthetic red seawater as catholyte at the same cathode potential [20].
+- The present work investigated acetate production under saline conditions while assessing the impact and mechanism of scaling on MES. Reactors were operated stably for 137 days at the salinity of 35 g L1 (seawater salinity), after which the salinity was increased to 60 g L1 to study the MES performance under the elevated salinity.
+- Reactors were operated stably for 137 days at the salinity of 35 g L1 (seawater salinity), after which the salinity was increased to 60 g L1 to study the MES performance under the elevated salinity. The microbial community composition and its contribution to acetate production in the saline MES system were analyzed based on the 16S rRNA gene and quantitative polymerase chain reaction (qPCR) analyses.
+- MES setup and synthetic saline seawater Two-chambered MES reactors were used to study the impact of Ca2þ and Mg2þ ions on VFA production at 35 g L1 (seawater salinity), comprising the small (S-MES), and big MES systems (B- MES) with different sizes.
+- The salinity was constant at 35 g L1 in one of the three-chambered MES sys- tems (3C-Bc-MES), but was step-wise increased from 35 to 60 g L1 in the other (3CeBi-MES).
+- A saline homoacetogen medium was used as catholyte based on the ionic composition of Atlantic seawater [21] and the media used in previous MES research [22]. The saline catholyte with 35 g L1 salinity contained the following components (L1): 25.00 g NaCl, 2.50 g NaHCO3, 11.00 g MgCl2$6H2O, 1.55 g CaCl2$2H2O, 0.50 g KCl, 0.25 g NH4Cl, 0.20 g KH2PO4, 0.89 g NaBr, 2.5 mL mineral mixture [22], 2.5 mL vitamin mixture [22], and 1.0 mL tungstate-selenium solution [3].
+- The saline catholyte with 35 g L1 salinity contained the following components (L1): 25.00 g NaCl, 2.50 g NaHCO3, 11.00 g MgCl2$6H2O, 1.55 g CaCl2$2H2O, 0.50 g KCl, 0.25 g NH4Cl, 0.20 g KH2PO4, 0.89 g NaBr, 2.5 mL mineral mixture [22], 2.5 mL vitamin mixture [22], and 1.0 mL tungstate-selenium solution [3].
+- The attendant decrease in total salinity was compen- sated by adding NaCl. The catholyte used in 3CeBi-MES system had salinity levels of 35, 40, 45, 50, or 60 g L1 based on NaCl concen- trations of 30.57, 35.57, 40.57, 45.57, or 55.57 g L1, respectively.
+
+====================================================================================================
+### 10.1016/j.watres.2023.119620
+HEAD: HAL Id: hal-04186054
+http ://hal.inrae.fr/hal-04186054v1
+Submitted on 20 Sep 2023
+HAL i  a multi-di ciplinary open acce  archive
+for the depo it and di emination of  cientific re-
+ earch document , whether they are publi hed or not.
+The document  may come from teaching and re earch
+in titution  in France or abroad, or from public or pri-
+vate re earch center .
+L’archive ouverte pluridi ciplinaire HAL, e t de -
+tinée au dépôt et à la diffu ion de document   cien-
+tifique  de niveau recherche, publié  ou non, émanant
+de  établi ement  d’en eignement et de recherche
+françai  ou étranger , de  laboratoire  public  ou
+privé .
+HAL Authorization
+Side tream characteri tic  in water re ource recovery
+facilitie : A critical review
+Perrine Devo , Ahlem Filali, Paloma Grau, Sylvie Gillot
+To cite th
+- Only a high salt dosage can lead to residual iron or aluminium in the soluble phase. The addition of salts lead to a large variability of chloride (Cl-) concentration from one study to another.
+- The addition of salts lead to a large variability of chloride (Cl-) concentration from one study to another. This variability can be explained by different dose of salts or chemicals applied within the WRRF but also during disinfection of potable water or in sewers (Howe et al., 2012).
+- This variability can be explained by different dose of salts or chemicals applied within the WRRF but also during disinfection of potable water or in sewers (Howe et al., 2012).
+
+====================================================================================================
+### 10.1021/acs.est.6c05759
+HEAD: Adaptive Evolution Reveal  Metabolic Pla ticity and Functional
+Redundancy in an Anaerobic Microbiome under Extreme Ammonia
+Stre 
+Luca France cato, Gabriele Ghiotto,* Maria Chiara Valerin, Nicola De Bernardini, Sofia Fraulini,
+Annali a Sandon, Laura Treu, Maria Cri tina Lavagnolo, and Stefano Campanaro
+Cite Thi : Environ. Sci. Technol. 2026, 60, 24776−24791
+Read Online
+ACCESS
+Metric  & More
+Article Recommendation 
+*
+ ı
+Supporting Information
+ABSTRACT: Ammonia toxicity repre ent  a primary biochemical bottleneck governing microbial community  tructure and
+performance during the anaerobic dige tion of the organic fraction of municipal  olid wa te. However, the mechani tic ba i  of
+microbial adaptation to chronic ammonia level  remain  poorly characterized. In thi   tudy, a long-term  equenti
+- Microorganisms respond by trying to maintain homeostasis, exporting ions (K+, Na+) at the cost of ATP.2,16 Additionally, osmolytes such as glutamate, glutamine, glycine-betaine, and Nε-acetyl-L-lysine are produced to regulate ion balance, mitigate osmotic stress, and stabilize proteins by preventing denaturation or misfolding.17−20 The relative contribution of these homeostatic strategies, however, remains poorly resolved at the community level, and whether they are sustained through de novo biosynthesis or the energetically cheaper uptake of compatible solutes is a question directly addressed by the present study.
+- EV71) appeared to rely on glutamate accumulation, holding hutH, hutU, hutG, putA, and putB genes for conversion of histidine or proline into glutamate.72 Conversely, Virgibacillus promii EV40 was the only species encoding the biosynthetic machinery for glycine-betaine (i.e., gbsA and gbsB), which, once synthesized, can help balance cellular osmotic pressure and protect proteins from denaturation.19 Such diversification suggests niche specialization in osmoprotectant strategies.
+- In archaea, this protein is induced under salt stress and the product, N6-acetyl-beta-L-lysine, serves as a compatible solute, conferring high salt resistance to the producing organisms.73,74 In addition to this, the presence of an ABC- type quaternary amine transporter (ProVWX) suggests that the archaeon can mediate the high-affinity uptake of glycine-betaine from the extracellular space,75 thereby contributing to osmotic stress mitigation. These mechanisms combined are likely further supported by the activity of the Trk/Ktr potassium uptake system (trkA, trkH), which together enhances intracellular osmotic balance.
+- Compatible solute metabolism emerged as a key adaptive strategy under extreme NH3 stress. V. promii EV40 encoded the glycine-betaine biosynthetic pathway from choline (Figure 4C); however, this incomplete expression pattern indicates a potentially limited or condition-dependent capacity for glycine-betaine production.78 In parallel, the ProVWX transport system, responsible for glycine-betaine uptake, was highly expressed in dominant taxa, such as Tepidimicrobiaceae sp.
+- V. promii EV40 encoded the glycine-betaine biosynthetic pathway from choline (Figure 4C); however, this incomplete expression pattern indicates a potentially limited or condition-dependent capacity for glycine-betaine production.78 In parallel, the ProVWX transport system, responsible for glycine-betaine uptake, was highly expressed in dominant taxa, such as Tepidimicrobiaceae sp.
+- This suggests that extracellular glycine betaine, potentially derived by partial synthesis, alternative producers, or environmental sources, is actively assimilated by key community members, contributing to osmotic balance and enhancing resilience under high NH3 conditions. The uptake of compatible solutes represents an energetically favorable strategy compared with de novo synthesis, particularly under energy-limited conditions.
+- Key NH3 resistance mechanisms are also highlighted, including glutamate synthesis, glycine betaine uptake, and Na+/K+ based ion transport systems.
+- Finally, the observation that the dominant energetic cost under NH3 stress lies in osmotic and ion homeostasis rather than substrate degradation points to a directly testable intervention, supplementation of compatible solutes such as glycine betaine, to relieve part of this burden and help sustain CH4 yield.
+- Nε-Acetyl-β -Lysine or Glycine Betaine as Compatible Solutes in Response to Increasing Ammonia in Methanoculleus Sp Strains.
+- Identification of the Biosynthetic Pathway of Glycine Betaine Environmental Science & Technology pubs.acs.org/est Article https://doi.org/10.1021/acs.est.6c05759 Environ.
+- Previous studies have identified NH3- tolerant taxa, osmoadaptation strategies, and shifts toward SAO, yet the links between community turnover, metabolic reorganization, and transcriptional activity remain poorly resolved.
+- Similar taxonomic restructuring has been reported in NH3-adapted digesters, where elevated FAN concentrations act as a strong selective pressure favoring populations capable of maintaining metabolic activity under osmotic and energetic stress.62 By G10, the community was dominated by Tepidimicrobiaceae sp.
+- Members of this genus have been recovered from saline and anaerobic environments and possess physiological traits associated with tolerance to osmotic stress, which may have provided a competitive advantage under the combined NH3 and salt pressures imposed during the enrichment process,64,65 suggesting that the community restructuring at later stages was driven by a combination of NH3 and osmotic stress.
+- These mechanisms combined are likely further supported by the activity of the Trk/Ktr potassium uptake system (trkA, trkH), which together enhances intracellular osmotic balance.
+- As un-ionized NH3 diffuses across the cell membrane and becomes protonated to NH4 + inside the cell, cytoplasmic pH and osmotic balance are disrupted.
+- The robust activation of these bioenergetic systems suggests that critical energetic resources, such as ATP and reducing equivalents, were preferentially allocated to maintain- ing intracellular pH and osmotic balance over growth.76,77 Consistent with this, Tepidanaerobacteraceae sp.
+- The uptake of compatible solutes represents an energetically favorable strategy compared with de novo synthesis, particularly under energy-limited conditions. This pattern points to a shared osmoadaptation mechanism operating at the community level.
+- This pattern points to a shared osmoadaptation mechanism operating at the community level.
+
+====================================================================================================
+### 10.1021/acs.est.2c02081
+HEAD: Integrating Genome-Re olved Metagenomic  with Trait-Ba ed
+Proce  Modeling to Determine Biokinetic  of Di tinct Nitrifying
+Communitie  within Activated Sludge
+Pranav Sampara, Yaqian Luo, Xuan Lin, and Ryan M. Ziel *
+Cite Thi : Environ. Sci. Technol. 2022, 56, 11670−11682
+Read Online
+ACCESS
+Metric  & More
+Article Recommendation 
+*
+ ı
+Supporting Information
+ABSTRACT: Conventional bioproce  model  for wa tewater
+treatment are ba ed on aggregated bulk bioma  concentration 
+and do not incorporate microbial phy iological diver ity. Such a
+broad aggregation of microbial functional group  can fail to predict
+eco y tem dynamic  when high level  of phy iological diver ity
+exi t within trophic guild . For in tance, functional diver ity among
+nitrite-oxidizing bacteria (NOB) can obfu cate engineerin
+- Along these lines, it was recently reported that salinity impacted Nitrospira population structure in saline-alkaline lakes (1.3−12.8 g/L salinity).73 Previously, NOB have been reported to possess mechanisms for adaptation to such osmotic and oxidative stresses. For instance, in Nitrobacter winogradskyi, high salinity conditions (∼10 g Na+/L) caused an increased expression of proteins involved in osmotic and oxidative stress responses.74 Additionally, the marine Nitrospira marina can produce osmolytes, such as trehalose, to tolerate osmotic stress.45 Along these lines, three trehalose synthesis pathways were detected within the two Nitrospira_A MAGs recovered in this study, with high amino a
+- The elevated salinity levels during the side-stream incubation in this study (∼2.5 g NaCl/L) compared to the mainstream conditions could have induced both osmotic and oxidative stress in the NOB. Along these lines, it was recently reported that salinity impacted Nitrospira population structure in saline-alkaline lakes (1.3−12.8 g/L salinity).73 Previously, NOB have been reported to possess mechanisms for adaptation to such osmotic and oxidative stresses.
+- For instance, in Nitrobacter winogradskyi, high salinity conditions (∼10 g Na+/L) caused an increased expression of proteins involved in osmotic and oxidative stress responses.74 Additionally, the marine Nitrospira marina can produce osmolytes, such as trehalose, to tolerate osmotic stress.45 Along these lines, three trehalose synthesis pathways were detected within the two Nitrospira_A MAGs recovered in this study, with high amino acid identities shared among many enzymes in those pathways (Text S6), indicating their similar potential for the production of trehalose as an osmolyte. In contrast, no mechanism for trehalose synthesis was found in Ca.
+- In contrast, no mechanism for trehalose synthesis was found in Ca.
+- With the applied out-selection pressure established in this study involving exposure to high FA levels under relatively high salinity and nonaerated conditions for 24 h, these identified accessory metabolic functions in the Nitrospira_A MAGs could have provided additional growth strategies that contributed to their observed increased abundance in the treatment reactor over time (Figure 2D).
+- The integration of large microbial molecular datasets with process rate measurements remains a hurdle that obfuscates linkages between microbial community composition and function with ecosystem dynamics in many environments.23 Resolving microbial growth strategies and physiological traits and incorporating that information into ecosystem models has been proposed as a solution to this grand challenge.23 While demonstrated approaches to establish mechanistic linkages between measurements of microbial physiology, molecular datasets, and ecosystem dynamics for mixed communities remain sparse,8−10 the approach is gaining popularity.23 Our genome-resolved metabolic reconstructions indicated that 
+- We propose that the decrease in the relative abundance of Nitrospira_D and replacement by Nitrospira_A during the applied out-selection pressure in the treatment reactor was attributed to the lack of mechanisms to abate osmotic and salinity stresses in Nitrospira_D, leading to their more rapid decay, as well as potential growth on formate and nitrate by Nitrospira_A during the unaerated sludge treatment.
+- Metabolic and Proteomic Responses to Salinity in Synthetic Nitrifying Communities of Nitrosomonas Spp. and Nitrobacter Spp.
+
+====================================================================================================
+### 10.1016/j.watres.2023.120824
+HEAD: 1 
+ 
+ Sulphate reduction, mixed  ulphide- and thio ulphate-driven Autotrophic 
+1 
+denitrification, NItrification, and Anammox integrated (SANIA) proce  
+2 
+for  u tainable wa tewater treatment  
+3 
+Chu-Kuan Jianga, Yang-Fan Denga,b, Zou Xua, Buddhima Siriweeraa, Di Wua,c,d*, Guang-Hao Chena,b* 
+4 
+a. Department of Civil and Environmental Engineering, Water Technology Centre, Hong Kong 
+5 
+Branch of Chine e National Engineering Re earch Centre for Control & Treatment of Heavy 
+6 
+Metal Pollution, The Hong Kong Univer ity of Science and Technology, Hong Kong, China. 
+7 
+b. Wa tewater Treatment Laboratory, Fok Ying Tung Graduate School, The Hong Kong Univer ity 
+8 
+of Science and Technology, Guangzhou, China. 
+9 
+c. Centre for Environment and Energy Re earch, Ghent Univer ity Global Campu , 
+
+====================================================================================================
+### 10.1016/j.watres.2025.123663
+HEAD: Differential ion tran port and bioma  charge  create  trong electric field  
+in anammox granule 
+Matteo Tucci a, Federico Aulenta a,b
+, Mie Mai Corneliu en c, Lui  F.M. Ro a d
+,  
+Cri tian Picioreanu d
+, Ugo Marzocchi c,e,*
+a Water Re earch In titute (IRSA), National Re earch Council (CNR), 00010 Montelibretti, RM, Italy
+b National Biodiver ity Future Center, Palermo 90133, Italy
+c Center for Water Technology (WATEC), Department of Biology, Aarhu  Univer ity, Aarhu , Denmark
+d Environmental Science and Engineering (EnSE), Biological and Environmental Science and Engineering (BESE), King Abdullah Univer ity of Science and Technology 
+(KAUST), Thuwal, Saudi Arabia
+e Center for Electromicrobiology (CEM), Department of Biology, Aarhu  Univer ity, Aarhu , Denmark
+A R T I C L E I N F O
+Keyword
+
+====================================================================================================
+### 10.1016/j.cej.2021.132772  [MISSING]
+
+
+####################################################################################################
+# GENOMICS/STRAIN PAPERS (heads + strain/salt lines)
+####################################################################################################
+
+====================================================================================================
+### 10.1038/s41467-020-16016-y
+HEAD: ARTICLE
+Extracellular electron tran fer-dependent anaerobic
+oxidation of ammonium by anammox bacteria
+Dario R. Shaw1, Muhammad Ali1, Kri hna P. Katuri1, Jeffrey A. Gralnick
+2, Joachim Reimann3, Rob Me man
+3,
+Laura van Niftrik
+3, Mike S. M. Jetten3 & Pa cal E. Saikaly
+1✉
+Anaerobic ammonium oxidation (anammox) bacteria contribute  igniﬁcantly to the global
+nitrogen cycle and play a major role in  u tainable wa tewater treatment. Anammox bacteria
+convert ammonium (NH4+) to dinitrogen ga  (N2) u ing intracellular electron acceptor   uch
+a  nitrite (NO2−) or nitric oxide (NO). However, it i   till unknown whether anammox
+bacteria have extracellular electron tran fer (EET) capability with tran fer of electron  to
+in oluble extracellular electron acceptor . Here we  how that fre hwater and marine ana-
+mmox bacteria couple the oxidation of NH4+ with tran fer of electron  to in oluble extra-
+cell
+
+====================================================================================================
+### 10.1038/ncomms15416
+HEAD: ARTICLE
+Received 21 Sep 2016 | Accepted 23 Mar 2017 | Publi hed 31 May 2017
+Metabolic network analy i  reveal  microbial
+community interaction  in anammox granule 
+Chri topher E. Law on1, Sha Wu2, Ananda S. Bhattacharjee2, Jo hua J. Hamilton3, Katherine D. McMahon1,3,
+Rame h Goel2 & Daniel R. Noguera1,4
+Microbial communitie  mediating anaerobic ammonium oxidation (anammox) repre ent one
+of the mo t energy-efﬁcient environmental biotechnologie  for nitrogen removal from
+wa tewater. However, little i  known about the functional role heterotrophic bacteria play in
+anammox granule . Here, we u e genome-centric metagenomic  to recover 17 draft genome 
+of anammox and heterotrophic bacteria from a laboratory- cale anammox bioreactor. We
+combine metabolic network recon truction with metatran criptomic  to examine the gene
+expre ion of anammox and heterotrophic bacteria and to identify their pot
+
+====================================================================================================
+### 10.1038/s41467-024-54805-x
+HEAD: Article
+http ://doi.org/10.1038/ 41467-024-54805-x
+Pilot- cale implementation of main tream
+anammox for municipal wa tewater
+treatment again t cold temperature
+Qi Zhao
+, Yongzhen Peng
+, Jianwei Li, Tipei Jia, Qiong Zhang &
+Liang Zhang
+Applying anammox to municipal wa tewater treatment promi e  enormou 
+energy and re ource  aving ; however,  ea onally cold condition  po e a
+con iderable challenge, impeding it  future application  toward  non-tropical
+region . In thi   tudy, we e tabli h a pilot- cale wa tewater treatment plant (50
+m3/d) in northern China and implement the partial denitriﬁcation coupling
+anammox proce  on actual municipal wa tewater. De pite  ea onal cooling,
+the nitrogen removal efﬁciency remain  high, ranging from 75.0 ± 4.6% at
+27.8–20.0 °C to 70.4 ± 4.5% at 10–7.5 °C. Thi  proce  exhibit  remarkable low-
+temperature tolerance, achieving an in- itu anammox rate of 32.
+- Besides, the NO2 - supply of the PD process exhibited remarkable tolerance against adverse conditions, such as ﬂuctuating inﬂuent load, soluble chemical oxygen demand (sCOD) to total inor- ganic nitrogen (TIN) ratio (C/N ratio, 2.5–5.0), pH value (5.0–9.0), and salinity (0.1–10 g/L)28–31.
+- C-N-S synergy in a pilot-scale mainstream anammox ﬂuidized-bed membrane bioreactor for treating chemically enhanced primary treatment saline sewage.
+- A novel process of salt tolerance partial denitriﬁcation and anammox (ST-PDA) for treating saline wastewater.
+
+====================================================================================================
+### 10.1038/s41396-023-01388-y
+HEAD: ARTICLE
+OPEN
+Surface-layer protein i  a public-good matrix exopolymer for
+microbial community organi ation in environmental anammox
+bioﬁlm 
+Lan Li Wong
+1,2, Yang Lu
+3, Jame  Chin Shing Ho1, Sudar an Mugunthan1,2, Yingyu Law1, Patricia Conway1,4,
+Staffan Kjelleberg
+1,2,4✉and Thoma  Seviour
+1,5✉
+© The Author( ) 2023
+Extracellular polymeric  ub tance  (EPS) are core bioﬁlm component , yet how they mediate interaction  within and contribute to
+the  tructuring of bioﬁlm  i  largely unknown, particularly for non-culturable microbial communitie  that predominate in
+environmental habitat . To addre  thi  knowledge gap, we explored the role of EPS in an anaerobic ammonium oxidation
+(anammox) bioﬁlm. An extracellular glycoprotein, BROSI_A1236, from an anammox bacterium, formed envelope  around the
+anammox cell ,  upporting it  identiﬁcation a  a  urface (S-) layer protein. However, the S-layer pr
+- MATERIALS AND METHODS Anammox granules cryosection Anammox granules collected freshly from a bioreactor [35] were washed twice with 1x phosphate buffer saline (PBS, 137 mM NaCl, 2.7 mM KCl, 10 mM Na2HPO4, and 1.8 mM KH2PO4, pH7.4) followed by ﬁxation with 4% paraformaldehyde (PFA) overnight.
+
+====================================================================================================
+### 10.1038/s41467-024-52364-9
+HEAD: Article
+http ://doi.org/10.1038/ 41467-024-52364-9
+Strategy to mitigate  ub trate inhibition in
+wa tewater treatment  y tem 
+Beiying Li1, Conghe Liu1, Jingjing Bai1, Yikun Huang1, Run Su1, Yan Wei2 &
+Bin Ma
+1
+Global urbanization require  more  table and  u tainable wa tewater treat-
+ment to reduce the burden on the water environment. To addre  the problem
+of  ub trate inhibition of microorgani m  during wa tewater treatment, which
+lead  to un table wa tewater di charge, thi   tudy propo e  an approach to
+enhance the tolerance of bacterial community by artiﬁcially  etting up a non-
+lethal high  ub trate environment. And the fea ibility of thi  approach wa 
+explored by taking the inhibition of anammox proce  by nitrite a  an example.
+It wa   hown that the non-lethal high  ub trate environment could enhance
+the nitrite tolerance of anammox bacterial community, a  the  peciﬁc ana-
+mmox act
+- Typical community structure and functional genes of anammox and changes in the effects of saline wastewaters: A cri- tical review.
+
+====================================================================================================
+### 10.1038/s41598-022-26069-2
+HEAD: 1
+Vol.:(0123456789)
+Scientific Report  |        (2022) 12:21720  
+| http ://doi.org/10.1038/ 41598-022-26069-2
+www.nature.com/ cientificreport 
+Controlling anammox  peciation 
+and biofilm attachment  trategy 
+u ing N‑biotran formation 
+intermediate  and organic carbon 
+level 
+Yang Lu 1,5,7, Gayathri Natarajan 1,7, Thi Quynh Ngoc Nguyen 1,6, Sara Swa Thi 1, 
+Krithika Arumugam 1, Thoma  Seviour 1,2*, Rohan B. H. William  3, Stefan Wuertz 1,4 & 
+Yingyu Law 1
+Conventional nitrogen removal in wa tewater treatment require  a high oxygen and energy input. 
+Anaerobic ammonium oxidation (anammox), the  ingle- tep conver ion of ammonium and nitrite 
+to nitrogen ga , i  a more energy and co t effective alternative applied exten ively to  ide tream 
+wa tewater treatment. It would al o be a main tream treatment option if  pecie  diver ity and 
+phy iology were better under tood. Anammox bacteria were 
+- After washing with 1 × phosphate-buffered saline (PBS, 130 mM sodium chlo- ride, 10 mM sodium phosphate buffer, pH 7.2), the biomass samples were stored with 1:1 100% ethanol:1 × PBS at − 20 °C.
+
+====================================================================================================
+### 10.1038/srep40173
+HEAD: 1
+Scientific Report  | 7:40173 | DOI: 10.1038/ rep40173
+www.nature.com/ cientificreport 
+Nitrogen lo  by anaerobic 
+ammonium oxidation in  
+unconfined aquifer  oil 
+Shanyun Wang1, Dirk Radny2, Shuangbing Huang3, Linjie Zhuang1, Siyan Zhao1, 
+Michael Berg2, Mike S. M. Jetten4 & Guibing Zhu1,5
+Anaerobic ammonium oxidation (anammox) i  recognized a  an important proce  for nitrogen cycling, 
+yet little i  known about it  role in the  ub urface bio phere. In thi   tudy, we inve tigated the pre ence, 
+abundance, and role of anammox bacteria in upland  oil core  from Tianjin, China (20 m depth) and 
+Ba el, Switzerland (10 m depth), u ing i otope-tracing technique , (q)PCR a ay , and 16 S rRNA & hz B 
+gene clone librarie , along with nutrient profile  of  oil core  ample . Anammox in the phreatic (water-
+ aturated) zone contributed to 37.5–67.6% of the N-lo  (up to 0.675 gN m−2 d−1), with a
+
+====================================================================================================
+### 10.1038/s41545-024-00385-8
+HEAD: npj | clean water
+Review article
+Publi hed in partner hip with King Fahd Univer ity of Petroleum & Mineral 
+http ://doi.org/10.1038/ 41545-024-00385-8
+The enhancement of anammox by
+graphene-ba ed and iron-ba ed
+nanomaterial  in performance and
+mechani m 
+Check for update 
+Shu Wang1, Kaoming Zhang1, Yu Miao
+2,3
+& Zhu Wang1
+Anaerobic ammonium oxidation (anammox) i  a co t-effective biological nitrogen removal
+technology, yet it  time-con uming  tart-up and  igniﬁcant environmental  en itivity are major
+barrier  to it  wide pread u e. Nonethele , nanotechnology could provide an innovative approach to
+addre  the e challenge , and particularly, graphene-ba ed and iron-ba ed nanomaterial  have
+ hown remarkable re ult . Graphene-ba ed nanomaterial  are beneﬁcial due to their va t  peciﬁc
+ urface area,  uperior electrical conductivity, and  trong biocompatibility, while iron-ba ed
+nanomaterial
+- Synergies of chemodenitriﬁcation and denitriﬁcation in a saline inland lake.
+
+====================================================================================================
+### 10.1038/srep28327
+HEAD: 1
+Scientific Report  | 6:28327 | DOI: 10.1038/ rep28327
+www.nature.com/ cientificreport 
+Metatran criptomic  reveal  the 
+molecular mechani m of large 
+granule formation in granular 
+anammox reactor
+Samik Bagchi1,†, Regina Lamendella2, Steven Strutt2,‡, Mark C. M. Van Loo drecht3 & 
+Pa cal E. Saikaly1
+Granule  enriched with anammox bacteria are e ential in enhancing the treatment of ammonia-rich 
+wa tewater, but little i  known about how anammox bacteria grow and multiply in ide granule . 
+Here, we combined metatran criptomic , quantitative PCR and 16S rRNA gene  equencing to  tudy 
+the change  in community compo ition, metabolic gene content and gene expre ion in a granular 
+anammox reactor with the objective of under tanding the molecular mechani m of anammox growth 
+and multiplication that led to formation of large granule . Size di tribution analy i  revealed the  patial 
+di tribut
+- Fractions of samples (5 mL each) were fixed immediately in 2% (w/v) paraformalde- hyde/phosphate buffer saline pH 7-2-7-4 (fixation buffer) for granule size characterization and scanning electron microscopy (SEM).
+
+====================================================================================================
+### 10.1038/s41598-020-72577-4
+HEAD: 1
+Vol.:(0123456789)
+Scientific Report  |        (2020) 10:15648  
+| http ://doi.org/10.1038/ 41598-020-72577-4
+www.nature.com/ cientificreport 
+A novel univer al primer pair 
+for prokaryote  with improved 
+performance  for anammox 
+containing communitie 
+Lorenzo Mazzoli1, Giulio Munz2, Tomma o Lotti2 & Matteo Ramazzotti1*
+Abundance profiling via 16S rRNA targeted next generation  equencing (NGS) i  a common procedure 
+to characterize mixture  of prokaryotic population  inhabiting an environment. Depending on 
+the variable region/  addre ed, different map  can be obtained due to their different information 
+content. In thi  work, we focu ed on wa tewater microbial communitie  and we compared  everal 
+recently developed univer al primer  that addre ed region  V1-V3, V3-V4 and V4. They all proved to 
+have good performance over a wide range of microbial phyla, but the phylum Planctomycete

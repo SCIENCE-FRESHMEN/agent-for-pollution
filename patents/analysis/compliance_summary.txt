@@ -1,0 +1,15 @@
+MISSING TXT: ['CN102770542A']
+TOTAL 409
+VERDICT 纳入 239
+VERDICT 无法校验(扫描件无文本层) 110
+VERDICT 剔除 60
+
+COUNTRY(all files): {'CN': 195, 'US': 59, 'JP': 46, 'EP': 25, 'WO': 23, 'KR': 16, 'HK': 12, 'DE': 7, 'CA': 6, 'ES': 5, 'BR': 4, 'TW': 4, 'AU': 2, 'NZ': 2, 'AT': 1, 'RO': 1, 'RU': 1}
+
+PASS count: 239
+PASS criteria: {'EN完整词组命中': 102, '中文等价术语命中(相容性溶质)': 122, 'EN词组+中文术语均命中': 8, '欧语等价术语命中(DE)': 6, '欧语等价术语命中(FR)': 1}
+PASS by country: {'CN': 127, 'US': 52, 'EP': 25, 'DE': 7, 'HK': 7, 'JP': 7, 'KR': 6, 'ES': 4, 'NZ': 2, 'AU': 1, 'WO': 1}
+PASS by theme: {'溶质生产/发酵/酶法': 147, '农业/植物抗逆': 146, '医药制剂/蛋白稳定': 123, '皮肤/化妆品': 111, '食品/饲料/防腐': 90, '废水/环境工程': 62, '眼科应用': 27, '日化/口腔/洗护': 26, '细胞/组织/器官保存': 6}
+PASS solutes: {'ectoine': 76, 'betaine(unspecified)': 74, '四氢嘧啶/tetrahydropyrimidine(中文语境)': 71, 'trehalose': 68, 'proline': 51, 'sorbitol': 50, 'mannitol': 43, 'glycine betaine': 35, 'carnitine': 17, 'hydroxyectoine': 16, 'xylitol': 15, 'mannosylglycerol': 14, 'di-myo-inositol-phosphate': 13, 'dimsqrt': 8, 'firoin': 7}
+
+SINGLE-WORD-ONLY (excluded, rule violators):
